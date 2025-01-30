@@ -1,0 +1,240 @@
+=== [gen91v1] DGPT garchomp, spectrier, urshifu-single-strike; temp: 2; k: Dynamic === 
+
+AI mon 1 (garchomp) @ Haban Berry 
+Ability: Rough Skin 
+EVs: 252 atk / 16 spd / 240 spe 
+Jolly Nature 
+- Outrage 
+- Earthquake 
+- Scale Shot 
+- Swords Dance 
+
+AI mon 2 (spectrier) @ Life Orb 
+Ability: Grim Neigh 
+EVs: 48 hp / 96 def / 172 spa / 192 spe 
+Timid Nature 
+- Will-O-Wisp 
+- Hex 
+- Calm Mind 
+- Hyper Beam 
+
+AI mon 3 (urshifu-single-strike) @ Black Glasses 
+Ability: Unseen Fist 
+EVs: 248 hp / 80 atk / 180 def 
+Impish Nature 
+- Wicked Blow 
+- Close Combat 
+- Sucker Punch 
+- Bulk Up 
+
+
+=== [gen91v1] DGPT iron-valiant, kyurem, heatran; temp: 2; k: Dynamic === 
+
+AI mon 1 (iron-valiant) @ Booster Energy 
+Ability: Quark Drive 
+EVs: 252 hp / 148 def / 60 spd / 48 spe 
+Jolly Nature 
+- Spirit Break 
+- Encore 
+- Disable 
+- Protect 
+
+AI mon 2 (kyurem) @ Choice Scarf 
+Ability: Pressure 
+EVs: 252 spa / 4 spd / 252 spe 
+Modest Nature 
+- Draco Meteor 
+- Ice Beam 
+- Flash Cannon 
+- Freeze-Dry 
+
+AI mon 3 (heatran) @ Custap Berry 
+Ability: Flash Fire 
+EVs: 216 hp / 40 def / 252 spa 
+Modest Nature 
+- Overheat 
+- Flash Cannon 
+- Rock Tomb 
+- Endure 
+
+
+=== [gen91v1] DGPT urshifu-single-strike, kyurem, primarina; temp: 2; k: Dynamic === 
+
+AI mon 1 (urshifu-single-strike) @ Assault Vest 
+Ability: Unseen Fist 
+EVs: 252 hp / 52 atk / 84 def / 120 spd 
+Adamant Nature 
+- Wicked Blow 
+- Close Combat 
+- Sucker Punch 
+- Counter 
+
+AI mon 2 (kyurem) @ Choice Scarf 
+Ability: Pressure 
+EVs: 252 spa / 4 spd / 252 spe 
+Modest Nature 
+- Draco Meteor 
+- Ice Beam 
+- Flash Cannon 
+- Freeze-Dry 
+
+AI mon 3 (primarina) @ Custap Berry 
+Ability: Torrent 
+EVs: 144 hp / 216 def / 148 spa 
+Modest Nature 
+- Hydro Cannon 
+- Moonblast 
+- Endure 
+- Encore 
+
+
+=== [gen91v1] DGPT heatran, roaring-moon, cresselia; temp: 2; k: Dynamic === 
+
+AI mon 1 (heatran) @ Choice Specs 
+Ability: Flash Fire 
+EVs: 252 hp / 252 spa / 4 spd 
+Modest Nature 
+- Overheat 
+- Earth Power 
+- Flash Cannon 
+- Dragon Pulse 
+
+AI mon 2 (roaring-moon) @ Weakness Policy 
+Ability: Protosynthesis 
+EVs: 252 atk / 4 def / 252 spe 
+Adamant Nature 
+- Night Slash 
+- Focus Energy 
+- Outrage 
+- Endure 
+
+AI mon 3 (cresselia) @ Leftovers 
+Ability: Levitate 
+EVs: 248 hp / 252 def / 8 spe 
+Bold Nature 
+- Psyshock 
+- Calm Mind 
+- Moonlight 
+- Substitute 
+
+
+=== [gen91v1] DGPT porygon-z, rillaboom, diancie; temp: 2; k: Dynamic === 
+
+AI mon 1 (porygon-z) @ Choice Specs 
+Ability: Adaptability 
+EVs: 156 hp / 44 def / 172 spa / 136 spe 
+Modest Nature 
+- Hyper Beam 
+- Uproar 
+- Dark Pulse 
+- Thunderbolt 
+
+AI mon 2 (rillaboom) @ Life Orb 
+Ability: Grassy Surge 
+EVs: 168 hp / 252 atk / 32 spd / 56 spe 
+Adamant Nature 
+- Wood Hammer 
+- Grassy Glide 
+- Knock Off 
+- Swords Dance 
+
+AI mon 3 (diancie) @ Weakness Policy 
+Ability: Clear Body 
+EVs: 240 hp / 16 atk / 208 def / 44 spd 
+Relaxed Nature 
+- Diamond Storm 
+- Play Rough 
+- Trick Room 
+- Encore 
+
+
+=== [gen91v1] DGPT diancie, great-tusk, hoopa-unbound; temp: 2; k: Dynamic === 
+
+AI mon 1 (diancie) @ Weakness Policy 
+Ability: Clear Body 
+EVs: 248 hp / 132 def / 124 spd 
+Sassy Nature 
+- Diamond Storm 
+- Moonblast 
+- Trick Room 
+- Encore 
+
+AI mon 2 (great-tusk) @ Choice Band 
+Ability: Protosynthesis 
+EVs: 252 atk / 4 spd / 252 spe 
+Adamant Nature 
+- Headlong Rush 
+- Close Combat 
+- Supercell Slam 
+- Ice Spinner 
+
+AI mon 3 (hoopa-unbound) @ White Herb 
+Ability: Magician 
+EVs: 8 hp / 152 atk / 104 def / 244 spe 
+Adamant Nature 
+- Hyperspace Fury 
+- Gunk Shot 
+- Thunderbolt 
+- Fire Punch 
+
+
+=== [gen91v1] DGPT ninetales-alola, corviknight, ogerpon-wellspring; temp: 2; k: Dynamic === 
+
+AI mon 1 (ninetales-alola) @ Leftovers 
+Ability: Snow Warning 
+EVs: 216 hp / 40 def / 252 spe 
+Timid Nature 
+- Moonblast 
+- Protect 
+- Encore 
+- Disable 
+
+AI mon 2 (corviknight) @ Leftovers 
+Ability: Pressure 
+EVs: 200 hp / 56 spd / 252 spe 
+Timid Nature 
+- Substitute 
+- Protect 
+- Taunt 
+- Roost 
+
+AI mon 3 (ogerpon-wellspring) @ Wellspring Mask 
+Ability: Water Absorb 
+EVs: 240 hp / 16 def / 252 spe 
+Jolly Nature 
+- Leech Seed 
+- Substitute 
+- Spiky Shield 
+- Ivy Cudgel 
+
+
+=== [gen91v1] DGPT manaphy, roaring-moon, landorus-incarnate; temp: 2; k: Dynamic === 
+
+AI mon 1 (manaphy) @ Mental Herb 
+Ability: Hydration 
+EVs: 248 hp / 244 spa / 16 spe 
+Modest Nature 
+- Surf 
+- Energy Ball 
+- Ice Beam 
+- Tail Glow 
+
+AI mon 2 (roaring-moon) @ Weakness Policy 
+Ability: Protosynthesis 
+EVs: 252 atk / 4 def / 252 spe 
+Adamant Nature 
+- Night Slash 
+- Focus Energy 
+- Outrage 
+- Endure 
+
+AI mon 3 (landorus-incarnate) @ Life Orb 
+Ability: Sheer Force 
+EVs: 4 atk / 252 spa / 252 spe 
+Naive Nature 
+- Smack Down 
+- Earth Power 
+- Sludge Wave 
+- Psychic 
+
+

@@ -1,0 +1,240 @@
+=== [gen71v1] DGPT registeel, manaphy, charizard-mega-x; temp: 1; k: 14 === 
+
+AI mon 1 (registeel) @ Leftovers 
+Ability: Clear Body 
+EVs: 252 hp / 60 def / 196 spd 
+Calm Nature 
+- Iron Defense 
+- Amnesia 
+- Seismic Toss 
+- Rest 
+
+AI mon 2 (manaphy) @ Wiki Berry 
+Ability: Hydration 
+EVs: 252 hp / 4 spd / 252 spe 
+Timid Nature 
+- Calm Mind 
+- Acid Armor 
+- Scald 
+- Rest 
+
+AI mon 3 (charizard-mega-x) @ Charizardite X 
+Ability: Tough Claws 
+EVs: 252 hp / 56 atk / 200 def 
+Adamant Nature 
+- Dragon Dance 
+- Outrage 
+- Flare Blitz 
+- Counter 
+
+
+=== [gen71v1] DGPT primarina, crustle, medicham-mega; temp: 1; k: 14 === 
+
+AI mon 1 (primarina) @ Primarium Z 
+Ability: Torrent 
+EVs: 252 hp / 240 def / 12 spa / 4 spd 
+Relaxed Nature 
+- Sparkling Aria 
+- Moonblast 
+- Substitute 
+- Aqua Jet 
+
+AI mon 2 (crustle) @ Normalium Z 
+Ability: Shell Armor 
+EVs: 248 hp / 72 def / 188 spd 
+Impish Nature 
+- Iron Defense 
+- Confide 
+- Rest 
+- Rock Slide 
+
+AI mon 3 (medicham-mega) @ Medichamite 
+Ability: Pure Power 
+EVs: 52 hp / 252 atk / 4 spd / 200 spe 
+Adamant Nature 
+- Fake Out 
+- High Jump Kick 
+- Zen Headbutt 
+- Poison Jab 
+
+
+=== [gen71v1] DGPT tapu-bulu, dragonite, gyarados-mega; temp: 1; k: 14 === 
+
+AI mon 1 (tapu-bulu) @ Grassium Z 
+Ability: Grassy Surge 
+EVs: 240 hp / 8 atk / 124 spd / 136 spe 
+Adamant Nature 
+- Wood Hammer 
+- Taunt 
+- Swords Dance 
+- Rock Tomb 
+
+AI mon 2 (dragonite) @ Dragonium Z 
+Ability: Multiscale 
+EVs: 192 hp / 120 atk / 28 def / 168 spe 
+Adamant Nature 
+- Outrage 
+- Dragon Dance 
+- Extreme Speed 
+- Superpower 
+
+AI mon 3 (gyarados-mega) @ Gyaradosite 
+Ability: Intimidate 
+EVs: 248 hp / 72 atk / 28 def / 16 spd / 144 spe 
+Adamant Nature 
+- Taunt 
+- Dragon Dance 
+- Earthquake 
+- Crunch 
+
+
+=== [gen71v1] DGPT heracross-mega, dragonite, aggron; temp: 1; k: 14 === 
+
+AI mon 1 (heracross-mega) @ Heracronite 
+Ability: Guts 
+EVs: 248 hp / 20 atk / 88 def / 152 spd 
+Impish Nature 
+- Close Combat 
+- Bullet Seed 
+- Pin Missile 
+- Counter 
+
+AI mon 2 (dragonite) @ Dragonium Z 
+Ability: Multiscale 
+EVs: 240 hp / 252 spa / 16 spd 
+Quiet Nature 
+- Draco Meteor 
+- Extreme Speed 
+- Fire Blast 
+- Earthquake 
+
+AI mon 3 (aggron) @ Aggronite 
+Ability: Sturdy 
+EVs: 252 hp / 252 atk / 4 def 
+Adamant Nature 
+- Heavy Slam 
+- Rock Slide 
+- Avalanche 
+- Metal Burst 
+
+
+=== [gen71v1] DGPT charizard-mega-y, porygon2, pheromosa; temp: 1; k: 14 === 
+
+AI mon 1 (charizard-mega-y) @ Charizardite Y 
+Ability: Drought 
+EVs: 240 hp / 92 spd / 176 spe 
+Timid Nature 
+- Air Slash 
+- Solar Beam 
+- Blast Burn 
+- Substitute 
+
+AI mon 2 (porygon2) @ Choice Specs 
+Ability: Trace 
+EVs: 248 hp / 184 def / 76 spa 
+Modest Nature 
+- Hyper Beam 
+- Shadow Ball 
+- Thunderbolt 
+- Ice Beam 
+
+AI mon 3 (pheromosa) @ Choice Specs 
+Ability: Beast Boost 
+EVs: 252 spa / 4 spd / 252 spe 
+Modest Nature 
+- Bug Buzz 
+- Ice Beam 
+- Hyper Beam 
+- hidden-power-[electric] 
+
+
+=== [gen71v1] DGPT archeops, magearna, charizard-mega-y; temp: 1; k: 14 === 
+
+AI mon 1 (archeops) @ Choice Band 
+Ability: Defeatist 
+EVs: 252 atk / 4 def / 252 spe 
+Jolly Nature 
+- Head Smash 
+- Fly 
+- Outrage 
+- Earthquake 
+
+AI mon 2 (magearna) @ Choice Specs 
+Ability: Soul-Heart 
+EVs: 100 hp / 152 spa / 4 spd / 252 spe 
+Modest Nature 
+- Flash Cannon 
+- Fleur Cannon 
+- Thunderbolt 
+- hidden-power-[fire] 
+
+AI mon 3 (charizard-mega-y) @ Charizardite Y 
+Ability: Drought 
+EVs: 232 def / 60 spa / 216 spe 
+Modest Nature 
+- hidden-power-[electric] 
+- Solar Beam 
+- Blast Burn 
+- Air Slash 
+
+
+=== [gen71v1] DGPT slowbro-mega, landorus-therian, genesect; temp: 1; k: 14 === 
+
+AI mon 1 (slowbro-mega) @ Slowbronite 
+Ability: Oblivious 
+EVs: 252 hp / 4 def / 252 spd 
+Calm Nature 
+- Iron Defense 
+- Amnesia 
+- Slack Off 
+- Scald 
+
+AI mon 2 (landorus-therian) @ Groundium Z 
+Ability: Intimidate 
+EVs: 64 atk / 196 def / 248 spe 
+Jolly Nature 
+- Swords Dance 
+- Grass Knot 
+- Earthquake 
+- Rock Tomb 
+
+AI mon 3 (genesect) @ Choice Band 
+Ability: Download 
+EVs: 252 atk / 4 spd / 252 spe 
+Jolly Nature 
+- Iron Head 
+- Gunk Shot 
+- Zen Headbutt 
+- X-Scissor 
+
+
+=== [gen71v1] DGPT gyarados-mega, charizard-mega-x, zeraora; temp: 1; k: 14 === 
+
+AI mon 1 (gyarados-mega) @ Gyaradosite 
+Ability: Mold Breaker 
+EVs: 248 hp / 60 atk / 96 def / 104 spe 
+Adamant Nature 
+- Dragon Dance 
+- Waterfall 
+- Outrage 
+- Crunch 
+
+AI mon 2 (charizard-mega-x) @ Charizardite X 
+Ability: Blaze 
+EVs: 232 hp / 232 spd / 44 spe 
+Jolly Nature 
+- Flame Charge 
+- Outrage 
+- Flare Blitz 
+- Dragon Dance 
+
+AI mon 3 (zeraora) @ Electrium Z 
+Ability: Volt Absorb 
+EVs: 48 hp / 252 atk / 120 def / 88 spe 
+Jolly Nature 
+- Fake Out 
+- Bulk Up 
+- Plasma Fists 
+- Outrage 
+
+

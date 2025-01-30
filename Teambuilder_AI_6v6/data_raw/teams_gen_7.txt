@@ -1,0 +1,8763 @@
+=== [gen7ou] lo clef virginity ===
+Latias-Mega (F) @ Latiasite  
+Ability: Levitate  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Reflect  
+- Thunder  
+- Ice Beam  
+- Roost  
+
+Gliscor (M) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 248 HP / 64 Def / 172 SpD / 24 Spe  
+Jolly Nature  
+- Swords Dance  
+- Earthquake  
+- Knock Off  
+- Roost  
+
+Magearna @ Leftovers  
+Ability: Soul-Heart  
+EVs: 248 HP / 28 Def / 16 SpA / 160 SpD / 56 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Fleur Cannon  
+- Thunderbolt  
+- Pain Split  
+
+Clefable (F) @ Life Orb  
+Ability: Magic Guard  
+EVs: 248 HP / 196 Def / 24 SpA / 24 SpD / 16 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Flamethrower  
+- Ice Beam  
+- Soft-Boiled  
+
+Toxapex (F) @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 100 Def / 120 SpD / 36 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Toxic Spikes  
+- Scald  
+- Haze  
+- Recover  
+
+Tornadus-Therian (M) @ Flyinium Z  
+Ability: Regenerator  
+EVs: 144 HP / 124 Def / 20 SpA / 220 Spe  
+Timid Nature  
+- Hurricane  
+- U-turn  
+- Taunt  
+- Defog  
+
+=== [gen7ou] mlati zelec koko ===
+Latias-Mega (F) @ Latiasite  
+Ability: Levitate  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Ice Beam  
+- Roost  
+- Thunder Wave  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 20 Def / 244 SpD  
+Careful Nature  
+- Swords Dance  
+- Earthquake  
+- Facade  
+- Roost  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 248 HP / 28 Def / 232 SpD  
+Careful Nature  
+- Spikes  
+- Leech Seed  
+- Power Whip  
+- Protect  
+
+Tapu Koko @ Electrium Z  
+Ability: Electric Surge  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Wild Charge  
+- Hidden Power [Ice]  
+- Roost  
+- U-turn  
+
+Kommo-o @ Leftovers  
+Ability: Bulletproof  
+EVs: 248 HP / 192 Def / 68 Spe  
+Impish Nature  
+- Stealth Rock  
+- Drain Punch  
+- Toxic  
+- Roar  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 248 HP / 76 Def / 176 SpD / 8 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Recover  
+- Toxic Spikes  
+- Haze  
+
+=== [gen7ou] double trap virgin ===
+Latias-Mega (F) @ Latiasite  
+Ability: Levitate  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Hidden Power [Fighting]  
+- Defog  
+- Roost  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 212 SpD / 52 Spe  
+Jolly Nature  
+- Earthquake  
+- Facade  
+- Roost  
+- Swords Dance  
+
+Magnezone @ Electrium Z  
+Ability: Magnet Pull  
+EVs: 60 Def / 252 SpA / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Flash Cannon  
+- Hidden Power [Fire]  
+- Toxic  
+
+Weavile @ Choice Band  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Knock Off  
+- Icicle Crash  
+- Pursuit  
+- Ice Shard  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 248 HP / 224 Def / 36 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic  
+- Recover  
+- Haze  
+
+Chansey (F) @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Seismic Toss  
+- Soft-Boiled  
+- Thunder Wave  
+
+=== [gen7ou] charmflash ===
+Latias-Mega @ Latiasite  
+Ability: Levitate  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Psyshock  
+- Ice Beam  
+- Roost  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 52 Def / 188 SpD / 24 Spe  
+Jolly Nature  
+- Earthquake  
+- Roost  
+- Knock Off  
+- Stealth Rock  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 88 Def / 168 SpD  
+Impish Nature  
+- Power Whip  
+- Leech Seed  
+- Spikes  
+- Protect  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 252 HP / 28 Def / 228 SpD  
+Sassy Nature  
+IVs: 7 Spe  
+- Heavy Slam  
+- Flamethrower  
+- Leech Seed  
+- Protect  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 204 SpD / 52 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Recover  
+- Haze  
+- Baneful Bunker  
+
+Ditto @ Choice Scarf  
+Ability: Imposter  
+EVs: 252 HP / 4 Def / 252 SpA  
+Quiet Nature  
+IVs: 30 Atk / 30 SpA / 30 SpD / 1 Spe  
+- Transform  
+
+=== [gen7ou] mlati flyium torn ===
+Latias-Mega (F) @ Latiasite  
+Ability: Levitate  
+EVs: 248 HP / 4 Def / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunder Wave  
+- Psychic  
+- Ice Beam  
+- Roost  
+
+Gliscor (M) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 228 SpD / 36 Spe  
+Jolly Nature  
+- Swords Dance  
+- Earthquake  
+- Facade  
+- Roost  
+
+Heatran (M) @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 104 Def / 156 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Lava Plume  
+- Toxic  
+- Protect  
+
+Clefable (F) @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 156 Def / 88 SpD / 12 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Moonblast  
+- Thunder Wave  
+- Soft-Boiled  
+
+Toxapex (F) @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 80 Def / 176 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic  
+- Haze  
+- Recover  
+
+Tornadus-Therian (M) @ Flyinium Z  
+Ability: Regenerator  
+EVs: 108 HP / 60 Def / 148 SpA / 192 Spe  
+Timid Nature  
+- Hurricane  
+- Knock Off  
+- U-turn  
+- Defog  
+
+=== [gen7ou] z water gren empo ===
+Latias-Mega @ Latiasite  
+Ability: Levitate  
+EVs: 252 HP / 4 Def / 252 Spe  
+Timid Nature  
+- Calm Mind  
+- Recover  
+- Ice Beam  
+- Stored Power  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 44 Def / 108 SpD / 112 Spe  
+Jolly Nature  
+- Defog  
+- Earthquake  
+- Knock Off  
+- Roost  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 248 HP / 84 Def / 176 SpD  
+Sassy Nature  
+- Leech Seed  
+- Protect  
+- Heavy Slam  
+- Flamethrower  
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Soft-Boiled  
+- Stealth Rock  
+- Flamethrower  
+
+Greninja-Ash @ Waterium Z  
+Ability: Battle Bond  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Spikes  
+- Water Shuriken  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic Spikes  
+- Recover  
+- Toxic  
+
+=== [gen7ou] wish lati drill ===
+Latias-Mega (F) @ Latiasite  
+Ability: Levitate  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Energy Ball  
+- Roost  
+- Wish  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 236 SpD / 28 Spe  
+Careful Nature  
+- Earthquake  
+- Facade  
+- Roost  
+- Swords Dance  
+
+Excadrill @ Leftovers  
+Ability: Mold Breaker  
+EVs: 248 HP / 176 SpD / 84 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Iron Head  
+- Toxic  
+
+Magearna @ Leftovers  
+Ability: Soul-Heart  
+EVs: 248 HP / 28 Def / 40 SpA / 96 SpD / 96 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Fleur Cannon  
+- Thunderbolt  
+- Hidden Power [Fire]  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 248 HP / 120 Def / 124 SpD / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Toxic Spikes  
+- Scald  
+- Recover  
+- Haze  
+
+Tornadus-Therian (M) @ Flyinium Z  
+Ability: Regenerator  
+EVs: 8 HP / 64 Def / 216 SpA / 220 Spe  
+Timid Nature  
+- Hurricane  
+- Heat Wave  
+- Knock Off  
+- Defog  
+
+=== [gen7ou] orb reun ===
+Latias-Mega (F) @ Latiasite  
+Ability: Levitate  
+EVs: 184 HP / 72 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunder Wave  
+- Ice Beam  
+- Defog  
+- Recover  
+
+Gliscor (M) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 240 SpD / 24 Spe  
+Jolly Nature  
+- Swords Dance  
+- Earthquake  
+- Facade  
+- Roost  
+
+Heatran (M) @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Lava Plume  
+- Toxic  
+- Protect  
+
+Reuniclus (M) @ Life Orb  
+Ability: Magic Guard  
+EVs: 184 HP / 248 Def / 76 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Psyshock  
+- Focus Blast  
+- Recover  
+
+Tapu Koko @ Electrium Z  
+Ability: Electric Surge  
+EVs: 20 HP / 252 SpA / 20 SpD / 216 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hidden Power [Ice]  
+- U-turn  
+- Roost  
+
+Toxapex (M) @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 76 Def / 180 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic Spikes  
+- Haze  
+- Recover  
+
+=== [gen7ou] scarf weav balance ===
+Latias-Mega (F) @ Latiasite  
+Ability: Levitate  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Ice Beam  
+- Stored Power  
+- Roost  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 248 HP / 116 SpD / 144 Spe  
+Jolly Nature  
+- Swords Dance  
+- Earthquake  
+- Roost  
+- Facade  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 148 Def / 108 SpD  
+Impish Nature  
+- Spikes  
+- Stealth Rock  
+- Leech Seed  
+- Power Whip  
+
+Tapu Koko @ Fairium Z  
+Ability: Electric Surge  
+EVs: 56 HP / 72 Def / 164 SpA / 216 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Calm Mind  
+- Dazzling Gleam  
+- Roost  
+
+Weavile @ Choice Scarf  
+Ability: Pickpocket  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Knock Off  
+- Icicle Crash  
+- Pursuit  
+- Punishment  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 248 HP / 20 Def / 208 SpD / 32 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Toxic Spikes  
+- Scald  
+- Recover  
+- Haze  
+
+=== [gen7ou] relous ===
+Latias-Mega (F) @ Latiasite  
+Ability: Levitate  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Stored Power  
+- Roost  
+- Calm Mind  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 236 SpD / 28 Spe  
+Careful Nature  
+- Earthquake  
+- Facade  
+- Roost  
+- Swords Dance  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 24 Def / 228 SpD / 4 Spe  
+Careful Nature  
+- Spikes  
+- Power Whip  
+- Protect  
+- Leech Seed  
+
+Kommo-o @ Leftovers  
+Ability: Bulletproof  
+EVs: 252 HP / 164 Def / 92 SpD  
+Impish Nature  
+- Stealth Rock  
+- Drain Punch  
+- Protect  
+- Toxic  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 248 HP / 244 SpD / 16 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic Spikes  
+- Recover  
+- Haze  
+
+Tornadus-Therian (M) @ Flyinium Z  
+Ability: Regenerator  
+EVs: 52 Atk / 252 SpA / 204 Spe  
+Naive Nature  
+- Hurricane  
+- Superpower  
+- U-turn  
+- Defog  
+
+=== [gen7ou] slowbro zapcannon ===
+Latias-Mega (F) @ Latiasite  
+Ability: Levitate  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Ice Beam  
+- Roost  
+- Defog  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 236 SpD / 28 Spe  
+Careful Nature  
+- Swords Dance  
+- Earthquake  
+- Facade  
+- Roost  
+
+Magearna @ Leftovers  
+Ability: Soul-Heart  
+EVs: 248 HP / 28 Def / 232 SpD  
+Calm Nature  
+IVs: 0 Atk / 30 Spe  
+- Flash Cannon  
+- Volt Switch  
+- Pain Split  
+- Heart Swap  
+
+Magnezone @ Choice Scarf  
+Ability: Magnet Pull  
+EVs: 4 HP / 4 Def / 248 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Volt Switch  
+- Hidden Power [Fire]  
+- Flash Cannon  
+
+Slowbro @ Electrium Z  
+Ability: Regenerator  
+EVs: 248 HP / 168 Def / 92 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Psychic  
+- Zap Cannon  
+- Slack Off  
+
+Kommo-o @ Leftovers  
+Ability: Bulletproof  
+EVs: 252 HP / 116 SpD / 140 Spe  
+Careful Nature  
+- Stealth Rock  
+- Drain Punch  
+- Flamethrower  
+- Toxic  
+
+=== [gen7ou] tspikes gren ===
+Latias-Mega (F) @ Latiasite  
+Ability: Levitate  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Hidden Power [Ground]  
+- Roost  
+- Thunder Wave  
+
+Landorus-Therian (M) @ Figy Berry  
+Ability: Intimidate  
+EVs: 224 HP / 136 Def / 148 Spe  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Knock Off  
+- U-turn  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 248 HP / 88 Def / 168 SpD / 4 Spe  
+Careful Nature  
+- Spikes  
+- Power Whip  
+- Leech Seed  
+- Thunder Wave  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 4 Def / 168 SpD / 88 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Protect  
+- Lava Plume  
+- Roar  
+- Toxic  
+
+Clefable @ Life Orb  
+Ability: Magic Guard  
+EVs: 24 HP / 252 SpA / 232 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Fire Blast  
+- Thunderbolt  
+- Soft-Boiled  
+
+Greninja (M) @ Poisonium Z  
+Ability: Protean  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Ice Beam  
+- Gunk Shot  
+- Low Kick  
+- Toxic Spikes  
+
+=== [gen7ou] z elec rotom ===
+Latias-Mega @ Latiasite  
+Ability: Levitate  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Ice Beam  
+- Recover  
+- Stored Power  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+EVs: 168 HP / 80 Atk / 48 Def / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Hidden Power [Fire]  
+- Defog  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 28 Def / 228 SpD  
+Careful Nature  
+- Spikes  
+- Stealth Rock  
+- Leech Seed  
+- Power Whip  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 180 SpD / 80 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Toxic  
+- Earth Power  
+- Protect  
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 216 Def / 40 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Moonblast  
+- Soft-Boiled  
+- Thunder Wave  
+
+Rotom-Wash @ Electrium Z  
+Ability: Levitate  
+EVs: 88 HP / 208 SpA / 212 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Thunder  
+- Hydro Pump  
+- Pain Split  
+
+=== [gen7ou] flect mlati fatkyub ===
+Latias-Mega (F) @ Latiasite  
+Ability: Levitate  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Reflect  
+- Thunder  
+- Ice Beam  
+- Roost  
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 120 HP / 168 Atk / 220 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Stone Edge  
+- Defog  
+
+Seismitoad @ Leftovers  
+Ability: Water Absorb  
+EVs: 232 HP / 36 Def / 216 SpD / 24 Spe  
+Calm Nature  
+- Stealth Rock  
+- Scald  
+- Knock Off  
+- Refresh  
+
+Magearna @ Leftovers  
+Ability: Soul-Heart  
+EVs: 248 HP / 28 Def / 16 SpA / 160 SpD / 56 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Fleur Cannon  
+- Thunderbolt  
+- Pain Split  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 100 Def / 120 SpD / 36 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Toxic Spikes  
+- Scald  
+- Recover  
+- Haze  
+
+Kyurem-Black @ Icium Z  
+Ability: Teravolt  
+EVs: 128 HP / 44 Atk / 224 Def / 84 SpD / 28 Spe  
+Adamant Nature  
+- Roost  
+- Freeze Shock  
+- Fusion Bolt  
+- Ice Beam  
+
+=== [gen7ou] mlati clef ditto ===
+Latias-Mega (F) @ Latiasite  
+Ability: Levitate  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Ice Beam  
+- Roost  
+- Thunder Wave  
+
+Gastrodon @ Leftovers  
+Ability: Storm Drain  
+EVs: 248 HP / 20 Def / 240 SpD  
+Sassy Nature  
+- Scald  
+- Earthquake  
+- Clear Smog  
+- Recover  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 4 Def / 172 SpD / 84 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Magma Storm  
+- Toxic  
+- Protect  
+
+Skarmory @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 248 HP / 232 Def / 28 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Spikes  
+- Counter  
+- Roost  
+- Whirlwind  
+
+Clefable @ Life Orb  
+Ability: Magic Guard  
+EVs: 252 HP / 156 Def / 84 SpA / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Thunder  
+- Soft-Boiled  
+- Calm Mind  
+
+Ditto @ Choice Scarf  
+Ability: Imposter  
+EVs: 252 HP / 4 Def / 252 SpA  
+Quiet Nature  
+IVs: 30 SpA / 30 SpD / 1 Spe  
+- Transform  
+
+=== [gen7ou] zghost reun ===
+Latias-Mega (F) @ Latiasite  
+Ability: Levitate  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Ice Beam  
+- Thunder Wave  
+- Roost  
+
+Gastrodon @ Leftovers  
+Ability: Storm Drain  
+EVs: 248 HP / 20 Def / 240 SpD  
+Sassy Nature  
+- Scald  
+- Earthquake  
+- Recover  
+- Clear Smog  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 4 Def / 212 SpD / 44 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Lava Plume  
+- Toxic  
+- Roar  
+- Protect  
+
+Skarmory @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 240 HP / 252 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Spikes  
+- Counter  
+- Roost  
+- Whirlwind  
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 244 Def / 12 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Moonblast  
+- Soft-Boiled  
+- Thunder Wave  
+
+Reuniclus @ Ghostium Z  
+Ability: Magic Guard  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Shadow Ball  
+- Recover  
+- Calm Mind  
+
+=== [gen7ou] mlati cosmic clef ===
+Latias-Mega (F) @ Latiasite  
+Ability: Levitate  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Thunder  
+- Thunder Wave  
+- Roost  
+
+Seismitoad (M) @ Leftovers  
+Ability: Water Absorb  
+EVs: 232 HP / 40 Def / 220 SpD / 16 Spe  
+Calm Nature  
+- Scald  
+- Knock Off  
+- Stealth Rock  
+- Refresh  
+
+Heatran (M) @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 212 SpD / 44 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Taunt  
+- Toxic  
+- Protect  
+- Lava Plume  
+
+Skarmory @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 248 HP / 244 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Defog  
+- Roost  
+- Spikes  
+- Whirlwind  
+
+Clefable (F) @ Leftovers  
+Ability: Magic Guard  
+EVs: 240 HP / 248 Def / 4 SpD / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Cosmic Power  
+- Encore  
+- Soft-Boiled  
+
+Weavile @ Choice Band  
+Ability: Pressure  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Knock Off  
+- Icicle Crash  
+- Pursuit  
+- Ice Shard  
+
+=== [gen7ou] sub mlati sand ===
+Latias-Mega (F) @ Latiasite  
+Ability: Levitate  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Substitute  
+- Stored Power  
+- Roost  
+
+Tyranitar @ Choice Scarf  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Ice Punch  
+- Crunch  
+- Pursuit  
+- Earthquake  
+
+Excadrill @ Steelium Z  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Earthquake  
+- Iron Head  
+- Rapid Spin  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 252 HP / 132 Def / 124 SpD  
+Relaxed Nature  
+- Heavy Slam  
+- Flamethrower  
+- Leech Seed  
+- Protect  
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 248 HP / 252 Def / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Moonblast  
+- Flamethrower  
+- Soft-Boiled  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 118 Def / 138 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic Spikes  
+- Toxic  
+- Recover  
+
+=== [gen7ou] mlati boldmag toxtect bro ===
+Latias-Mega @ Latiasite  
+Ability: Levitate  
+EVs: 252 HP / 4 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Psyshock  
+- Roost  
+- Calm Mind  
+
+Excadrill @ Leftovers  
+Ability: Mold Breaker  
+EVs: 176 HP / 252 SpD / 80 Spe  
+Jolly Nature  
+- Earthquake  
+- Iron Head  
+- Rapid Spin  
+- Stealth Rock  
+
+Magearna @ Fairium Z  
+Ability: Soul-Heart  
+EVs: 248 HP / 160 Def / 100 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Fleur Cannon  
+- Thunderbolt  
+- Calm Mind  
+- Pain Split  
+
+Slowbro @ Leftovers  
+Ability: Regenerator  
+EVs: 248 HP / 96 Def / 164 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic  
+- Protect  
+- Slack Off  
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 248 Def / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Flamethrower  
+- Calm Mind  
+- Soft-Boiled  
+
+Toxapex @ Shed Shell  
+Ability: Regenerator  
+EVs: 248 HP / 92 Def / 168 SpD  
+Sassy Nature  
+- Scald  
+- Knock Off  
+- Recover  
+- Toxic  
+
+=== [gen7ou] mlatios toad cress ===
+Latios-Mega (M) @ Latiosite  
+Ability: Levitate  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Draco Meteor  
+- Ice Beam  
+- Earthquake  
+- Roost  
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 120 HP / 168 Atk / 220 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Stone Edge  
+- Defog  
+
+Seismitoad @ Leftovers  
+Ability: Water Absorb  
+EVs: 248 HP / 20 Def / 216 SpD / 24 Spe  
+Calm Nature  
+- Stealth Rock  
+- Scald  
+- Knock Off  
+- Refresh  
+
+Magearna @ Fairium Z  
+Ability: Soul-Heart  
+EVs: 248 HP / 84 Def / 152 SpA / 16 SpD / 8 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Fleur Cannon  
+- Thunderbolt  
+- Pain Split  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 4 Def / 208 SpD / 48 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Lava Plume  
+- Toxic  
+- Roar  
+- Protect  
+
+Cresselia (F) @ Leftovers  
+Ability: Levitate  
+EVs: 240 HP / 96 Def / 152 SpA / 4 SpD / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Psyshock  
+- Ice Beam  
+- Moonlight  
+
+=== [gen7ou] mlatios balance ===
+Latios-Mega (M) @ Latiosite  
+Ability: Levitate  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Psychic  
+- Ice Beam  
+- Earthquake  
+- Roost  
+
+Landorus-Therian (M) @ Flyinium Z  
+Ability: Intimidate  
+EVs: 252 HP / 136 Atk / 120 Def  
+Adamant Nature  
+- Earthquake  
+- Fly  
+- U-turn  
+- Defog  
+
+Magnezone @ Choice Scarf  
+Ability: Magnet Pull  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Flash Cannon  
+- Volt Switch  
+- Hidden Power [Fire]  
+
+Tapu Lele @ Choice Specs  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psychic  
+- Moonblast  
+- Psyshock  
+- Focus Blast  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 224 Def / 32 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic Spikes  
+- Baneful Bunker  
+- Recover  
+
+Chansey (F) @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Soft-Boiled  
+- Stealth Rock  
+- Toxic  
+
+=== [gen7ou] mlatios amogus volcan ===
+Latios-Mega (M) @ Latiosite  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Draco Meteor  
+- Roost  
+- Calm Mind  
+
+Gliscor (M) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 248 HP / 156 Def / 44 SpD / 60 Spe  
+Impish Nature  
+- Earthquake  
+- Stealth Rock  
+- U-turn  
+- Taunt  
+
+Magearna @ Leftovers  
+Ability: Soul-Heart  
+EVs: 248 HP / 176 SpA / 84 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Thunderbolt  
+- Fleur Cannon  
+- Focus Blast  
+
+Amoonguss (M) @ Assault Vest  
+Ability: Regenerator  
+EVs: 216 HP / 28 Atk / 176 Def / 88 SpD  
+Relaxed Nature  
+IVs: 28 Spe  
+- Giga Drain  
+- Sludge Bomb  
+- Stomping Tantrum  
+- Hidden Power [Fire]  
+
+Volcanion @ Leftovers  
+Ability: Water Absorb  
+EVs: 240 HP / 176 Def / 48 SpD / 44 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Steam Eruption  
+- Flamethrower  
+- Roar  
+- Protect  
+
+Tornadus-Therian (M) @ Fightinium Z  
+Ability: Regenerator  
+EVs: 8 HP / 88 Def / 196 SpA / 216 Spe  
+Timid Nature  
+- Defog  
+- Knock Off  
+- Focus Blast  
+- Hurricane  
+
+=== [gen7ou] mlatios triple steel 2 ===
+Latios-Mega @ Latiosite  
+Ability: Levitate  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Psychic  
+- Ice Beam  
+- Earthquake  
+- Recover  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 44 Def / 108 SpD / 112 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Toxic  
+- Roost  
+- Earthquake  
+
+Magearna @ Leftovers  
+Ability: Soul-Heart  
+EVs: 248 HP / 8 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Heart Swap  
+- Volt Switch  
+- Pain Split  
+- Flash Cannon  
+
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Defog  
+- Sacred Sword  
+- Knock Off  
+
+Magnezone @ Electrium Z  
+Ability: Magnet Pull  
+EVs: 92 HP / 220 SpA / 196 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Substitute  
+- Thunderbolt  
+- Flash Cannon  
+- Hidden Power [Fire]  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 92 Def / 164 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Toxic Spikes  
+- Haze  
+- Scald  
+- Recover  
+
+=== [gen7ou] mlatios abr ===
+Latios-Mega (M) @ Latiosite  
+Ability: Levitate  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Psychic  
+- Ice Beam  
+- Recover  
+- Earthquake  
+
+Gastrodon @ Leftovers  
+Ability: Storm Drain  
+EVs: 248 HP / 8 Def / 252 SpD  
+Sassy Nature  
+- Scald  
+- Recover  
+- Toxic  
+- Earthquake  
+
+Skarmory (M) @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Spikes  
+- Toxic  
+- Roost  
+- Whirlwind  
+
+Magnezone @ Choice Scarf  
+Ability: Magnet Pull  
+EVs: 4 HP / 4 Def / 248 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Hidden Power [Fire]  
+- Flash Cannon  
+- Thunder Wave  
+
+Clefable (F) @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 96 Def / 148 SpD / 12 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Moonblast  
+- Soft-Boiled  
+- Thunder Wave  
+
+Reuniclus (M) @ Grassium Z  
+Ability: Magic Guard  
+EVs: 252 HP / 248 Def / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Psyshock  
+- Energy Ball  
+- Recover  
+
+=== [gen7ou] mlatios triple steel ===
+Latios-Mega @ Latiosite  
+Ability: Levitate  
+EVs: 32 Atk / 224 SpA / 252 Spe  
+Naive Nature  
+- Psychic  
+- Earthquake  
+- Ice Beam  
+- Roost  
+
+Seismitoad @ Leftovers  
+Ability: Water Absorb  
+EVs: 244 HP / 84 Def / 180 SpD  
+Careful Nature  
+- Earthquake  
+- Toxic  
+- Refresh  
+- Stealth Rock  
+
+Magearna @ Leftovers  
+Ability: Soul-Heart  
+EVs: 48 HP / 252 Def / 72 SpD / 136 Spe  
+Sassy Nature  
+- Iron Head  
+- Thunder Wave  
+- Ice Beam  
+- Pain Split  
+
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Smart Strike  
+- Knock Off  
+- Defog  
+
+Magnezone @ Electrium Z  
+Ability: Magnet Pull  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Flash Cannon  
+- Hidden Power [Fire]  
+- Substitute  
+
+Tornadus-Therian (M) @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 240 HP / 100 Def / 168 Spe  
+Timid Nature  
+- Hurricane  
+- Knock Off  
+- U-turn  
+- Taunt  
+
+=== [gen7ou] cm zam psyspam ===
+Alakazam-Mega @ Alakazite  
+Ability: Magic Guard  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Focus Blast  
+- Shadow Ball  
+- Calm Mind  
+
+Landorus-Therian (M) @ Flyinium Z  
+Ability: Intimidate  
+EVs: 248 HP / 116 Atk / 144 Spe  
+Adamant Nature  
+- Earthquake  
+- Fly  
+- Swords Dance  
+- Stealth Rock  
+
+Magearna @ Assault Vest  
+Ability: Soul-Heart  
+EVs: 252 HP / 140 Def / 116 SpD  
+Sassy Nature  
+IVs: 0 Atk / 4 Spe  
+- Fleur Cannon  
+- Volt Switch  
+- Ice Beam  
+- Hidden Power [Fire]  
+
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Smart Strike  
+- Sacred Sword  
+- Knock Off  
+
+Tapu Lele @ Choice Specs  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psychic  
+- Psyshock  
+- Moonblast  
+- Hidden Power [Fire]  
+
+Rotom-Wash @ Wiki Berry  
+Ability: Levitate  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk / 29 Spe  
+- Volt Switch  
+- Hydro Pump  
+- Will-O-Wisp  
+- Defog  
+
+=== [gen7ou] recover zam psyspam ===
+Alakazam-Mega @ Alakazite  
+Ability: Magic Guard  
+EVs: 32 Def / 224 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Focus Blast  
+- Shadow Ball  
+- Recover  
+
+Landorus-Therian (M) @ Flyinium Z  
+Ability: Intimidate  
+EVs: 252 HP / 112 Def / 144 Spe  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Fly  
+- U-turn  
+
+Magearna @ Assault Vest  
+Ability: Soul-Heart  
+EVs: 248 HP / 36 Def / 224 SpD  
+Calm Nature  
+IVs: 1 Atk  
+- Volt Switch  
+- Fleur Cannon  
+- Ice Beam  
+- Hidden Power [Fire]  
+
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Knock Off  
+- Smart Strike  
+- Sacred Sword  
+
+Tapu Lele @ Choice Specs  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Moonblast  
+- Psyshock  
+- Hidden Power [Fire]  
+
+Rotom-Wash @ Iapapa Berry  
+Ability: Levitate  
+EVs: 252 HP / 200 Def / 56 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Volt Switch  
+- Will-O-Wisp  
+- Defog  
+
+=== [gen7ou] keldeo lelezam ===
+Alakazam-Mega @ Alakazite  
+Ability: Magic Guard  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Focus Blast  
+- Energy Ball  
+- Shadow Ball  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+EVs: 80 HP / 148 Atk / 48 Def / 232 Spe  
+Naive Nature  
+- Earthquake  
+- U-turn  
+- Hidden Power [Ice]  
+- Defog  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 220 SpD / 40 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Toxic  
+- Earth Power  
+- Stealth Rock  
+
+Tapu Lele @ Choice Specs  
+Ability: Psychic Surge  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Psychic  
+- Moonblast  
+- Focus Blast  
+
+Keldeo-Resolute @ Waterium Z  
+Ability: Justified  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Secret Sword  
+- Taunt  
+- Calm Mind  
+
+Zapdos @ Rocky Helmet  
+Ability: Static  
+EVs: 248 HP / 240 Def / 20 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Roost  
+- Heat Wave  
+- Hidden Power [Ice]  
+
+=== [gen7ou] french psyspam ===
+Alakazam-Mega @ Alakazite  
+Ability: Magic Guard  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Psychic  
+- Shadow Ball  
+- Focus Blast  
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 120 HP / 168 Atk / 220 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Stone Edge  
+- Defog  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 208 SpD / 52 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Earth Power  
+- Protect  
+- Toxic  
+
+Tapu Lele @ Twisted Spoon  
+Ability: Psychic Surge  
+EVs: 144 HP / 176 SpA / 28 SpD / 160 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Moonblast  
+- Hidden Power [Fire]  
+- Taunt  
+
+Kommo-o @ Kommonium Z  
+Ability: Soundproof  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Stealth Rock  
+- Clanging Scales  
+- Close Combat  
+- Flamethrower  
+
+Serperior @ Rocky Helmet  
+Ability: Contrary  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+- Glare  
+- Leaf Storm  
+- Knock Off  
+- Synthesis  
+
+=== [gen7ou] av lele ho ===
+Alakazam-Mega @ Alakazite  
+Ability: Magic Guard  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Shadow Ball  
+- Focus Blast  
+- Recover  
+
+Landorus-Therian @ Focus Sash  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Swords Dance  
+- Earthquake  
+- Explosion  
+
+Magearna @ Shuca Berry  
+Ability: Soul-Heart  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Quiet Nature  
+IVs: 0 Atk  
+- Trick Room  
+- Flash Cannon  
+- Ice Beam  
+- Thunderbolt  
+
+Kartana @ Steelium Z  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Leaf Blade  
+- Smart Strike  
+- Sacred Sword  
+
+Tapu Lele @ Assault Vest  
+Ability: Psychic Surge  
+EVs: 248 HP / 136 SpA / 8 SpD / 116 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Nature's Madness  
+- Psyshock  
+- Moonblast  
+- Focus Blast  
+
+Greninja @ Choice Specs  
+Ability: Battle Bond  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Water Shuriken  
+- Dark Pulse  
+- Spikes  
+
+=== [gen7ou] scarf ttar mega zam BO ===
+Alakazam-Mega @ Alakazite  
+Ability: Magic Guard  
+EVs: 12 HP / 8 Def / 252 SpA / 236 Spe  
+Modest Nature  
+IVs: 1 Atk  
+- Psychic  
+- Focus Blast  
+- Hidden Power [Ice]  
+- Recover  
+
+Tyranitar @ Choice Scarf  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Crunch  
+- Pursuit  
+- Earthquake  
+- Ice Punch  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 56 Def / 184 SpD / 24 Spe  
+Jolly Nature  
+- Earthquake  
+- Facade  
+- Swords Dance  
+- Roost  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 248 HP / 28 Def / 232 SpD  
+Sassy Nature  
+- Heavy Slam  
+- Flamethrower  
+- Leech Seed  
+- Protect  
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 248 Def / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Flamethrower  
+- Stealth Rock  
+- Soft-Boiled  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 232 SpD / 24 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic Spikes  
+- Haze  
+- Recover  
+
+=== [gen7ou] counter glisc dog ===
+Alakazam-Mega @ Alakazite  
+Ability: Magic Guard  
+EVs: 32 Def / 240 SpA / 236 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psychic  
+- Focus Blast  
+- Hidden Power [Fire]  
+- Recover  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 80 Def / 72 SpD / 112 Spe  
+Impish Nature  
+- Earthquake  
+- Counter  
+- Roost  
+- Defog  
+
+Magearna @ Choice Scarf  
+Ability: Soul-Heart  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fleur Cannon  
+- Ice Beam  
+- Volt Switch  
+- Thunder Wave  
+
+Cresselia @ Leftovers  
+Ability: Levitate  
+EVs: 248 HP / 108 Def / 152 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Psyshock  
+- Ice Beam  
+- Moonlight  
+
+Keldeo @ Leftovers  
+Ability: Justified  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Scald  
+- Secret Sword  
+- Substitute  
+
+Chansey (F) @ Eviolite  
+Ability: Natural Cure  
+EVs: 240 HP / 252 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Seismic Toss  
+- Toxic  
+- Soft-Boiled  
+
+=== [gen7ou] fsight zam kyub ===
+Alakazam-Mega (M) @ Alakazite  
+Ability: Magic Guard  
+EVs: 16 HP / 24 Def / 244 SpA / 224 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Focus Blast  
+- Future Sight  
+- Protect  
+
+Landorus-Therian (M) @ Figy Berry  
+Ability: Intimidate  
+EVs: 248 HP / 96 Def / 144 SpD / 20 Spe  
+Impish Nature  
+- Stealth Rock  
+- U-turn  
+- Rock Tomb  
+- Earthquake  
+
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 236 Atk / 20 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Sacred Sword  
+- Smart Strike  
+- Knock Off  
+
+Heatran (M) @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 216 SpD / 44 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Earth Power  
+- Toxic  
+- Protect  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 156 Def / 36 SpD / 68 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Taunt  
+- Defog  
+- Moonblast  
+- Surf  
+
+Kyurem-Black @ Icium Z  
+Ability: Teravolt  
+EVs: 224 HP / 16 Atk / 36 Def / 84 SpD / 148 Spe  
+Adamant Nature  
+- Freeze Shock  
+- Fusion Bolt  
+- Ice Beam  
+- Roost  
+
+=== [gen7ou] zam eballreun ===
+Alakazam-Mega @ Alakazite  
+Ability: Magic Guard  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psychic  
+- Focus Blast  
+- Hidden Power [Ice]  
+- Recover  
+
+Excadrill @ Leftovers  
+Ability: Mold Breaker  
+EVs: 248 HP / 180 SpD / 80 Spe  
+Jolly Nature  
+- Earthquake  
+- Iron Head  
+- Rapid Spin  
+- Toxic  
+
+Skarmory @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Spikes  
+- Roost  
+- Whirlwind  
+- Counter  
+
+Reuniclus @ Rocky Helmet  
+Ability: Magic Guard  
+EVs: 252 HP / 208 Def / 48 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Psychic  
+- Energy Ball  
+- Calm Mind  
+- Recover  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 248 HP / 248 Def / 12 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic Spikes  
+- Recover  
+- Haze  
+
+Chansey (F) @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Thunder Wave  
+- Seismic Toss  
+- Soft-Boiled  
+
+=== [gen7ou] psyspam ho ===
+Alakazam-Mega @ Alakazite  
+Ability: Magic Guard  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psychic  
+- Focus Blast  
+- Shadow Ball  
+- Taunt  
+
+Excadrill @ Focus Sash  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Stealth Rock  
+- Rock Tomb  
+
+Tapu Lele @ Terrain Extender  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Hidden Power [Fire]  
+- Psyshock  
+- Taunt  
+
+Victini @ Normalium Z  
+Ability: Victory Star  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Celebrate  
+- Stored Power  
+- Searing Shot  
+- Focus Blast  
+
+Hawlucha @ Psychic Seed  
+Ability: Unburden  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Acrobatics  
+- High Jump Kick  
+- Swords Dance  
+- Substitute  
+
+Serperior @ Choice Scarf  
+Ability: Contrary  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Leaf Storm  
+- Knock Off  
+- Defog  
+- Glare  
+
+=== [gen7ou] mzam groundvally ===
+Alakazam-Mega @ Alakazite  
+Ability: Magic Guard  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psychic  
+- Shadow Ball  
+- Focus Blast  
+- Recover  
+
+Silvally-Ground @ Ground Memory  
+Ability: RKS System  
+EVs: 24 HP / 252 Atk / 8 SpD / 224 Spe  
+Jolly Nature  
+- Multi-Attack  
+- Ice Beam  
+- Defog  
+- Parting Shot  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 8 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Lava Plume  
+- Protect  
+- Toxic  
+- Stealth Rock  
+
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Knock Off  
+- Smart Strike  
+- Sacred Sword  
+
+Tapu Bulu @ Fightinium Z  
+Ability: Grassy Surge  
+EVs: 72 HP / 252 Atk / 184 Spe  
+Jolly Nature  
+- Horn Leech  
+- Superpower  
+- Swords Dance  
+- Taunt  
+
+Zapdos @ Rocky Helmet  
+Ability: Static  
+EVs: 248 HP / 240 Def / 20 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Discharge  
+- Heat Wave  
+- Hidden Power [Ice]  
+- Roost  
+
+=== [gen7ou] hp ice zam scarf wash ===
+Alakazam-Mega @ Alakazite  
+Ability: Magic Guard  
+EVs: 12 HP / 8 Def / 252 SpA / 236 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psychic  
+- Recover  
+- Hidden Power [Ice]  
+- Focus Blast  
+
+Gastrodon-East @ Leftovers  
+Ability: Storm Drain  
+EVs: 252 HP / 240 SpD / 16 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Earth Power  
+- Clear Smog  
+- Recover  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 180 SpD / 80 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Toxic  
+- Protect  
+- Stealth Rock  
+
+Skarmory @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 240 HP / 204 Def / 64 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Spikes  
+- Roost  
+- Whirlwind  
+- Counter  
+
+Clefable @ Life Orb  
+Ability: Magic Guard  
+EVs: 252 HP / 240 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Moonblast  
+- Thunder  
+- Soft-Boiled  
+
+Rotom-Wash @ Choice Scarf  
+Ability: Levitate  
+EVs: 208 HP / 48 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Hydro Pump  
+- Defog  
+- Trick  
+
+=== [gen7ou] safeguard zam ===
+Alakazam-Mega @ Alakazite  
+Ability: Magic Guard  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psychic  
+- Shadow Ball  
+- Focus Blast  
+- Safeguard  
+
+Garchomp @ Yache Berry  
+Ability: Rough Skin  
+EVs: 248 HP / 20 Def / 240 Spe  
+Jolly Nature  
+- Earthquake  
+- Toxic  
+- Flamethrower  
+- Stealth Rock  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+Shiny: Yes  
+EVs: 252 HP / 100 Def / 156 SpD  
+Sassy Nature  
+IVs: 7 Spe  
+- Heavy Slam  
+- Flamethrower  
+- Leech Seed  
+- Protect  
+
+Tapu Lele @ Psychium Z  
+Ability: Psychic Surge  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Moonblast  
+- Hidden Power [Fire]  
+- Calm Mind  
+
+Greninja (M) @ Choice Scarf  
+Ability: Protean  
+EVs: 240 Atk / 80 SpA / 188 Spe  
+Hasty Nature  
+- Ice Beam  
+- Gunk Shot  
+- U-turn  
+- Rock Slide  
+
+Serperior @ Meadow Plate  
+Ability: Contrary  
+EVs: 40 HP / 236 SpA / 232 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Leaf Storm  
+- Hidden Power [Rock]  
+- Substitute  
+- Glare  
+
+=== [gen7ou] msciz ditto rh reun ===
+Scizor-Mega @ Scizorite  
+Ability: Light Metal  
+EVs: 248 HP / 16 Def / 244 SpD  
+Impish Nature  
+- Bullet Punch  
+- U-turn  
+- Defog  
+- Roost  
+
+Seismitoad @ Leftovers  
+Ability: Water Absorb  
+EVs: 244 HP / 36 Def / 228 SpD  
+Careful Nature  
+- Earthquake  
+- Refresh  
+- Toxic  
+- Stealth Rock  
+
+Reuniclus @ Rocky Helmet  
+Ability: Magic Guard  
+EVs: 252 HP / 204 Def / 52 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Calm Mind  
+- Acid Armor  
+- Recover  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 32 Def / 204 SpD / 20 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic Spikes  
+- Recover  
+- Haze  
+
+Tornadus-Therian (M) @ Flyinium Z  
+Ability: Regenerator  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hurricane  
+- Knock Off  
+- U-turn  
+- Taunt  
+
+Ditto @ Choice Scarf  
+Ability: Imposter  
+EVs: 252 HP / 4 Atk / 252 Def  
+Relaxed Nature  
+IVs: 30 Atk / 30 SpA / 30 SpD / 1 Spe  
+- Transform  
+
+=== [gen7ou] alex ===
+Scizor-Mega @ Scizorite  
+Ability: Light Metal  
+EVs: 248 HP / 16 Atk / 96 Def / 116 SpD / 32 Spe  
+Impish Nature  
+- Swords Dance  
+- Bullet Punch  
+- U-turn  
+- Roost  
+
+Landorus-Therian (M) @ Iapapa Berry  
+Ability: Intimidate  
+EVs: 240 HP / 96 Def / 148 SpD / 24 Spe  
+Impish Nature  
+- Earthquake  
+- U-turn  
+- Rock Tomb  
+- Defog  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 176 SpD / 84 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Magma Storm  
+- Earth Power  
+- Taunt  
+
+Tapu Fini @ Choice Scarf  
+Ability: Misty Surge  
+EVs: 96 HP / 160 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Hydro Pump  
+- Trick  
+- Defog  
+
+Weavile @ Choice Band  
+Ability: Pickpocket  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Beat Up  
+- Icicle Crash  
+- Knock Off  
+- Pursuit  
+
+Kyurem-Black @ Icium Z  
+Ability: Teravolt  
+EVs: 224 HP / 16 Atk / 36 Def / 8 SpA / 76 SpD / 148 Spe  
+Adamant Nature  
+- Freeze Shock  
+- Fusion Bolt  
+- Ice Beam  
+- Roost  
+
+=== [gen7ou] alex 2 ===
+Scizor-Mega @ Scizorite  
+Ability: Technician  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Bullet Punch  
+- U-turn  
+- Roost  
+- Swords Dance  
+
+Landorus-Therian (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Defog  
+- Hidden Power [Ice]  
+- U-turn  
+
+Garchomp @ Rocky Helmet  
+Ability: Rough Skin  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+- Earthquake  
+- Toxic  
+- Stealth Rock  
+- Fire Blast  
+
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Knock Off  
+- Sacred Sword  
+- Smart Strike  
+
+Weavile @ Choice Band  
+Ability: Pickpocket  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Beat Up  
+- Ice Shard  
+- Knock Off  
+- Icicle Crash  
+
+Kyurem-Black @ Icium Z  
+Ability: Teravolt  
+EVs: 192 HP / 56 Atk / 72 Def / 140 SpA / 12 SpD / 36 Spe  
+Brave Nature  
+- Ice Beam  
+- Freeze Shock  
+- Fusion Bolt  
+- Roost  
+
+=== [gen7ou] koko adazor ===
+Scizor-Mega @ Scizorite  
+Ability: Light Metal  
+EVs: 80 HP / 208 Atk / 220 Spe  
+Adamant Nature  
+- Swords Dance  
+- Bullet Punch  
+- Superpower  
+- Double-Edge  
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 220 Atk / 68 Def / 220 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Defog  
+- U-turn  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 128 SpD / 132 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Magma Storm  
+- Earth Power  
+- Taunt  
+
+Tapu Koko @ Iapapa Berry  
+Ability: Electric Surge  
+EVs: 20 HP / 252 SpA / 20 SpD / 216 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Taunt  
+- Volt Switch  
+- Nature's Madness  
+- Hidden Power [Ice]  
+
+Greninja (M) @ Expert Belt  
+Ability: Protean  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Extrasensory  
+- Hidden Power [Fire]  
+- Spikes  
+
+Kyurem-Black @ Icium Z  
+Ability: Teravolt  
+EVs: 224 HP / 16 Atk / 36 Def / 84 SpD / 148 Spe  
+Adamant Nature  
+- Freeze Shock  
+- Fusion Bolt  
+- Ice Beam  
+- Roost  
+
+=== [gen7ou] msciz kyub balance ===
+Scizor-Mega @ Scizorite  
+Ability: Technician  
+EVs: 248 HP / 40 Def / 220 Spe  
+Impish Nature  
+- Swords Dance  
+- Bullet Punch  
+- Superpower  
+- Roost  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 236 SpD / 28 Spe  
+Careful Nature  
+- Swords Dance  
+- Earthquake  
+- Facade  
+- Roost  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 208 SpD / 52 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Magma Storm  
+- Earth Power  
+- Toxic  
+
+Tapu Fini @ Choice Scarf  
+Ability: Misty Surge  
+EVs: 96 HP / 160 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Hydro Pump  
+- Trick  
+- Defog  
+
+Tornadus-Therian (M) @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 248 HP / 40 Def / 220 Spe  
+Timid Nature  
+- Hurricane  
+- Knock Off  
+- U-turn  
+- Taunt  
+
+Kyurem-Black @ Icium Z  
+Ability: Teravolt  
+EVs: 128 HP / 44 Atk / 224 Def / 84 SpD / 28 Spe  
+Adamant Nature  
+- Ice Beam  
+- Fusion Bolt  
+- Freeze Shock  
+- Roost  
+
+=== [gen7ou] tay keith ===
+Scizor-Mega @ Scizorite  
+Ability: Light Metal  
+EVs: 248 HP / 16 Atk / 96 Def / 116 SpD / 32 Spe  
+Impish Nature  
+- Swords Dance  
+- Bullet Punch  
+- U-turn  
+- Roost  
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 120 HP / 168 Atk / 220 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Stone Edge  
+- Hidden Power [Ice]  
+
+Tapu Lele @ Choice Specs  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Psyshock  
+- Moonblast  
+- Hidden Power [Fire]  
+
+Hoopa-Unbound @ Darkinium Z  
+Ability: Magician  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Dark Pulse  
+- Focus Blast  
+- Nasty Plot  
+
+Zapdos @ Rocky Helmet  
+Ability: Static  
+EVs: 248 HP / 240 Def / 20 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Discharge  
+- Heat Wave  
+- Roost  
+- Defog  
+
+Chansey (F) @ Eviolite  
+Ability: Natural Cure  
+EVs: 240 HP / 252 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Seismic Toss  
+- Thunder Wave  
+- Soft-Boiled  
+
+=== [gen7ou] sciz dual terrain ===
+Scizor-Mega @ Scizorite  
+Ability: Technician  
+EVs: 240 HP / 136 Atk / 132 SpD  
+Adamant Nature  
+IVs: 30 Spe  
+- U-turn  
+- Roost  
+- Pursuit  
+- Bullet Punch  
+
+Landorus-Therian @ Yache Berry  
+Ability: Intimidate  
+EVs: 248 HP / 232 Def / 28 SpD  
+Relaxed Nature  
+- Stealth Rock  
+- Earthquake  
+- U-turn  
+- Hidden Power [Ice]  
+
+Tapu Lele @ Choice Scarf  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Moonblast  
+- Focus Blast  
+- Magic Room  
+
+Victini @ Choice Band  
+Ability: Victory Star  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- V-create  
+- Bolt Strike  
+- Zen Headbutt  
+- U-turn  
+
+Tapu Koko @ Electrium Z  
+Ability: Electric Surge  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Roost  
+- Hidden Power [Ice]  
+- Taunt  
+- Thunderbolt  
+
+Rotom-Wash @ Iapapa Berry  
+Ability: Levitate  
+EVs: 248 HP / 8 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk / 30 Spe  
+- Will-O-Wisp  
+- Volt Switch  
+- Hydro Pump  
+- Defog  
+
+=== [gen7ou] scizor keld balance ===
+Scizor-Mega @ Scizorite  
+Ability: Technician  
+EVs: 248 HP / 16 Def / 244 SpD  
+Impish Nature  
+- Swords Dance  
+- Bullet Punch  
+- U-turn  
+- Roost  
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 120 HP / 168 Atk / 220 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Stone Edge  
+- Defog  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 4 Def / 208 SpD / 48 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Magma Storm  
+- Earth Power  
+- Toxic  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 92 Def / 164 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Toxic Spikes  
+- Scald  
+- Recover  
+- Haze  
+
+Keldeo @ Leftovers  
+Ability: Justified  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Calm Mind  
+- Scald  
+- Secret Sword  
+
+Tornadus-Therian (M) @ Flyinium Z  
+Ability: Regenerator  
+EVs: 8 HP / 64 Def / 216 SpA / 220 Spe  
+Timid Nature  
+- Hurricane  
+- Knock Off  
+- U-turn  
+- Taunt  
+
+=== [gen7ou] sciz mixchomp muk ===
+Scizor-Mega @ Scizorite  
+Ability: Technician  
+EVs: 248 HP / 16 Def / 36 SpA / 208 SpD  
+Relaxed Nature  
+- Bullet Punch  
+- Hidden Power [Fire]  
+- U-turn  
+- Roost  
+
+Landorus-Therian @ Rocky Helmet  
+Ability: Intimidate  
+EVs: 248 HP / 224 Def / 36 Spe  
+Impish Nature  
+- Earthquake  
+- Hidden Power [Ice]  
+- U-turn  
+- Toxic  
+
+Garchomp @ Groundium Z  
+Ability: Rough Skin  
+EVs: 200 Atk / 56 SpA / 252 Spe  
+Hasty Nature  
+- Earthquake  
+- Hidden Power [Ice]  
+- Fire Blast  
+- Stealth Rock  
+
+Tapu Fini @ Choice Scarf  
+Ability: Misty Surge  
+EVs: 176 HP / 84 SpA / 248 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Hydro Pump  
+- Trick  
+- Defog  
+
+Muk-Alola @ Assault Vest  
+Ability: Poison Touch  
+Shiny: Yes  
+EVs: 248 HP / 36 Atk / 28 Def / 192 SpD / 4 Spe  
+Careful Nature  
+- Knock Off  
+- Pursuit  
+- Poison Jab  
+- Rock Slide  
+
+Dinosso (Serperior) @ Leftovers  
+Ability: Contrary  
+EVs: 56 HP / 220 SpA / 232 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Leaf Storm  
+- Hidden Power [Fire]  
+- Leech Seed  
+- Substitute  
+
+=== [gen7ou] hydra semistall ===
+Scizor-Mega @ Scizorite  
+Ability: Light Metal  
+EVs: 248 HP / 16 Def / 244 SpD  
+Impish Nature  
+IVs: 28 Spe  
+- Bullet Punch  
+- U-turn  
+- Roost  
+- Defog  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 84 Atk / 124 SpD / 56 Spe  
+Adamant Nature  
+- Swords Dance  
+- Earthquake  
+- Ice Fang  
+- Roost  
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+- Stealth Rock  
+- Moonblast  
+- Knock Off  
+- Soft-Boiled  
+
+Hydreigon @ Darkinium Z  
+Ability: Levitate  
+EVs: 8 HP / 252 SpA / 16 SpD / 232 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Taunt  
+- Dark Pulse  
+- Earth Power  
+- Roost  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 92 Def / 164 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Recover  
+- Haze  
+- Toxic Spikes  
+
+Ditto @ Choice Scarf  
+Ability: Imposter  
+Happiness: 0  
+Hidden Power: Ground  
+EVs: 252 HP / 4 Def / 252 SpA  
+Quiet Nature  
+IVs: 30 SpA / 30 SpD / 1 Spe  
+- Transform  
+
+=== [gen7ou] icium bro ===
+Scizor-Mega @ Scizorite  
+Ability: Technician  
+EVs: 248 HP / 56 Def / 204 SpD  
+Impish Nature  
+- Bullet Punch  
+- U-turn  
+- Roost  
+- Defog  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 244 SpD / 20 Spe  
+Jolly Nature  
+- Swords Dance  
+- Earthquake  
+- Facade  
+- Roost  
+
+Slowbro @ Icium Z  
+Ability: Regenerator  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Ice Beam  
+- Slack Off  
+- Toxic  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 248 HP / 76 Def / 160 SpD / 24 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Toxic Spikes  
+- Scald  
+- Recover  
+- Haze  
+
+Chansey (F) @ Eviolite  
+Ability: Natural Cure  
+EVs: 240 HP / 252 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Seismic Toss  
+- Soft-Boiled  
+- Thunder Wave  
+
+Ditto @ Choice Scarf  
+Ability: Imposter  
+Hidden Power: Ground  
+EVs: 252 HP / 4 Def / 252 SpA  
+Quiet Nature  
+IVs: 30 Atk / 30 SpA / 30 SpD / 1 Spe  
+- Transform  
+
+=== [gen7ou] charmflash virgin ===
+Scizor-Mega @ Scizorite  
+Ability: Technician  
+EVs: 248 HP / 16 Def / 244 SpD  
+Impish Nature  
+- Bullet Punch  
+- U-turn  
+- Roost  
+- Defog  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 148 SpD / 116 Spe  
+Jolly Nature  
+- Earthquake  
+- Roost  
+- Knock Off  
+- Stealth Rock  
+
+Reuniclus @ Leftovers  
+Ability: Magic Guard  
+EVs: 216 HP / 240 Def / 52 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Calm Mind  
+- Acid Armor  
+- Recover  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 204 SpD / 52 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Recover  
+- Haze  
+- Toxic Spikes  
+
+Kyurem @ Icium Z  
+Ability: Pressure  
+EVs: 56 HP / 200 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Earth Power  
+- Substitute  
+- Roost  
+
+Ditto @ Choice Scarf  
+Ability: Imposter  
+EVs: 252 HP / 4 Atk / 252 Def  
+Relaxed Nature  
+IVs: 30 Atk / 30 SpA / 30 SpD / 1 Spe  
+- Transform  
+
+=== [gen7ou] av vic ===
+Scizor-Mega @ Scizorite  
+Ability: Technician  
+EVs: 248 HP / 40 Def / 56 SpD / 164 Spe  
+Impish Nature  
+- Swords Dance  
+- U-turn  
+- Bullet Punch  
+- Roost  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 76 Def / 160 SpD / 20 Spe  
+Jolly Nature  
+- Earthquake  
+- Toxic  
+- Defog  
+- Roost  
+
+Victini @ Assault Vest  
+Ability: Victory Star  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Hasty Nature  
+- V-create  
+- Bolt Strike  
+- Power-Up Punch  
+- Glaciate  
+
+Greninja (M) @ Psychium Z  
+Ability: Protean  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Extrasensory  
+- Hidden Power [Fire]  
+- Ice Beam  
+
+Kommo-o @ Leftovers  
+Ability: Bulletproof  
+EVs: 252 HP / 60 Def / 196 SpD  
+Careful Nature  
+- Drain Punch  
+- Toxic  
+- Stealth Rock  
+- Protect  
+
+Rotom-Wash @ Choice Scarf  
+Ability: Levitate  
+EVs: 224 HP / 48 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Volt Switch  
+- Pain Split  
+- Trick  
+
+=== [gen7ou] dia kokolucha volc ===
+Diancie-Mega @ Diancite  
+Ability: Magic Bounce  
+EVs: 244 HP / 12 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Moonblast  
+- Substitute  
+- Endeavor  
+
+Magearna @ Leftovers  
+Ability: Soul-Heart  
+EVs: 72 HP / 252 SpA / 184 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Shift Gear  
+- Thunderbolt  
+- Fleur Cannon  
+
+Tapu Koko @ Light Clay  
+Ability: Electric Surge  
+EVs: 248 HP / 8 SpD / 252 Spe  
+Jolly Nature  
+- Reflect  
+- Light Screen  
+- U-turn  
+- Taunt  
+
+Kommo-o @ Kommonium Z  
+Ability: Bulletproof  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naughty Nature  
+- Clanging Scales  
+- Close Combat  
+- Poison Jab  
+- Swords Dance  
+
+Hawlucha @ Electric Seed  
+Ability: Unburden  
+EVs: 208 HP / 252 Atk / 48 Spe  
+Adamant Nature  
+- Swords Dance  
+- Acrobatics  
+- High Jump Kick  
+- Taunt  
+
+Volcarona @ Leftovers  
+Ability: Swarm  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Flamethrower  
+- Bug Buzz  
+- Substitute  
+
+=== [gen7ou] dia kokolucha volc 2 ===
+Diancie-Mega @ Diancite  
+Ability: Magic Bounce  
+EVs: 248 HP / 8 Atk / 252 Spe  
+Jolly Nature  
+- Endeavor  
+- Substitute  
+- Diamond Storm  
+- Stealth Rock  
+
+Magearna @ Leftovers  
+Ability: Soul-Heart  
+EVs: 72 HP / 252 SpA / 184 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shift Gear  
+- Calm Mind  
+- Fleur Cannon  
+- Focus Blast  
+
+Tapu Koko @ Light Clay  
+Ability: Electric Surge  
+EVs: 248 HP / 8 SpD / 252 Spe  
+Jolly Nature  
+- Reflect  
+- Light Screen  
+- U-turn  
+- Taunt  
+
+Serperior @ Normalium Z  
+Ability: Contrary  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Leaf Storm  
+- Glare  
+- Taunt  
+- Nature Power  
+
+Hawlucha @ Electric Seed  
+Ability: Unburden  
+EVs: 96 HP / 252 Atk / 32 Def / 128 Spe  
+Adamant Nature  
+- Swords Dance  
+- High Jump Kick  
+- Acrobatics  
+- Taunt  
+
+Volcarona @ Expert Belt  
+Ability: Flame Body  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Bug Buzz  
+- Fire Blast  
+- Hidden Power [Ground]  
+
+=== [gen7ou] dia cune cress ===
+Diancie-Mega @ Diancite  
+Ability: Magic Bounce  
+EVs: 244 HP / 12 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Stealth Rock  
+- Endeavor  
+- Substitute  
+
+Magearna @ Fairium Z  
+Ability: Soul-Heart  
+EVs: 52 HP / 204 SpA / 16 SpD / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Shift Gear  
+- Fleur Cannon  
+- Aura Sphere  
+
+Cresselia (F) @ Mental Herb  
+Ability: Levitate  
+EVs: 252 HP / 136 Def / 120 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Thunder Wave  
+- Ice Beam  
+- Skill Swap  
+- Lunar Dance  
+
+Serperior @ Rocky Helmet  
+Ability: Contrary  
+EVs: 248 HP / 20 Def / 8 SpD / 232 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Leaf Storm  
+- Glare  
+- Defog  
+- Taunt  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 40 SpD / 216 Spe  
+Timid Nature  
+- Scald  
+- Substitute  
+- Calm Mind  
+- Protect  
+
+Volcarona @ Leftovers  
+Ability: Flame Body  
+EVs: 112 HP / 212 SpA / 184 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Flamethrower  
+- Bug Buzz  
+- Substitute  
+
+=== [gen7ou] Crab Offense ===
+Diancie-Mega @ Diancite  
+Ability: Clear Body  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Stealth Rock  
+- Moonblast  
+- Earth Power  
+- Diamond Storm  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+EVs: 232 Atk / 68 Def / 208 Spe  
+Jolly Nature  
+- U-turn  
+- Explosion  
+- Earthquake  
+- Hidden Power [Ice]  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 24 Def / 232 SpD  
+Careful Nature  
+IVs: 0 Spe  
+- Spikes  
+- Leech Seed  
+- Gyro Ball  
+- Power Whip  
+
+Crawdaunt (M) @ Choice Band  
+Ability: Adaptability  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Crabhammer  
+- Knock Off  
+- Crunch  
+- Aqua Jet  
+
+Rotom-Wash @ Iapapa Berry  
+Ability: Levitate  
+EVs: 252 HP / 240 Def / 16 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Will-O-Wisp  
+- Hydro Pump  
+- Volt Switch  
+- Defog  
+
+Volcarona (M) @ Buginium Z  
+Ability: Swarm  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Flamethrower  
+- Bug Buzz  
+- Giga Drain  
+
+=== [gen7ou] z dig ninja volc ===
+Diancie-Mega @ Diancite  
+Ability: Magic Bounce  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Moonblast  
+- Earth Power  
+- Hidden Power [Ice]  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+EVs: 96 HP / 144 Atk / 60 Def / 208 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Knock Off  
+- U-turn  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 48 Def / 208 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Stealth Rock  
+- Leech Seed  
+- Protect  
+- Gyro Ball  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 44 Def / 216 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Defog  
+- Taunt  
+- Nature's Madness  
+- Whirlpool  
+
+Greninja (M) @ Groundium Z  
+Ability: Protean  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Spikes  
+- Dig  
+- Gunk Shot  
+- Hidden Power [Fire]  
+
+Volcarona @ Iapapa Berry  
+Ability: Flame Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Flamethrower  
+- Bug Buzz  
+- Psychic  
+
+=== [gen7ou] dia subnite ===
+Diancie-Mega @ Diancite  
+Ability: Magic Bounce  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Moonblast  
+- Earth Power  
+- Hidden Power [Ice]  
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 208 Atk / 68 Def / 232 Spe  
+Jolly Nature  
+IVs: 8 SpA  
+- Earthquake  
+- U-turn  
+- Punishment  
+- Explosion  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 44 Def / 208 SpD / 4 Spe  
+Careful Nature  
+IVs: 24 SpA  
+- Spikes  
+- Power Whip  
+- Knock Off  
+- Leech Seed  
+
+Tapu Fini @ Wiki Berry  
+Ability: Misty Surge  
+EVs: 248 HP / 156 SpA / 104 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Surf  
+- Moonblast  
+- Defog  
+
+Victini @ Choice Band  
+Ability: Victory Star  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+IVs: 18 SpA  
+- V-create  
+- Bolt Strike  
+- U-turn  
+- Trick  
+
+Dragonite @ Flyinium Z  
+Ability: Multiscale  
+EVs: 48 HP / 252 Atk / 208 Spe  
+Jolly Nature  
+IVs: 18 SpA  
+- Substitute  
+- Fly  
+- Earthquake  
+- Dragon Dance  
+
+=== [gen7ou] ray z dig gren ===
+Diancie-Mega @ Diancite  
+Ability: Clear Body  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Earth Power  
+- Protect  
+- Stealth Rock  
+
+Landorus (Landorus-Therian) (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 144 Atk / 164 Def / 200 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Stone Edge  
+- Defog  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Earth Power  
+- Hidden Power [Ice]  
+- Toxic  
+
+Tapu Bulu @ Choice Band  
+Ability: Grassy Surge  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Wood Hammer  
+- Horn Leech  
+- Superpower  
+- Stone Edge  
+
+Greninja @ Groundium Z  
+Ability: Protean  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Ice Beam  
+- Dig  
+- Low Kick  
+- Spikes  
+
+Toxapex @ Payapa Berry  
+Ability: Regenerator  
+EVs: 252 HP / 96 Def / 160 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic Spikes  
+- Toxic  
+- Recover  
+
+=== [gen7ou] diancie blace ===
+Diancie-Mega @ Diancite  
+Ability: Magic Bounce  
+EVs: 244 HP / 12 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Stealth Rock  
+- Endeavor  
+- Substitute  
+
+Magearna @ Iapapa Berry  
+Ability: Soul-Heart  
+EVs: 20 HP / 252 SpA / 236 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Focus Blast  
+- Thunderbolt  
+- Ice Beam  
+- Calm Mind  
+
+Kommo-o @ Salac Berry  
+Ability: Bulletproof  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Drain Punch  
+- Thunder Punch  
+- Belly Drum  
+- Substitute  
+
+Serperior @ Rocky Helmet  
+Ability: Contrary  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Leaf Storm  
+- Glare  
+- Defog  
+- Hidden Power [Fire]  
+
+Blacephalon @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+- Fire Blast  
+- Shadow Ball  
+- Explosion  
+- Trick  
+
+Dragonite @ Flyinium Z  
+Ability: Multiscale  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Fly  
+- Superpower  
+- Earthquake  
+- Dragon Dance  
+
+=== [gen7ou] treeman thundt diance ho ===
+Diancie-Mega @ Diancite  
+Ability: Magic Bounce  
+EVs: 16 HP / 208 SpA / 32 SpD / 252 Spe  
+Hasty Nature  
+- Hidden Power [Fire]  
+- Moonblast  
+- Diamond Storm  
+- Protect  
+
+Ferrothorn (M) @ Chople Berry  
+Ability: Iron Barbs  
+EVs: 252 HP / 48 Def / 192 SpD / 16 Spe  
+Impish Nature  
+- Spikes  
+- Thunder Wave  
+- Power Whip  
+- Stealth Rock  
+
+Victini @ Choice Band  
+Ability: Victory Star  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- V-create  
+- U-turn  
+- Bolt Strike  
+- Trick  
+
+Tapu Fini @ Choice Scarf  
+Ability: Misty Surge  
+EVs: 16 HP / 20 Def / 220 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Surf  
+- Trick  
+- Defog  
+- Moonblast  
+
+Thundurus-Therian (M) @ Rocky Helmet  
+Ability: Volt Absorb  
+EVs: 112 HP / 144 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Taunt  
+- Volt Switch  
+- Hidden Power [Ice]  
+- Thunderbolt  
+
+Dragonite @ Flyinium Z  
+Ability: Multiscale  
+EVs: 48 HP / 252 Atk / 208 Spe  
+Jolly Nature  
+- Fly  
+- Dragon Dance  
+- Earthquake  
+- Extreme Speed  
+
+=== [gen7ou] dia kyu ashninja ===
+Diancie-Mega @ Diancite  
+Ability: Magic Bounce  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Earth Power  
+- Hidden Power [Ice]  
+- Stealth Rock  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 12 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Substitute  
+- Toxic  
+- Protect  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 248 HP / 32 Def / 208 SpD / 20 Spe  
+Careful Nature  
+- Heavy Slam  
+- Flamethrower  
+- Leech Seed  
+- Protect  
+
+Greninja @ Waterium Z  
+Ability: Battle Bond  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Water Shuriken  
+- Spikes  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 96 Def / 160 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic Spikes  
+- Recover  
+- Baneful Bunker  
+
+Kyurem @ Leftovers  
+Ability: Pressure  
+EVs: 228 HP / 248 Def / 16 SpA / 16 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Earth Power  
+- Substitute  
+- Roost  
+
+=== [gen7ou] wof ho ===
+Diancie-Mega @ Diancite  
+Ability: Magic Bounce  
+EVs: 244 HP / 12 Def / 252 Spe  
+Jolly Nature  
+- Substitute  
+- Stealth Rock  
+- Diamond Storm  
+- Endeavor  
+
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Smart Strike  
+- Knock Off  
+- Sacred Sword  
+
+Tapu Lele @ Twisted Spoon  
+Ability: Psychic Surge  
+EVs: 80 HP / 236 Def / 176 SpA / 16 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Taunt  
+- Moonblast  
+- Hidden Power [Fire]  
+
+Volcarona (M) @ Leftovers  
+Ability: Swarm  
+EVs: 112 HP / 212 SpA / 184 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Quiver Dance  
+- Flamethrower  
+- Bug Buzz  
+
+Thundurus-Therian @ Rocky Helmet  
+Ability: Volt Absorb  
+EVs: 8 HP / 152 Def / 96 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Thunder Wave  
+- Defog  
+- Hidden Power [Ice]  
+
+Kyurem-Black @ Icium Z  
+Ability: Teravolt  
+EVs: 80 HP / 156 Atk / 252 SpD / 20 Spe  
+Adamant Nature  
+- Fusion Bolt  
+- Freeze Shock  
+- Hone Claws  
+- Ice Beam  
+
+=== [gen7ou] TREEMAN HO ===
+Diancie-Mega @ Diancite  
+Ability: Magic Bounce  
+EVs: 136 Atk / 120 SpA / 252 Spe  
+Hasty Nature  
+- Hidden Power [Fire]  
+- Moonblast  
+- Diamond Storm  
+- Protect  
+
+Excadrill (M) @ Sitrus Berry  
+Ability: Mold Breaker  
+EVs: 76 HP / 12 Atk / 64 Def / 112 SpD / 244 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Iron Head  
+- Rapid Spin  
+- Earthquake  
+
+Victini @ Normalium Z  
+Ability: Victory Star  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Celebrate  
+- Fire Blast  
+- Stored Power  
+- Focus Blast  
+
+Tapu Fini @ Iapapa Berry  
+Ability: Misty Surge  
+EVs: 248 HP / 64 Def / 32 SpA / 28 SpD / 136 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Taunt  
+- Nature's Madness  
+- Moonblast  
+- Surf  
+
+Serperior (F) @ Choice Scarf  
+Ability: Contrary  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Leaf Storm  
+- Glare  
+- Defog  
+- Knock Off  
+
+Tornadus-Therian (M) @ Life Orb  
+Ability: Regenerator  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Knock Off  
+- Focus Blast  
+- Hidden Power [Ice]  
+- Hurricane  
+
+=== [gen7ou] zardx ho ===
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Flare Blitz  
+- Dragon Claw  
+- Earthquake  
+- Dragon Dance  
+
+Landorus-Therian (M) @ Yache Berry  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Explosion  
+- Stealth Rock  
+- U-turn  
+
+Magearna @ Fightinium Z  
+Ability: Soul-Heart  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Fleur Cannon  
+- Thunderbolt  
+- Shift Gear  
+- Focus Blast  
+
+Tapu Koko @ Shuca Berry  
+Ability: Electric Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Nature's Madness  
+- Hidden Power [Ice]  
+- Taunt  
+
+Serperior @ Light Clay  
+Ability: Contrary  
+EVs: 112 HP / 144 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Leaf Storm  
+- Reflect  
+- Light Screen  
+- Taunt  
+
+Manaphy @ Rindo Berry  
+Ability: Hydration  
+EVs: 72 HP / 220 SpA / 216 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Surf  
+- Ice Beam  
+- Psychic  
+- Tail Glow  
+
+=== [gen7ou] zardx orb lando beat up weav ===
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Dragon Claw  
+- Roost  
+- Dragon Dance  
+
+Landorus-Therian (M) @ Life Orb  
+Ability: Intimidate  
+EVs: 232 HP / 32 Atk / 48 SpD / 196 Spe  
+Naughty Nature  
+- Stealth Rock  
+- Earthquake  
+- Hidden Power [Ice]  
+- U-turn  
+
+Magearna @ Normalium Z  
+Ability: Soul-Heart  
+EVs: 248 HP / 136 Def / 124 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Heal Bell  
+- Volt Switch  
+- Fleur Cannon  
+- Heart Swap  
+
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+IVs: 14 SpA  
+- Leaf Blade  
+- Smart Strike  
+- Sacred Sword  
+- Knock Off  
+
+Weavile @ Choice Band  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+IVs: 29 SpA  
+- Beat Up  
+- Knock Off  
+- Icicle Crash  
+- Pursuit  
+
+Rotom-Wash @ Wiki Berry  
+Ability: Levitate  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Hydro Pump  
+- Will-O-Wisp  
+- Defog  
+
+=== [gen7ou] metro kyurem tr gear ===
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+EVs: 224 HP / 20 Atk / 168 Def / 96 Spe  
+Impish Nature  
+IVs: 19 SpA  
+- Flare Blitz  
+- Dragon Claw  
+- Roost  
+- Swords Dance  
+
+Landorus-Therian (M) @ Life Orb  
+Ability: Intimidate  
+EVs: 232 HP / 32 Atk / 48 SpD / 196 Spe  
+Naughty Nature  
+- Stealth Rock  
+- Earthquake  
+- Hidden Power [Ice]  
+- Defog  
+
+Magearna @ Fairium Z  
+Ability: Soul-Heart  
+EVs: 248 HP / 44 Def / 216 SpA  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Trick Room  
+- Fleur Cannon  
+- Thunderbolt  
+- Focus Blast  
+
+Tapu Lele @ Choice Scarf  
+Ability: Psychic Surge  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Moonblast  
+- Hidden Power [Fire]  
+- Aromatherapy  
+
+Serperior @ Wiki Berry  
+Ability: Contrary  
+EVs: 112 HP / 4 Def / 140 SpA / 252 Spe  
+Timid Nature  
+- Glare  
+- Leaf Storm  
+- Knock Off  
+- Taunt  
+
+Kyurem-Black @ Metronome  
+Ability: Teravolt  
+EVs: 56 HP / 252 Atk / 40 SpA / 160 Spe  
+Lonely Nature  
+- Substitute  
+- Ice Beam  
+- Fusion Bolt  
+- Endeavor  
+
+=== [gen7ou] zardx drill boldmag ===
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+EVs: 248 HP / 44 Atk / 216 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Dragon Claw  
+- Flare Blitz  
+- Roost  
+
+Excadrill @ Leftovers  
+Ability: Mold Breaker  
+EVs: 176 HP / 252 SpD / 80 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Iron Head  
+- Stealth Rock  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+EVs: 192 HP / 100 Atk / 216 Spe  
+Naive Nature  
+- Earthquake  
+- U-turn  
+- Defog  
+- Hidden Power [Ice]  
+
+Magearna @ Fairium Z  
+Ability: Soul-Heart  
+EVs: 248 HP / 160 Def / 100 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Fleur Cannon  
+- Thunderbolt  
+- Calm Mind  
+- Pain Split  
+
+Slowbro @ Leftovers  
+Ability: Regenerator  
+EVs: 248 HP / 92 Def / 168 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Protect  
+- Toxic  
+- Slack Off  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 92 Def / 164 SpD  
+Sassy Nature  
+- Scald  
+- Toxic  
+- Recover  
+- Knock Off  
+
+=== [gen7ou] zardx colburbro ===
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+IVs: 19 SpA  
+- Swords Dance  
+- Flare Blitz  
+- Dragon Claw  
+- Roost  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 44 Atk / 68 Def / 132 SpD / 20 Spe  
+Jolly Nature  
+IVs: 29 SpA  
+- Earthquake  
+- U-turn  
+- Roost  
+- Defog  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 44 Def / 208 SpD / 4 Spe  
+Careful Nature  
+IVs: 24 SpA  
+- Stealth Rock  
+- Power Whip  
+- Knock Off  
+- Leech Seed  
+
+Slowbro @ Colbur Berry  
+Ability: Regenerator  
+EVs: 248 HP / 204 Def / 56 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Counter  
+- Toxic  
+- Slack Off  
+
+Tapu Koko @ Fairium Z  
+Ability: Electric Surge  
+EVs: 8 Def / 248 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Thunderbolt  
+- Dazzling Gleam  
+- Roost  
+
+Chansey (F) @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Toxic  
+- Skill Swap  
+- Soft-Boiled  
+
+=== [gen7ou] zardx fsightbro ===
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Dragon Claw  
+- Swords Dance  
+- Roost  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 44 Atk / 68 Def / 132 SpD / 20 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Roost  
+- Defog  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 44 Def / 208 SpD / 4 Spe  
+Careful Nature  
+- Stealth Rock  
+- Power Whip  
+- Knock Off  
+- Leech Seed  
+
+Slowbro @ Psychium Z  
+Ability: Regenerator  
+EVs: 248 HP / 176 Def / 84 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Future Sight  
+- Counter  
+- Slack Off  
+
+Tapu Koko @ Life Orb  
+Ability: Electric Surge  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Hidden Power [Ice]  
+- Roost  
+- Taunt  
+
+Chansey (F) @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 252 Def / 4 SpD / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Thunder Wave  
+- Seismic Toss  
+- Soft-Boiled  
+- Confide  
+
+=== [gen7ou] zardx semistall ===
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+EVs: 224 HP / 20 Atk / 168 Def / 96 Spe  
+Impish Nature  
+IVs: 19 SpA  
+- Flare Blitz  
+- Dragon Claw  
+- Roost  
+- Swords Dance  
+
+Seismitoad @ Leftovers  
+Ability: Water Absorb  
+EVs: 232 HP / 36 Def / 216 SpD / 24 Spe  
+Careful Nature  
+- Stealth Rock  
+- Scald  
+- Earthquake  
+- Refresh  
+
+Magearna @ Leftovers  
+Ability: Soul-Heart  
+EVs: 248 HP / 28 Def / 232 SpD  
+Calm Nature  
+IVs: 0 Atk / 30 Spe  
+- Fleur Cannon  
+- Volt Switch  
+- Pain Split  
+- Heal Bell  
+
+Cresselia (F) @ Leftovers  
+Ability: Levitate  
+EVs: 248 HP / 136 Def / 108 SpA / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Psyshock  
+- Ice Beam  
+- Moonlight  
+
+Tornadus-Therian (M) @ Flyinium Z  
+Ability: Regenerator  
+EVs: 120 HP / 48 Def / 124 SpA / 216 Spe  
+Timid Nature  
+- Hurricane  
+- Knock Off  
+- U-turn  
+- Defog  
+
+Ditto @ Choice Scarf  
+Ability: Imposter  
+Happiness: 0  
+Hidden Power: Ground  
+EVs: 252 HP / 4 Def / 252 SpA  
+Quiet Nature  
+IVs: 30 SpA / 30 SpD / 1 Spe  
+- Transform  
+
+=== [gen7ou] zardx ho 2 ===
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Earthquake  
+- Dragon Claw  
+- Dragon Dance  
+
+Magearna @ Wiki Berry  
+Ability: Soul-Heart  
+EVs: 248 HP / 72 Def / 136 SpA / 52 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Fleur Cannon  
+- Thunderbolt  
+- Ice Beam  
+- Calm Mind  
+
+Mew @ Mental Herb  
+Ability: Synchronize  
+EVs: 224 HP / 68 Def / 216 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Ice Beam  
+- Taunt  
+- Thunder Wave  
+
+Kommo-o @ Kommonium Z  
+Ability: Bulletproof  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Mild Nature  
+- Clanging Scales  
+- Drain Punch  
+- Flamethrower  
+- Taunt  
+
+Serperior (M) @ Rocky Helmet  
+Ability: Contrary  
+EVs: 216 HP / 40 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Glare  
+- Leaf Storm  
+- Taunt  
+- Defog  
+
+Volcarona @ Lum Berry  
+Ability: Flame Body  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Flamethrower  
+- Giga Drain  
+- Hidden Power [Ground]  
+
+=== [gen7ou] zardx crit tana ===
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+EVs: 224 Atk / 32 SpD / 252 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Dragon Claw  
+- Earthquake  
+- Roost  
+
+Magearna @ Fairium Z  
+Ability: Soul-Heart  
+EVs: 248 HP / 28 Def / 224 SpA / 8 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Pain Split  
+- Fleur Cannon  
+- Thunderbolt  
+
+Kartana @ Scope Lens  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Knock Off  
+- Synthesis  
+- Defog  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Nature's Madness  
+- Whirlpool  
+- Taunt  
+
+Victini @ Choice Scarf  
+Ability: Victory Star  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- V-create  
+- U-turn  
+- Final Gambit  
+- Trick  
+
+Thundurus-Therian (M) @ Rocky Helmet  
+Ability: Volt Absorb  
+EVs: 136 HP / 120 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Hidden Power [Ice]  
+- Taunt  
+- Defog  
+
+=== [gen7ou] sun ho ===
+Charizard-Mega-Y @ Charizardite Y  
+Ability: Drought  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Focus Blast  
+- Defog  
+- Roost  
+
+Landorus-Therian (M) @ Flyinium Z  
+Ability: Intimidate  
+EVs: 128 HP / 132 Atk / 248 Spe  
+Naughty Nature  
+- Earthquake  
+- Fly  
+- Swords Dance  
+- Stealth Rock  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 168 SpD / 88 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Earth Power  
+- Taunt  
+- Toxic  
+
+Tapu Lele @ Aguav Berry  
+Ability: Psychic Surge  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Moonblast  
+- Focus Blast  
+- Calm Mind  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 16 Def / 52 SpD / 192 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Surf  
+- Moonblast  
+- Taunt  
+- Defog  
+
+Victini @ Choice Scarf  
+Ability: Victory Star  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- V-create  
+- Bolt Strike  
+- U-turn  
+- Final Gambit  
+
+=== [gen7ou] sun ho 2 ===
+Charizard-Mega-Y @ Charizardite Y  
+Ability: Drought  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Focus Blast  
+- Solar Beam  
+- Roost  
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 232 Atk / 68 Def / 208 Spe  
+Jolly Nature  
+- Earthquake  
+- Explosion  
+- Defog  
+- U-turn  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 244 HP / 216 SpD / 48 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Magma Storm  
+- Earth Power  
+- Taunt  
+
+Kartana @ Grassium Z  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Knock Off  
+- Defog  
+- Synthesis  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 172 Def / 88 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Taunt  
+- Moonblast  
+- Whirlpool  
+- Nature's Madness  
+
+Weavile @ Choice Band  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Knock Off  
+- Icicle Crash  
+- Pursuit  
+- Beat Up  
+
+=== [gen7ou] fsight cress sun ===
+Charizard-Mega-Y @ Charizardite Y  
+Ability: Drought  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Solar Beam  
+- Focus Blast  
+- Roost  
+
+Landorus-Therian (M) @ Figy Berry  
+Ability: Intimidate  
+EVs: 248 HP / 96 Def / 144 SpD / 20 Spe  
+Impish Nature  
+- Stealth Rock  
+- U-turn  
+- Rock Tomb  
+- Earthquake  
+
+Kartana @ Grassium Z  
+Ability: Beast Boost  
+EVs: 128 HP / 128 Atk / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Knock Off  
+- Defog  
+- Synthesis  
+
+Cresselia (F) @ Leftovers  
+Ability: Levitate  
+EVs: 248 HP / 40 Def / 220 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Future Sight  
+- Skill Swap  
+- Moonlight  
+- Toxic  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 172 Def / 88 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Surf  
+- Taunt  
+- Defog  
+
+Weavile @ Choice Scarf  
+Ability: Pickpocket  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Knock Off  
+- Icicle Crash  
+- Foul Play  
+- Pursuit  
+
+=== [gen7ou] yache chomp sun ===
+Charizard-Mega-Y @ Charizardite Y  
+Ability: Drought  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Solar Beam  
+- Focus Blast  
+- Roost  
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 120 HP / 168 Atk / 220 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Stone Edge  
+- Defog  
+
+Garchomp @ Yache Berry  
+Ability: Sand Veil  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Earthquake  
+- Dragon Claw  
+- Natural Gift  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 216 SpD / 44 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Magma Storm  
+- Earth Power  
+- Toxic  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 16 Def / 52 SpD / 192 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Nature's Madness  
+- Defog  
+- Taunt  
+
+Tapu Koko @ Electrium Z  
+Ability: Electric Surge  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Wild Charge  
+- Hidden Power [Ice]  
+- U-turn  
+- Roost  
+
+=== [gen7ou] zaza necrozma sun ===
+Charizard-Mega-Y @ Charizardite Y  
+Ability: Drought  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Hidden Power [Ground]  
+- Overheat  
+- Roost  
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 120 HP / 168 Atk / 220 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Stone Edge  
+- Defog  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 4 Def / 208 SpD / 48 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Earth Power  
+- Toxic  
+- Taunt  
+
+Necrozma @ Rocky Helmet  
+Ability: Prism Armor  
+EVs: 248 HP / 164 Def / 28 SpA / 68 Spe  
+Modest Nature  
+- Stealth Rock  
+- Photon Geyser  
+- Earth Power  
+- Morning Sun  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 192 SpD / 68 Spe  
+Calm Nature  
+- Knock Off  
+- Moonblast  
+- Taunt  
+- Defog  
+
+Serperior @ Grassium Z  
+Ability: Contrary  
+EVs: 188 HP / 88 SpA / 232 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Leaf Storm  
+- Hidden Power [Fire]  
+- Taunt  
+- Synthesis  
+
+=== [gen7ou] zardy semistall ===
+Charizard-Mega-Y @ Charizardite Y  
+Ability: Drought  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Focus Blast  
+- Roost  
+- Defog  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 100 Def / 52 SpD / 112 Spe  
+Jolly Nature  
+- Defog  
+- Earthquake  
+- Roost  
+- Toxic  
+
+Kartana @ Normalium Z  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Leaf Blade  
+- Sacred Sword  
+- Giga Impact  
+
+Slowbro @ Leftovers  
+Ability: Regenerator  
+EVs: 248 HP / 96 Def / 164 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Ice Beam  
+- Slack Off  
+- Thunder Wave  
+
+Weavile @ Choice Band  
+Ability: Pickpocket  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Pursuit  
+- Knock Off  
+- Icicle Crash  
+- Foul Play  
+
+Chansey @ Eviolite  
+Ability: Natural Cure  
+EVs: 240 HP / 252 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Seismic Toss  
+- Soft-Boiled  
+- Thunder Wave  
+
+=== [gen7ou] zardy cress stall ===
+Charizard-Mega-Y @ Charizardite Y  
+Ability: Drought  
+EVs: 176 HP / 20 SpA / 60 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Hidden Power [Ground]  
+- Defog  
+- Roost  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 120 SpD / 144 Spe  
+Jolly Nature  
+IVs: 17 SpA  
+- Earthquake  
+- Knock Off  
+- Roost  
+- Defog  
+
+Heatran @ Firium Z  
+Ability: Flash Fire  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Earth Power  
+- Will-O-Wisp  
+- Taunt  
+
+Cresselia (F) @ Leftovers  
+Ability: Levitate  
+EVs: 248 HP / 108 Def / 152 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Psyshock  
+- Ice Beam  
+- Moonlight  
+
+Toxapex @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 248 HP / 200 Def / 24 SpA / 36 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Hidden Power [Fire]  
+- Recover  
+- Haze  
+
+Chansey (F) @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Seismic Toss  
+- Soft-Boiled  
+- Toxic  
+
+=== [gen7ou] zardy cress sand ===
+Charizard-Mega-Y @ Charizardite Y  
+Ability: Drought  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Solar Beam  
+- Hidden Power [Ground]  
+- Roost  
+
+Tyranitar (M) @ Choice Scarf  
+Ability: Sand Stream  
+EVs: 72 HP / 60 Atk / 128 SpD / 248 Spe  
+Jolly Nature  
+- Rock Slide  
+- Pursuit  
+- Foul Play  
+- Thunder Wave  
+
+Excadrill @ Leftovers  
+Ability: Sand Rush  
+EVs: 56 Atk / 248 SpD / 204 Spe  
+Adamant Nature  
+- Earthquake  
+- Iron Head  
+- Stealth Rock  
+- Rapid Spin  
+
+Kartana @ Grassium Z  
+Ability: Beast Boost  
+EVs: 124 HP / 128 Atk / 56 SpD / 200 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Knock Off  
+- Defog  
+- Synthesis  
+
+Cresselia (F) @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 132 Def / 28 SpD / 96 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Psyshock  
+- Calm Mind  
+- Moonlight  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 104 Def / 144 SpD / 8 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic  
+- Infestation  
+- Recover  
+
+=== [gen7ou] dann3 lele ===
+Lopunny-Mega @ Lopunnite  
+Ability: Limber  
+Happiness: 0  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Frustration  
+- High Jump Kick  
+- Quick Attack  
+
+Landorus-Therian (M) @ Rocky Helmet  
+Ability: Intimidate  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Toxic  
+- U-turn  
+
+Garchomp @ Dragonium Z  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Earthquake  
+- Outrage  
+- Fire Fang  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 192 SpD / 64 Spe  
+Careful Nature  
+- Iron Head  
+- U-turn  
+- Wish  
+- Protect  
+
+Tapu Lele @ Choice Specs  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Psyshock  
+- Moonblast  
+- Focus Blast  
+
+Mantine @ Leftovers  
+Ability: Water Absorb  
+EVs: 248 HP / 240 Def / 12 SpD / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Haze  
+- Defog  
+- Roost  
+
+=== [gen7ou] dann3 kart ===
+brand new house (Lopunny-Mega) @ Lopunnite  
+Ability: Scrappy  
+Happiness: 0  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Frustration  
+- High Jump Kick  
+- Quick Attack  
+
+credit card (Landorus-Therian) (M) @ Rocky Helmet  
+Ability: Intimidate  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+- Stealth Rock  
+- Earthquake  
+- Toxic  
+- U-turn  
+
+"movie stars" (Garchomp) @ Dragonium Z  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Earthquake  
+- Outrage  
+- Fire Fang  
+
+latest dictionary (Jirachi) @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 192 SpD / 64 Spe  
+Careful Nature  
+- Iron Head  
+- U-turn  
+- Wish  
+- Protect  
+
+15 cars (Kartana) @ Choice Band  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Smart Strike  
+- Sacred Sword  
+- Knock Off  
+
+speed dial (Mantine) @ Leftovers  
+Ability: Water Absorb  
+EVs: 248 HP / 240 Def / 12 SpD / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Haze  
+- Defog  
+- Roost  
+
+=== [gen7ou] hoopaU+lop volt turn v2 ===
+Lopunny-Mega @ Lopunnite  
+Ability: Scrappy  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- High Jump Kick  
+- Return  
+- Fake Out  
+- Ice Punch  
+
+Landorus-Therian @ Rockium Z  
+Ability: Intimidate  
+EVs: 36 HP / 100 Atk / 236 Def / 136 Spe  
+Adamant Nature  
+- Earthquake  
+- Stone Edge  
+- Stealth Rock  
+- Swords Dance  
+
+Magearna @ Leftovers  
+Ability: Soul-Heart  
+EVs: 252 HP / 176 Def / 80 SpD  
+Calm Nature  
+IVs: 0 Atk / 30 Spe  
+- Ice Beam  
+- Volt Switch  
+- Heart Swap  
+- Pain Split  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 16 Def / 12 SpA / 40 SpD / 192 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Scald  
+- Defog  
+- Taunt  
+
+Victini @ Choice Scarf  
+Ability: Victory Star  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- V-create  
+- U-turn  
+- Bolt Strike  
+- Trick  
+
+Hoopa-Unbound @ Choice Band  
+Ability: Magician  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Hyperspace Fury  
+- Gunk Shot  
+- Fire Punch  
+- Drain Punch  
+
+=== [gen7ou] lop z koko volt turn ===
+Lopunny-Mega @ Lopunnite  
+Ability: Limber  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Return  
+- High Jump Kick  
+- Ice Punch  
+
+Landorus-Therian @ Rocky Helmet  
+Ability: Intimidate  
+EVs: 252 HP / 112 Def / 144 Spe  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Hidden Power [Ice]  
+- U-turn  
+
+Magearna @ Assault Vest  
+Ability: Soul-Heart  
+EVs: 248 HP / 28 Def / 232 SpD  
+Sassy Nature  
+IVs: 22 Spe  
+- Volt Switch  
+- Fleur Cannon  
+- Ice Beam  
+- Iron Head  
+
+Kartana @ Choice Band  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Knock Off  
+- Sacred Sword  
+- Smart Strike  
+
+Tapu Koko @ Electrium Z  
+Ability: Electric Surge  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Wild Charge  
+- Hidden Power [Ice]  
+- U-turn  
+- Roost  
+
+Rotom-Wash @ Iapapa Berry  
+Ability: Levitate  
+EVs: 248 HP / 60 Def / 200 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Volt Switch  
+- Will-O-Wisp  
+- Defog  
+
+=== [gen7ou] lop kyu ===
+Lopunny-Mega @ Lopunnite  
+Ability: Limber  
+Happiness: 0  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- High Jump Kick  
+- Frustration  
+- Quick Attack  
+
+Landorus-Therian @ Rocky Helmet  
+Ability: Intimidate  
+EVs: 248 HP / 240 Def / 20 Spe  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Toxic  
+- U-turn  
+
+Magearna @ Assault Vest  
+Ability: Soul-Heart  
+EVs: 252 HP / 140 Def / 116 SpA  
+Modest Nature  
+- Fleur Cannon  
+- Ice Beam  
+- Iron Head  
+- Volt Switch  
+
+Kartana @ Choice Band  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Knock Off  
+- Sacred Sword  
+- Smart Strike  
+
+Rotom-Wash @ Iapapa Berry  
+Ability: Levitate  
+EVs: 248 HP / 8 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Hydro Pump  
+- Will-O-Wisp  
+- Defog  
+
+Kyurem @ Icium Z  
+Ability: Pressure  
+EVs: 56 HP / 196 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Ice Beam  
+- Earth Power  
+- Roost  
+
+=== [gen7ou] lop scarf tini balance ===
+Lopunny-Mega @ Lopunnite  
+Ability: Limber  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Return  
+- High Jump Kick  
+- Ice Punch  
+
+Landorus-Therian @ Flyinium Z  
+Ability: Intimidate  
+Hidden Power: Ice  
+EVs: 252 HP / 112 Def / 144 Spe  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Fly  
+- U-turn  
+
+Magearna @ Assault Vest  
+Ability: Soul-Heart  
+EVs: 248 HP / 28 Def / 232 SpD  
+Sassy Nature  
+IVs: 22 Spe  
+- Volt Switch  
+- Fleur Cannon  
+- Ice Beam  
+- Iron Head  
+
+Kartana @ Choice Band  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Knock Off  
+- Sacred Sword  
+- Smart Strike  
+
+Rotom-Wash @ Iapapa Berry  
+Ability: Levitate  
+EVs: 248 HP / 60 Def / 200 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Volt Switch  
+- Will-O-Wisp  
+- Defog  
+
+Victini @ Choice Scarf  
+Ability: Victory Star  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- V-create  
+- U-turn  
+- Final Gambit  
+- Trick  
+
+=== [gen7ou] mlop loclef waterium rotom ===
+Lopunny-Mega @ Lopunnite  
+Ability: Limber  
+Happiness: 0  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Fake Out  
+- Frustration  
+- High Jump Kick  
+- Quick Attack  
+
+Gastrodon-East @ Leftovers  
+Ability: Storm Drain  
+EVs: 248 HP / 20 Def / 240 SpD  
+Sassy Nature  
+- Scald  
+- Earthquake  
+- Recover  
+- Clear Smog  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 4 Def / 208 SpD / 48 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Magma Storm  
+- Toxic  
+- Protect  
+
+Skarmory @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 248 HP / 232 Def / 28 Spe  
+Impish Nature  
+IVs: 0 Atk  
+- Counter  
+- Spikes  
+- Whirlwind  
+- Roost  
+
+Clefable @ Life Orb  
+Ability: Magic Guard  
+EVs: 252 HP / 156 Def / 84 SpA / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Thunder  
+- Soft-Boiled  
+- Calm Mind  
+
+Rotom-Wash @ Waterium Z  
+Ability: Levitate  
+EVs: 248 HP / 252 Def / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Volt Switch  
+- Thunder Wave  
+- Pain Split  
+
+=== [gen7ou] lop reun semistall ===
+Lopunny-Mega @ Lopunnite  
+Ability: Limber  
+Happiness: 0  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+IVs: 0 SpA  
+- Fake Out  
+- Frustration  
+- High Jump Kick  
+- Ice Punch  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 128 SpD / 136 Spe  
+Jolly Nature  
+- Earthquake  
+- Knock Off  
+- Defog  
+- Roost  
+
+Skarmory @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 252 HP / 248 Def / 8 SpD  
+Impish Nature  
+IVs: 0 Atk  
+- Counter  
+- Whirlwind  
+- Spikes  
+- Roost  
+
+Reuniclus @ Psychium Z  
+Ability: Magic Guard  
+EVs: 160 HP / 252 Def / 52 SpA / 44 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Energy Ball  
+- Calm Mind  
+- Recover  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 248 Def / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Toxic Spikes  
+- Haze  
+- Scald  
+- Recover  
+
+Chansey @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Seismic Toss  
+- Thunder Wave  
+- Soft-Boiled  
+
+=== [gen7ou] lop z chomp ===
+Lopunny-Mega @ Lopunnite  
+Ability: Scrappy  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Return  
+- High Jump Kick  
+- Fake Out  
+- Ice Punch  
+
+Garchomp @ Rockium Z  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Stone Edge  
+- Swords Dance  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 248 HP / 188 SpD / 72 Spe  
+Careful Nature  
+- Wish  
+- Body Slam  
+- Iron Head  
+- U-turn  
+
+Kartana @ Choice Band  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Knock Off  
+- Sacred Sword  
+- Smart Strike  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 88 Def / 12 SpA / 160 SpD  
+Calm Nature  
+- Defog  
+- Moonblast  
+- Scald  
+- Taunt  
+
+Zapdos @ Rocky Helmet  
+Ability: Static  
+EVs: 248 HP / 188 Def / 72 Spe  
+Bold Nature  
+IVs: 0 Atk / 30 Def  
+- Volt Switch  
+- Heat Wave  
+- Hidden Power [Ice]  
+- Roost  
+
+=== [gen7ou] xtra ho ===
+Medicham-Mega @ Medichamite  
+Ability: Pure Power  
+EVs: 80 HP / 252 Atk / 4 SpD / 172 Spe  
+Adamant Nature  
+- Fake Out  
+- High Jump Kick  
+- Thunder Punch  
+- Bullet Punch  
+
+Landorus-Therian (M) @ Rocky Helmet  
+Ability: Intimidate  
+EVs: 248 HP / 232 Def / 28 SpA  
+Relaxed Nature  
+- Stealth Rock  
+- Earthquake  
+- Hidden Power [Fire]  
+- U-turn  
+
+Magearna @ Assault Vest  
+Ability: Soul-Heart  
+EVs: 248 HP / 44 Def / 212 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Fleur Cannon  
+- Energy Ball  
+- Flash Cannon  
+
+Tapu Koko @ Choice Specs  
+Ability: Electric Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Volt Switch  
+- Dazzling Gleam  
+- Toxic  
+
+Hawlucha @ Electric Seed  
+Ability: Unburden  
+EVs: 176 HP / 252 Atk / 36 SpD / 44 Spe  
+Adamant Nature  
+- Swords Dance  
+- Acrobatics  
+- High Jump Kick  
+- Substitute  
+
+Kyurem-Black @ Icium Z  
+Ability: Teravolt  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naughty Nature  
+- Freeze Shock  
+- Fusion Bolt  
+- Ice Beam  
+- Earth Power  
+
+=== [gen7ou] xtra ho sg mag vers ===
+Medicham-Mega @ Medichamite  
+Ability: Pure Power  
+EVs: 80 HP / 252 Atk / 4 Def / 172 Spe  
+Adamant Nature  
+- Fake Out  
+- High Jump Kick  
+- Thunder Punch  
+- Bullet Punch  
+
+Landorus-Therian (M) @ Rocky Helmet  
+Ability: Intimidate  
+EVs: 248 HP / 232 Def / 28 SpA  
+Relaxed Nature  
+- Stealth Rock  
+- Earthquake  
+- Hidden Power [Fire]  
+- U-turn  
+
+Magearna @ Iapapa Berry  
+Ability: Soul-Heart  
+EVs: 252 HP / 84 SpA / 24 SpD / 148 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Aura Sphere  
+- Flash Cannon  
+- Shift Gear  
+
+Tapu Koko @ Choice Specs  
+Ability: Electric Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Volt Switch  
+- Dazzling Gleam  
+- Hidden Power [Ice]  
+
+Hawlucha @ Electric Seed  
+Ability: Unburden  
+EVs: 176 HP / 252 Atk / 36 SpD / 44 Spe  
+Adamant Nature  
+- Swords Dance  
+- Acrobatics  
+- High Jump Kick  
+- Substitute  
+
+Kyurem-Black @ Icium Z  
+Ability: Teravolt  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Freeze Shock  
+- Fusion Bolt  
+- Iron Head  
+- Ice Beam  
+
+=== [gen7ou] german111 ===
+Medicham-Mega @ Medichamite  
+Ability: Telepathy  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Drain Punch  
+- Psycho Cut  
+- Substitute  
+
+Landorus-Therian (M) @ Rocky Helmet  
+Ability: Intimidate  
+EVs: 252 HP / 112 Def / 144 Spe  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Smack Down  
+- Swords Dance  
+
+Magearna @ Assault Vest  
+Ability: Soul-Heart  
+EVs: 248 HP / 28 Def / 232 SpD  
+Sassy Nature  
+- Fleur Cannon  
+- Volt Switch  
+- Ice Beam  
+- Iron Head  
+
+Tapu Koko @ Fairium Z  
+Ability: Electric Surge  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Volt Switch  
+- Dazzling Gleam  
+- Roost  
+
+Greninja @ Life Orb  
+Ability: Battle Bond  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Water Shuriken  
+- Spikes  
+
+Hawlucha @ Electric Seed  
+Ability: Unburden  
+EVs: 96 HP / 252 Atk / 36 SpD / 124 Spe  
+Adamant Nature  
+- Swords Dance  
+- Acrobatics  
+- High Jump Kick  
+- Substitute  
+
+=== [gen7ou] medivolc ===
+Medicham-Mega @ Medichamite  
+Ability: Pure Power  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- High Jump Kick  
+- Ice Punch  
+- Zen Headbutt  
+
+Landorus-Therian (M) @ Flyinium Z  
+Ability: Intimidate  
+EVs: 248 HP / 100 Atk / 160 Spe  
+Adamant Nature  
+- Earthquake  
+- Fly  
+- Swords Dance  
+- Stealth Rock  
+
+Magearna @ Assault Vest  
+Ability: Soul-Heart  
+EVs: 252 HP / 140 Def / 116 SpD  
+Sassy Nature  
+IVs: 0 Atk / 18 Spe  
+- Fleur Cannon  
+- Energy Ball  
+- Hidden Power [Fire]  
+- Volt Switch  
+
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Smart Strike  
+- Sacred Sword  
+- Knock Off  
+
+Rotom-Wash @ Iapapa Berry  
+Ability: Levitate  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk / 29 Spe  
+- Volt Switch  
+- Hydro Pump  
+- Will-O-Wisp  
+- Defog  
+
+Volcarona @ Iapapa Berry  
+Ability: Flame Body  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Fire Blast  
+- Bug Buzz  
+- Hidden Power [Ground]  
+
+=== [gen7ou] medi scarfini ===
+Medicham-Mega @ Medichamite  
+Ability: Pure Power  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- High Jump Kick  
+- Zen Headbutt  
+- Ice Punch  
+
+Landorus-Therian @ Flyinium Z  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Substitute  
+- Swords Dance  
+- Earthquake  
+- Fly  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 48 Def / 208 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Stealth Rock  
+- Leech Seed  
+- Protect  
+- Gyro Ball  
+
+Tapu Fini @ Choice Scarf  
+Ability: Misty Surge  
+EVs: 96 HP / 160 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Trick  
+- Defog  
+- Hydro Pump  
+- Moonblast  
+
+Greninja @ Choice Specs  
+Ability: Battle Bond  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Spikes  
+- Hydro Pump  
+- Water Shuriken  
+- Dark Pulse  
+
+Zapdos @ Rocky Helmet  
+Ability: Static  
+EVs: 248 HP / 164 Def / 96 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Roost  
+- Volt Switch  
+- Heat Wave  
+- Hidden Power [Ice]  
+
+=== [gen7ou] medi cb weavile ===
+Medicham-Mega @ Medichamite  
+Ability: Pure Power  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- High Jump Kick  
+- Ice Punch  
+- Zen Headbutt  
+- Fake Out  
+
+Landorus-Therian (M) @ Iapapa Berry  
+Ability: Intimidate  
+EVs: 252 HP / 232 Def / 24 SpD  
+Impish Nature  
+- Stealth Rock  
+- U-turn  
+- Hidden Power [Ice]  
+- Earthquake  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 36 Def / 4 SpA / 208 SpD / 8 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Toxic  
+- Protect  
+- Earth Power  
+- Lava Plume  
+
+Weavile @ Choice Band  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Knock Off  
+- Pursuit  
+- Icicle Crash  
+- Ice Shard  
+
+Toxapex @ Eject Button  
+Ability: Regenerator  
+EVs: 248 HP / 68 Def / 192 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Haze  
+- Scald  
+- Recover  
+- Toxic Spikes  
+
+Tornadus-Therian (M) @ Flyinium Z  
+Ability: Regenerator  
+EVs: 176 HP / 80 SpA / 252 Spe  
+Timid Nature  
+- U-turn  
+- Knock Off  
+- Defog  
+- Hurricane  
+
+=== [gen7ou] hoopa medi ===
+Medicham-Mega @ Medichamite  
+Ability: Telepathy  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- High Jump Kick  
+- Zen Headbutt  
+- Ice Punch  
+
+Landorus-Therian (M) @ Rockium Z  
+Ability: Intimidate  
+EVs: 160 HP / 100 Atk / 104 Def / 144 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Earthquake  
+- Stone Edge  
+- Swords Dance  
+
+Magearna @ Leftovers  
+Ability: Soul-Heart  
+EVs: 248 HP / 136 Def / 124 SpD  
+Bold Nature  
+IVs: 0 Atk / 6 Spe  
+- Volt Switch  
+- Ice Beam  
+- Pain Split  
+- Heart Swap  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 124 Def / 16 SpA / 96 SpD / 24 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Surf  
+- Moonblast  
+- Nature's Madness  
+- Defog  
+
+Victini @ Choice Scarf  
+Ability: Victory Star  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- V-create  
+- Final Gambit  
+- U-turn  
+- Trick  
+
+Hoopa-Unbound @ Choice Band  
+Ability: Magician  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Hyperspace Fury  
+- Zen Headbutt  
+- Gunk Shot  
+- Fire Punch  
+
+=== [gen7ou] medi serp weav ===
+Medicham-Mega @ Medichamite  
+Ability: Telepathy  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- High Jump Kick  
+- Ice Punch  
+- Zen Headbutt  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Stone Edge  
+- Explosion  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 248 SpD / 12 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Magma Storm  
+- Earth Power  
+- Taunt  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Surf  
+- Defog  
+- Haze  
+
+Weavile (M) @ Choice Band  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Knock Off  
+- Icicle Crash  
+- Ice Shard  
+- Pursuit  
+
+Serperior @ Grassium Z  
+Ability: Contrary  
+EVs: 76 HP / 192 SpA / 8 SpD / 232 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Leaf Storm  
+- Hidden Power [Fire]  
+- Glare  
+- Synthesis  
+
+=== [gen7ou] medi vic ===
+Medicham-Mega @ Medichamite  
+Ability: Pure Power  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Fake Out  
+- High Jump Kick  
+- Ice Punch  
+- Double-Edge  
+
+Landorus-Therian (M) @ Flyinium Z  
+Ability: Intimidate  
+EVs: 36 HP / 88 Atk / 236 Def / 148 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Earthquake  
+- Fly  
+- Swords Dance  
+
+Magearna @ Assault Vest  
+Ability: Soul-Heart  
+EVs: 248 HP / 8 Def / 252 SpD  
+Sassy Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Fleur Cannon  
+- Focus Blast  
+- Ice Beam  
+
+Victini @ Choice Scarf  
+Ability: Victory Star  
+EVs: 248 HP / 8 Atk / 252 Spe  
+Jolly Nature  
+- V-create  
+- U-turn  
+- Final Gambit  
+- Trick  
+
+Greninja-Ash (M) @ Choice Specs  
+Ability: Battle Bond  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Water Shuriken  
+- Spikes  
+
+Rotom-Wash @ Wiki Berry  
+Ability: Levitate  
+EVs: 248 HP / 160 Def / 88 SpD / 12 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Volt Switch  
+- Will-O-Wisp  
+- Defog  
+
+=== [gen7ou] medi chompzap amogus ===
+Medicham-Mega @ Medichamite  
+Ability: Pure Power  
+EVs: 156 Atk / 140 Def / 212 Spe  
+Adamant Nature  
+- High Jump Kick  
+- Zen Headbutt  
+- Ice Punch  
+- Recover  
+
+Garchomp @ Dragonium Z  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Outrage  
+- Swords Dance  
+- Stealth Rock  
+
+Jirachi @ Choice Scarf  
+Ability: Serene Grace  
+EVs: 144 HP / 108 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- U-turn  
+- Healing Wish  
+- Trick  
+
+Greninja-Ash (M) @ Choice Specs  
+Ability: Battle Bond  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Surf  
+- Dark Pulse  
+- Water Shuriken  
+- Spikes  
+
+Amoonguss @ Black Sludge  
+Ability: Regenerator  
+EVs: 248 HP / 44 Def / 216 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Spore  
+- Giga Drain  
+- Hidden Power [Fire]  
+- Stun Spore  
+
+Zapdos @ Rocky Helmet  
+Ability: Static  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Discharge  
+- Heat Wave  
+- Roost  
+- Defog  
+
+=== [gen7ou] medisharp ===
+Medicham-Mega @ Medichamite  
+Ability: Telepathy  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- High Jump Kick  
+- Zen Headbutt  
+- Ice Punch  
+- Fake Out  
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 220 Atk / 72 Def / 216 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Stone Edge  
+- Defog  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 248 HP / 24 Def / 236 SpD  
+Sassy Nature  
+- Stealth Rock  
+- Leech Seed  
+- Power Whip  
+- Hidden Power [Fire]  
+
+Bisharp @ Leftovers  
+Ability: Defiant  
+EVs: 84 HP / 252 Atk / 172 Spe  
+Adamant Nature  
+- Iron Head  
+- Sucker Punch  
+- Knock Off  
+- Swords Dance  
+
+Victini @ Choice Scarf  
+Ability: Victory Star  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- V-create  
+- Final Gambit  
+- U-turn  
+- Bolt Strike  
+
+Rotom-Wash @ Waterium Z  
+Ability: Levitate  
+EVs: 248 HP / 56 SpA / 204 SpD  
+Calm Nature  
+IVs: 0 Atk / 30 Spe  
+- Volt Switch  
+- Hydro Pump  
+- Thunder Wave  
+- Pain Split  
+
+=== [gen7ou] zchomp wikiserp ddtar ===
+Tyranitar-Mega @ Tyranitarite  
+Ability: Sand Stream  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Dragon Dance  
+- Ice Punch  
+- Fire Punch  
+
+Garchomp @ Dragonium Z  
+Ability: Rough Skin  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stealth Rock  
+- Outrage  
+- Swords Dance  
+
+Magearna @ Leftovers  
+Ability: Soul-Heart  
+EVs: 252 HP / 40 Def / 216 SpD  
+Calm Nature  
+IVs: 0 Atk / 30 Spe  
+- Ice Beam  
+- Heart Swap  
+- Volt Switch  
+- Pain Split  
+
+Serperior @ Wiki Berry  
+Ability: Contrary  
+EVs: 248 HP / 28 Def / 232 Spe  
+Timid Nature  
+- Leaf Storm  
+- Hidden Power [Fire]  
+- Knock Off  
+- Glare  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 248 HP / 160 Def / 100 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic  
+- Haze  
+- Recover  
+
+Tornadus-Therian @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 248 HP / 68 Def / 192 Spe  
+Timid Nature  
+- Hurricane  
+- Knock Off  
+- U-turn  
+- Defog  
+
+=== [gen7ou] c0mp ttar fat ===
+Tyranitar-Mega @ Tyranitarite  
+Ability: Sand Stream  
+EVs: 156 HP / 236 Atk / 116 Spe  
+Adamant Nature  
+- Stone Edge  
+- Pursuit  
+- Ice Punch  
+- Stealth Rock  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 76 Atk / 160 SpD / 28 Spe  
+Jolly Nature  
+- Earthquake  
+- Facade  
+- Swords Dance  
+- Roost  
+
+Skarmory @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 248 HP / 236 Def / 24 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Defog  
+- Counter  
+- Roost  
+- Spikes  
+
+Reuniclus @ Fightinium Z  
+Ability: Magic Guard  
+EVs: 248 HP / 212 Def / 48 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Focus Blast  
+- Calm Mind  
+- Recover  
+
+Tapu Bulu @ Leftovers  
+Ability: Grassy Surge  
+EVs: 248 HP / 56 Atk / 200 SpD / 4 Spe  
+Adamant Nature  
+- Horn Leech  
+- Superpower  
+- Swords Dance  
+- Protect  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 248 HP / 60 Def / 200 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic Spikes  
+- Haze  
+- Recover  
+
+=== [gen7ou] ttar grass spam ===
+Tyranitar-Mega @ Tyranitarite  
+Ability: Sand Stream  
+EVs: 188 HP / 224 Atk / 96 Spe  
+Adamant Nature  
+- Stone Edge  
+- Fire Punch  
+- Pursuit  
+- Stealth Rock  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 28 Def / 216 SpD / 20 Spe  
+Careful Nature  
+- Earthquake  
+- Facade  
+- Roost  
+- Swords Dance  
+
+Magearna @ Leftovers  
+Ability: Soul-Heart  
+EVs: 248 HP / 236 Def / 16 SpA  
+Modest Nature  
+IVs: 0 Atk / 30 Spe  
+- Ice Beam  
+- Volt Switch  
+- Pain Split  
+- Heart Swap  
+
+Kartana @ Grassium Z  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Knock Off  
+- Swords Dance  
+- Defog  
+
+Tapu Bulu @ Leftovers  
+Ability: Grassy Surge  
+EVs: 248 HP / 56 Atk / 204 SpD  
+Adamant Nature  
+- Horn Leech  
+- Superpower  
+- Swords Dance  
+- Protect  
+
+Toxapex @ Payapa Berry  
+Ability: Regenerator  
+EVs: 248 HP / 120 Def / 140 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic  
+- Baneful Bunker  
+- Recover  
+
+=== [gen7ou] ttar grass spam 2 ===
+Tyranitar-Mega @ Tyranitarite  
+Ability: Sand Stream  
+EVs: 132 HP / 252 Atk / 124 Spe  
+Adamant Nature  
+- Ice Punch  
+- Pursuit  
+- Stone Edge  
+- Fire Punch  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 52 Def / 76 SpD / 136 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Toxic  
+- Roost  
+
+Kartana @ Fightinium Z  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Leaf Blade  
+- Sacred Sword  
+- Knock Off  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Earth Power  
+- Nature Power  
+- Taunt  
+
+Tapu Bulu @ Leftovers  
+Ability: Grassy Surge  
+EVs: 248 HP / 204 SpD / 56 Spe  
+Careful Nature  
+- Swords Dance  
+- Horn Leech  
+- Superpower  
+- Protect  
+
+Tornadus-Therian (M) @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 248 HP / 68 Def / 192 Spe  
+Timid Nature  
+- Hurricane  
+- Heat Wave  
+- Knock Off  
+- Defog  
+
+=== [gen7ou] pop smoke ===
+Tyranitar-Mega @ Tyranitarite  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Fire Punch  
+- Ice Punch  
+- Dragon Dance  
+
+Landorus-Therian (M) @ Rocky Helmet  
+Ability: Intimidate  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+IVs: 30 Spe  
+- Earthquake  
+- U-turn  
+- Stealth Rock  
+- Hidden Power [Ice]  
+
+Gastrodon @ Leftovers  
+Ability: Storm Drain  
+EVs: 204 HP / 52 Def / 252 SpD  
+Sassy Nature  
+- Scald  
+- Earthquake  
+- Recover  
+- Toxic  
+
+Kartana @ Normalium Z  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Giga Impact  
+- Sacred Sword  
+- Swords Dance  
+
+Magnezone @ Choice Scarf  
+Ability: Magnet Pull  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Flash Cannon  
+- Hidden Power [Fire]  
+- Volt Switch  
+
+Tornadus-Therian (M) @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 248 HP / 60 Def / 200 Spe  
+Timid Nature  
+- Hurricane  
+- U-turn  
+- Knock Off  
+- Defog  
+
+=== [gen7ou] mttar dd kommo ===
+Tyranitar-Mega @ Tyranitarite  
+Ability: Sand Stream  
+EVs: 204 HP / 252 Atk / 52 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Stone Edge  
+- Ice Punch  
+- Fire Punch  
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 108 HP / 192 Def / 208 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Stone Edge  
+- Hidden Power [Ice]  
+
+Magearna @ Mago Berry  
+Ability: Soul-Heart  
+EVs: 172 HP / 188 SpA / 148 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Fleur Cannon  
+- Focus Blast  
+- Shift Gear  
+
+Kommo-o @ Groundium Z  
+Ability: Bulletproof  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Ice Punch  
+- Earthquake  
+- Close Combat  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 244 HP / 204 SpD / 60 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Baneful Bunker  
+- Recover  
+- Haze  
+
+Tornadus-Therian @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 252 HP / 4 Def / 252 Spe  
+Timid Nature  
+- Hurricane  
+- Knock Off  
+- U-turn  
+- Defog  
+
+=== [gen7ou] mttar zlando ===
+Tyranitar-Mega @ Tyranitarite  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Stone Edge  
+- Ice Punch  
+- Fire Punch  
+
+Landorus-Therian (M) @ Rockium Z  
+Ability: Intimidate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Swords Dance  
+- Earthquake  
+- Stone Edge  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 248 HP / 188 SpD / 72 Spe  
+Careful Nature  
+- Wish  
+- Protect  
+- Iron Head  
+- U-turn  
+
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Sacred Sword  
+- Smart Strike  
+- Knock Off  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 88 Def / 12 SpA / 144 SpD / 16 Spe  
+Calm Nature  
+- Defog  
+- Moonblast  
+- Scald  
+- Taunt  
+
+Zapdos @ Rocky Helmet  
+Ability: Static  
+EVs: 252 HP / 184 Def / 72 Spe  
+Bold Nature  
+IVs: 0 Atk / 30 Def  
+- Discharge  
+- Heat Wave  
+- Hidden Power [Ice]  
+- Roost  
+
+=== [gen7ou] mttar kart zap ===
+Tyranitar-Mega @ Tyranitarite  
+Ability: Sand Stream  
+EVs: 128 HP / 252 Atk / 128 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Stone Edge  
+- Crunch  
+- Pursuit  
+
+Excadrill @ Steelium Z  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Earthquake  
+- Iron Head  
+- Rapid Spin  
+
+Kartana @ Choice Band  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Smart Strike  
+- Sacred Sword  
+- Knock Off  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 248 HP / 108 Def / 152 SpD  
+Sassy Nature  
+- Heavy Slam  
+- Flamethrower  
+- Protect  
+- Leech Seed  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 248 HP / 20 Def / 200 SpD / 40 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic  
+- Recover  
+- Haze  
+
+Zapdos @ Rocky Helmet  
+Ability: Static  
+EVs: 248 HP / 216 Def / 20 SpA / 24 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Heat Wave  
+- Hidden Power [Ice]  
+- Roost  
+
+=== [gen7ou] punny maw dnite ho ===
+Mawile-Mega @ Mawilite  
+Ability: Intimidate  
+EVs: 168 HP / 252 Atk / 88 Spe  
+Adamant Nature  
+- Play Rough  
+- Knock Off  
+- Sucker Punch  
+- Swords Dance  
+
+Landorus-Therian (M) @ Focus Sash  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Imprison  
+- Earthquake  
+- Explosion  
+
+Magearna @ Electrium Z  
+Ability: Soul-Heart  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Ice Beam  
+- Focus Blast  
+- Thunderbolt  
+- Trick Room  
+
+Tapu Lele @ Choice Scarf  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Psyshock  
+- Moonblast  
+- Focus Blast  
+
+Greninja @ Focus Sash  
+Ability: Protean  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Hidden Power [Fire]  
+- Spikes  
+- Taunt  
+
+Dragonite @ Lum Berry  
+Ability: Multiscale  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Ice Punch  
+- Earthquake  
+- Superpower  
+- Dragon Dance  
+
+=== [gen7ou] Tricking Mawile Volc ===
+Mawile-Mega @ Mawilite  
+Ability: Intimidate  
+EVs: 112 HP / 228 Atk / 168 Spe  
+Adamant Nature  
+- Swords Dance  
+- Knock Off  
+- Sucker Punch  
+- Play Rough  
+
+Rotom-Wash @ Electrium Z  
+Ability: Levitate  
+EVs: 88 HP / 208 SpA / 212 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Thunder  
+- Hydro Pump  
+- Pain Split  
+
+Chansey @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+- Stealth Rock  
+- Soft-Boiled  
+- Toxic  
+- Seismic Toss  
+
+Volcarona @ Lum Berry  
+Ability: Flame Body  
+EVs: 248 HP / 196 Def / 64 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Flamethrower  
+- Roost  
+- Psychic  
+
+Mew @ Leftovers  
+Ability: Synchronize  
+EVs: 248 HP / 108 Def / 16 SpD / 136 Spe  
+Jolly Nature  
+- Defog  
+- Earthquake  
+- Soft-Boiled  
+- Ice Beam  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+EVs: 120 HP / 164 Def / 224 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Hidden Power [Ice]  
+- Defog  
+
+=== [gen7ou] Mawile Chansey Balance ===
+Mawile-Mega @ Mawilite  
+Ability: Intimidate  
+EVs: 120 HP / 252 Atk / 136 Spe  
+Adamant Nature  
+- Swords Dance  
+- Play Rough  
+- Knock Off  
+- Sucker Punch  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 52 Def / 180 SpD / 32 Spe  
+Jolly Nature  
+- Defog  
+- Earthquake  
+- Roost  
+- Toxic  
+
+Chansey (F) @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Seismic Toss  
+- Soft-Boiled  
+- Toxic  
+
+Magnezone @ Choice Scarf  
+Ability: Magnet Pull  
+EVs: 8 HP / 4 Def / 244 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Toxic  
+- Flash Cannon  
+- Hidden Power [Fire]  
+- Volt Switch  
+
+Slowbro @ Leftovers  
+Ability: Regenerator  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Ice Beam  
+- Future Sight  
+- Slack Off  
+
+Kartana @ Grassium Z  
+Ability: Beast Boost  
+EVs: 128 HP / 128 Atk / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Knock Off  
+- Synthesis  
+- Defog  
+
+=== [gen7ou] Ben Gay Sub Mawile ===
+Mawile-Mega @ Mawilite  
+Ability: Intimidate  
+EVs: 96 HP / 216 Atk / 8 SpD / 188 Spe  
+Adamant Nature  
+- Substitute  
+- Focus Punch  
+- Thunder Punch  
+- Ice Punch  
+
+Garchomp @ Dragonium Z  
+Ability: Rough Skin  
+EVs: 248 Atk / 8 SpD / 252 Spe  
+Jolly Nature  
+- Substitute  
+- Swords Dance  
+- Outrage  
+- Earthquake  
+
+Victini @ Choice Band  
+Ability: Victory Star  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Trick  
+- V-create  
+- Bolt Strike  
+- U-turn  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 48 Def / 208 SpD  
+Careful Nature  
+- Stealth Rock  
+- Leech Seed  
+- Thunder Wave  
+- Power Whip  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+EVs: 44 HP / 244 Atk / 220 Spe  
+Jolly Nature  
+- Defog  
+- Earthquake  
+- Explosion  
+- U-turn  
+
+Greninja (M) @ Choice Specs  
+Ability: Battle Bond  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Spikes  
+- Hydro Pump  
+- Water Shuriken  
+- Dark Pulse  
+
+=== [gen7ou] Crystal Lynn Fairy Spam ===
+Mawile-Mega (F) @ Mawilite  
+Ability: Intimidate  
+EVs: 172 HP / 252 Atk / 84 Spe  
+Adamant Nature  
+- Swords Dance  
+- Play Rough  
+- Sucker Punch  
+- Knock Off  
+
+Landorus-Therian @ Rocky Helmet  
+Ability: Intimidate  
+EVs: 252 HP / 112 Def / 144 Spe  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Hidden Power [Ice]  
+- U-turn  
+
+Greninja (M) @ Life Orb  
+Ability: Protean  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Fire]  
+- Spikes  
+
+Magearna @ Fairium Z  
+Ability: Soul-Heart  
+EVs: 252 HP / 4 Def / 252 SpA  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Trick Room  
+- Fleur Cannon  
+- Thunderbolt  
+- Focus Blast  
+
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Sacred Sword  
+- Smart Strike  
+- Knock Off  
+
+Tapu Lele @ Twisted Spoon  
+Ability: Psychic Surge  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Psyshock  
+- Moonblast  
+- Hidden Power [Fire]  
+
+=== [gen7ou] norton stall ===
+Sableye-Mega @ Sablenite  
+Ability: Prankster  
+EVs: 248 HP / 252 Def / 8 SpD  
+Impish Nature  
+IVs: 0 Atk  
+- Foul Play  
+- Recover  
+- Will-O-Wisp  
+- Protect  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 148 SpD / 116 Spe  
+Jolly Nature  
+- Earthquake  
+- Toxic  
+- Roost  
+- Defog  
+
+Skarmory @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Counter  
+- Spikes  
+- Roost  
+- Whirlwind  
+
+Clefable @ Leftovers  
+Ability: Unaware  
+EVs: 248 HP / 252 Def / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Calm Mind  
+- Wish  
+- Protect  
+
+Toxapex @ Payapa Berry  
+Ability: Regenerator  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+- Scald  
+- Knock Off  
+- Toxic  
+- Toxic Spikes  
+
+Chansey (F) @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 244 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Thunder Wave  
+- Soft-Boiled  
+- Stealth Rock  
+
+=== [gen7ou] pyuku stall ===
+Sableye-Mega @ Sablenite  
+Ability: Prankster  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Will-O-Wisp  
+- Knock Off  
+- Recover  
+- Protect  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 152 SpD / 112 Spe  
+Jolly Nature  
+- Earthquake  
+- Toxic  
+- Roost  
+- Defog  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 248 HP / 8 Def / 252 SpD  
+Sassy Nature  
+- Leech Seed  
+- Heavy Slam  
+- Flamethrower  
+- Protect  
+
+Pyukumuku @ Leftovers  
+Ability: Unaware  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Block  
+- Toxic  
+- Recover  
+- Soak  
+
+Volcarona @ Buginium Z  
+Ability: Flame Body  
+EVs: 248 HP / 232 Def / 28 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Fiery Dance  
+- Bug Buzz  
+- Roost  
+
+Chansey @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Seismic Toss  
+- Soft-Boiled  
+- Heal Bell  
+
+=== [gen7ou] zokuru stall ===
+Sableye-Mega @ Sablenite  
+Ability: Prankster  
+EVs: 248 HP / 252 Def / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Foul Play  
+- Will-O-Wisp  
+- Recover  
+- Protect  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 148 SpD / 116 Spe  
+Jolly Nature  
+- Earthquake  
+- Toxic  
+- Defog  
+- Roost  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 248 HP / 8 Def / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Stealth Rock  
+- Leech Seed  
+- Protect  
+
+Clefable @ Leftovers  
+Ability: Unaware  
+EVs: 248 HP / 252 Def / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Calm Mind  
+- Wish  
+- Protect  
+
+Volcarona @ Buginium Z  
+Ability: Flame Body  
+EVs: 248 HP / 236 Def / 24 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Bug Buzz  
+- Defog  
+- Roost  
+
+Chansey (F) @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Toxic  
+- Soft-Boiled  
+- Heal Bell  
+
+=== [gen7ou] zaza stall ===
+Sableye-Mega @ Sablenite  
+Ability: Prankster  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Knock Off  
+- Will-O-Wisp  
+- Recover  
+- Protect  
+
+Seismitoad @ Leftovers  
+Ability: Water Absorb  
+EVs: 244 HP / 36 Def / 216 SpD / 12 Spe  
+Careful Nature  
+- Stealth Rock  
+- Scald  
+- Earthquake  
+- Toxic  
+
+Skarmory @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Whirlwind  
+- Spikes  
+- Roost  
+- Defog  
+
+Clefable @ Leftovers  
+Ability: Unaware  
+EVs: 248 HP / 248 Def / 12 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Moonblast  
+- Wish  
+- Protect  
+
+Dragonite @ Leftovers  
+Ability: Multiscale  
+EVs: 248 HP / 32 Atk / 76 Def / 152 Spe  
+Impish Nature  
+- Dragon Dance  
+- Earthquake  
+- Ice Punch  
+- Roost  
+
+Chansey (F) @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Thunder Wave  
+- Soft-Boiled  
+- Aromatherapy  
+
+=== [gen7ou] kief stall ===
+Sableye-Mega @ Sablenite  
+Ability: Prankster  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Knock Off  
+- Will-O-Wisp  
+- Recover  
+- Protect  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 244 SpD / 20 Spe  
+Jolly Nature  
+- Swords Dance  
+- Roost  
+- Earthquake  
+- Facade  
+
+Skarmory @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Defog  
+- Roost  
+- Whirlwind  
+- Toxic  
+
+Weavile @ Choice Band  
+Ability: Pressure  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Icicle Crash  
+- Pursuit  
+- Ice Shard  
+- Punishment  
+
+Volcarona @ Firium Z  
+Ability: Flame Body  
+EVs: 248 HP / 148 Def / 112 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Flamethrower  
+- Bug Buzz  
+- Roost  
+
+Chansey (F) @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Seismic Toss  
+- Soft-Boiled  
+- Toxic  
+
+=== [gen7ou] shed stall hydra ===
+Sableye-Mega (M) @ Sablenite  
+Ability: Prankster  
+EVs: 248 HP / 224 Def / 20 SpD / 16 Spe  
+Impish Nature  
+- Knock Off  
+- Foul Play  
+- Recover  
+- Protect  
+
+Skarmory (M) @ Leftovers  
+Ability: Sturdy  
+EVs: 224 HP / 20 Atk / 248 Def / 16 Spe  
+Impish Nature  
+- Iron Head  
+- Counter  
+- Roost  
+- Defog  
+
+Chansey @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Seismic Toss  
+- Soft-Boiled  
+- Aromatherapy  
+
+Hydreigon (F) @ Dragonium Z  
+Ability: Levitate  
+EVs: 244 SpA / 32 SpD / 232 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Earth Power  
+- Roost  
+- Defog  
+
+Toxapex (F) @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 136 Def / 112 SpD / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Haze  
+- Recover  
+- Toxic  
+
+Shedinja @ Focus Sash  
+Ability: Wonder Guard  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Lonely Nature  
+IVs: 0 HP / 0 Def / 0 SpD  
+- X-Scissor  
+- Shadow Sneak  
+- Protect  
+- Will-O-Wisp  
+
+=== [gen7ou] abr mbro ===
+Slowbro-Mega @ Slowbronite  
+Ability: Regenerator  
+EVs: 248 HP / 232 Def / 28 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Psychic  
+- Ice Beam  
+- Slack Off  
+
+Gliscor (M) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 236 SpD / 28 Spe  
+Careful Nature  
+- Swords Dance  
+- Earthquake  
+- Facade  
+- Roost  
+
+Magearna @ Leftovers  
+Ability: Soul-Heart  
+EVs: 212 HP / 252 Def / 44 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Volt Switch  
+- Pain Split  
+- Heart Swap  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 76 Def / 180 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic Spikes  
+- Haze  
+- Recover  
+
+Tornadus-Therian (M) @ Flyinium Z  
+Ability: Regenerator  
+EVs: 108 HP / 60 Def / 124 SpA / 216 Spe  
+Timid Nature  
+- Hurricane  
+- Knock Off  
+- U-turn  
+- Defog  
+
+Chansey @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Seismic Toss  
+- Toxic  
+- Soft-Boiled  
+
+=== [gen7ou] wof stall ===
+Slowbro-Mega @ Slowbronite  
+Ability: Regenerator  
+EVs: 248 HP / 252 Def / 4 SpD / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Psychic  
+- Ice Beam  
+- Slack Off  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 228 SpD / 36 Spe  
+Jolly Nature  
+- Swords Dance  
+- Earthquake  
+- Facade  
+- Roost  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 248 HP / 176 SpD / 84 Spe  
+Careful Nature  
+- Iron Head  
+- Body Slam  
+- Wish  
+- Protect  
+
+Kartana @ Grassium Z  
+Ability: Beast Boost  
+EVs: 128 HP / 128 Atk / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Knock Off  
+- Synthesis  
+- Defog  
+
+Magnezone @ Choice Scarf  
+Ability: Magnet Pull  
+EVs: 8 HP / 4 Def / 244 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Volt Switch  
+- Flash Cannon  
+- Hidden Power [Fire]  
+
+Chansey (F) @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Seismic Toss  
+- Soft-Boiled  
+- Toxic  
+
+=== [gen7ou] timid kart stall ===
+KETY (Slowbro-Mega) @ Slowbronite  
+Ability: Regenerator  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Slack Off  
+- Calm Mind  
+- Psychic  
+- Scald  
+
+FACCE DA GALERA (Gliscor) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 228 SpD / 36 Spe  
+Jolly Nature  
+- Toxic  
+- Roost  
+- Defog  
+- Earthquake  
+
+PROBLEMA (Kartana) @ Darkinium Z  
+Ability: Beast Boost  
+EVs: 252 HP / 4 Def / 252 Spe  
+Timid Nature  
+- Swords Dance  
+- Knock Off  
+- Leaf Blade  
+- Synthesis  
+
+COMME UN PARIGOT (Skarmory) @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 248 HP / 228 Def / 32 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Spikes  
+- Roost  
+- Whirlwind  
+- Counter  
+
+JE PARLE AMÉRICAIN (Chansey) (F) @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 244 Def / 16 Spe  
+Bold Nature  
+- Stealth Rock  
+- Seismic Toss  
+- Thunder Wave  
+- Soft-Boiled  
+
+ERRORE DE SISTEMA (Ditto) @ Choice Scarf  
+Ability: Imposter  
+EVs: 252 HP / 4 Def / 252 SpA  
+Quiet Nature  
+IVs: 30 SpA / 30 SpD / 1 Spe  
+- Transform  
+
+=== [gen7ou] treeman fs bro ===
+Slowbro-Mega @ Slowbronite  
+Ability: Regenerator  
+EVs: 252 HP / 16 Def / 192 SpA / 32 SpD / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Future Sight  
+- Psychic  
+- Slack Off  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 248 HP / 204 SpD / 56 Spe  
+Jolly Nature  
+- Earthquake  
+- Knock Off  
+- Roost  
+- Taunt  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Lava Plume  
+- Roar  
+- Protect  
+
+Buzzwole @ Leftovers  
+Ability: Beast Boost  
+EVs: 248 HP / 8 Atk / 184 Def / 4 SpD / 64 Spe  
+Impish Nature  
+- Bulk Up  
+- Superpower  
+- Ice Punch  
+- Roost  
+
+Tornadus-Therian (M) @ Flyinium Z  
+Ability: Regenerator  
+EVs: 88 HP / 160 SpA / 8 SpD / 252 Spe  
+Timid Nature  
+- Hurricane  
+- U-turn  
+- Toxic  
+- Defog  
+
+Chansey (F) @ Eviolite  
+Ability: Natural Cure  
+EVs: 160 HP / 252 Def / 96 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Thunder Wave  
+- Confide  
+- Soft-Boiled  
+
+=== [gen7ou] fsbro subtran ===
+Slowbro-Mega (M) @ Slowbronite  
+Ability: Regenerator  
+EVs: 252 HP / 96 Def / 144 SpD / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Thunder Wave  
+- Future Sight  
+- Slack Off  
+
+Gliscor (M) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 248 HP / 240 SpD / 20 Spe  
+Careful Nature  
+- Earthquake  
+- Roost  
+- Swords Dance  
+- Knock Off  
+
+Heatran (M) @ Leftovers  
+Ability: Flash Fire  
+EVs: 120 HP / 88 SpA / 48 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Hidden Power [Ice]  
+- Magma Storm  
+- Earth Power  
+
+Greninja (M) @ Psychium Z  
+Ability: Protean  
+EVs: 8 Def / 248 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Toxic Spikes  
+- Hidden Power [Fire]  
+- Extrasensory  
+- Ice Beam  
+
+Kommo-o (M) @ Leftovers  
+Ability: Bulletproof  
+EVs: 252 HP / 184 SpD / 72 Spe  
+Careful Nature  
+- Stealth Rock  
+- Drain Punch  
+- Roar  
+- Toxic  
+
+Tornadus-Therian (M) @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+- Defog  
+- Toxic  
+- U-turn  
+- Hurricane  
+
+=== [gen7ou] megavenu cress virginity ===
+Venusaur-Mega @ Venusaurite  
+Ability: Thick Fat  
+EVs: 252 HP / 128 Def / 68 SpD / 60 Spe  
+Bold Nature  
+- Knock Off  
+- Sludge Bomb  
+- Hidden Power [Fire]  
+- Synthesis  
+
+Gastrodon (Gastrodon-East) @ Leftovers  
+Ability: Storm Drain  
+EVs: 248 HP / 20 Def / 240 SpD  
+Sassy Nature  
+- Scald  
+- Earthquake  
+- Recover  
+- Clear Smog  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 4 Def / 208 SpD / 48 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Lava Plume  
+- Toxic  
+- Protect  
+
+Skarmory @ Shed Shell  
+Ability: Sturdy  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Spikes  
+- Whirlwind  
+- Roost  
+- Defog  
+
+Cresselia (F) @ Leftovers  
+Ability: Levitate  
+EVs: 248 HP / 108 Def / 152 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Psyshock  
+- Ice Beam  
+- Moonlight  
+
+Tapu Koko @ Electrium Z  
+Ability: Electric Surge  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Wild Charge  
+- Hidden Power [Ice]  
+- U-turn  
+- Roost  
+
+=== [gen7ou] talah ===
+Venusaur-Mega (M) @ Venusaurite  
+Ability: Chlorophyll  
+EVs: 252 HP / 172 Def / 68 SpD / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Leech Seed  
+- Sludge Bomb  
+- Hidden Power [Fire]  
+- Synthesis  
+
+Garchomp (M) @ Rockium Z  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Stone Edge  
+- Swords Dance  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+EVs: 52 HP / 156 Atk / 104 Def / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Stone Edge  
+- Hidden Power [Ice]  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+Shiny: Yes  
+EVs: 248 HP / 32 Def / 216 SpD / 12 Spe  
+Careful Nature  
+- Leech Seed  
+- Heavy Slam  
+- Flamethrower  
+- Protect  
+
+Greninja-Ash @ Choice Specs  
+Ability: Battle Bond  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Surf  
+- Dark Pulse  
+- Water Shuriken  
+- Spikes  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 16 SpA / 52 SpD / 192 Spe  
+Calm Nature  
+- Defog  
+- Knock Off  
+- Moonblast  
+- Scald  
+
+=== [gen7ou] venu noivern ===
+Venusaur-Mega @ Venusaurite  
+Ability: Thick Fat  
+EVs: 252 HP / 128 Def / 68 SpD / 60 Spe  
+Bold Nature  
+- Synthesis  
+- Hidden Power [Fire]  
+- Sludge Bomb  
+- Knock Off  
+
+Seismitoad @ Leftovers  
+Ability: Water Absorb  
+EVs: 240 HP / 36 Def / 216 SpD / 16 Spe  
+Careful Nature  
+- Earthquake  
+- Scald  
+- Rest  
+- Stealth Rock  
+
+Skarmory @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 240 HP / 252 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Spikes  
+- Whirlwind  
+- Defog  
+- Roost  
+
+Cresselia (F) @ Leftovers  
+Ability: Levitate  
+EVs: 248 HP / 136 Def / 28 SpD / 96 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Psyshock  
+- Calm Mind  
+- Moonlight  
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 172 Def / 72 SpD / 12 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Thunder Wave  
+- Heal Bell  
+- Soft-Boiled  
+
+Noivern @ Flyinium Z  
+Ability: Frisk  
+EVs: 72 HP / 4 Def / 184 SpA / 248 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hurricane  
+- Super Fang  
+- Taunt  
+- Roost  
+
+=== [gen7ou] block steela ===
+Venusaur-Mega @ Venusaurite  
+Ability: Chlorophyll  
+EVs: 252 HP / 168 Def / 68 SpD / 20 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Sludge Bomb  
+- Hidden Power [Fire]  
+- Synthesis  
+- Leech Seed  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 236 SpD / 28 Spe  
+Jolly Nature  
+- Earthquake  
+- Toxic  
+- Roost  
+- Defog  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 248 HP / 104 Def / 156 SpD  
+Relaxed Nature  
+IVs: 0 Atk  
+- Block  
+- Metal Sound  
+- Air Slash  
+- Leech Seed  
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Moonblast  
+- Flamethrower  
+- Soft-Boiled  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 40 SpD / 216 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Scald  
+- Substitute  
+- Calm Mind  
+
+Ditto @ Choice Scarf  
+Ability: Imposter  
+EVs: 252 HP / 4 Def / 252 SpA  
+Quiet Nature  
+IVs: 30 Atk / 30 SpA / 30 SpD / 1 Spe  
+- Transform  
+
+=== [gen7ou] wk ===
+Venusaur-Mega @ Venusaurite  
+Ability: Overgrow  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Leech Seed  
+- Sludge Bomb  
+- Hidden Power [Fire]  
+- Synthesis  
+
+Keldeo @ Leftovers  
+Ability: Justified  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Secret Sword  
+- Calm Mind  
+- Substitute  
+
+Skarmory @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 252 HP / 252 Def / 4 Spe  
+Impish Nature  
+- Spikes  
+- Roost  
+- Brave Bird  
+- Whirlwind  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Lava Plume  
+- Earth Power  
+- Toxic  
+
+Chansey @ Eviolite  
+Ability: Natural Cure  
+EVs: 4 HP / 252 Def / 252 SpD  
+Bold Nature  
+- Seismic Toss  
+- Soft-Boiled  
+- Wish  
+- Heal Bell  
+
+Bisharp @ Darkinium Z  
+Ability: Defiant  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Knock Off  
+- Iron Head  
+- Swords Dance  
+- Sucker Punch  
+
+=== [gen7ou] ahsan ===
+Pinsir-Mega @ Pinsirite  
+Ability: Hyper Cutter  
+Happiness: 0  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Frustration  
+- Earthquake  
+- Quick Attack  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 12 SpD / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Taunt  
+- Defog  
+
+Ferrothorn @ Choice Band  
+Ability: Iron Barbs  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Power Whip  
+- Knock Off  
+- Explosion  
+
+Tapu Koko @ Choice Scarf  
+Ability: Electric Surge  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Thunderbolt  
+- Dazzling Gleam  
+- Hidden Power [Ice]  
+
+Volcanion @ Assault Vest  
+Ability: Water Absorb  
+EVs: 248 HP / 152 Atk / 96 Def / 12 Spe  
+Relaxed Nature  
+- Steam Eruption  
+- Flamethrower  
+- Superpower  
+- Explosion  
+
+Kyurem-Black @ Icium Z  
+Ability: Teravolt  
+EVs: 128 HP / 44 Atk / 224 Def / 84 SpD / 28 Spe  
+Adamant Nature  
+- Ice Beam  
+- Fusion Bolt  
+- Freeze Shock  
+- Roost  
+
+=== [gen7ou] pinsir ho ===
+Pinsir-Mega @ Pinsirite  
+Ability: Aerilate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Return  
+- Earthquake  
+- Quick Attack  
+
+Magearna @ Leftovers  
+Ability: Soul-Heart  
+EVs: 252 HP / 28 Def / 136 SpA / 92 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Fleur Cannon  
+- Thunderbolt  
+- Focus Blast  
+
+Mew @ Colbur Berry  
+Ability: Synchronize  
+EVs: 184 HP / 108 Def / 216 Spe  
+Jolly Nature  
+IVs: 0 Atk  
+- Taunt  
+- Stealth Rock  
+- Endeavor  
+- Thunder Wave  
+
+Serperior (M) @ Rocky Helmet  
+Ability: Contrary  
+EVs: 216 HP / 40 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Taunt  
+- Leaf Storm  
+- Glare  
+- Defog  
+
+Volcarona (M) @ Leftovers  
+Ability: Flame Body  
+EVs: 116 Def / 236 SpA / 156 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Flamethrower  
+- Bug Buzz  
+- Hidden Power [Ground]  
+
+Dragonite @ Flyinium Z  
+Ability: Multiscale  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Fly  
+- Earthquake  
+- Substitute  
+
+=== [gen7ou] ben gay pinsir stall ===
+Pinsir-Mega @ Pinsirite  
+Ability: Aerilate  
+Happiness: 0  
+EVs: 8 HP / 244 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Substitute  
+- Swords Dance  
+- Frustration  
+- Close Combat  
+
+Hippowdon @ Rocky Helmet  
+Ability: Sand Force  
+EVs: 32 HP / 252 Def / 224 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Slack Off  
+- Earthquake  
+- Toxic  
+
+Kartana @ Normalium Z  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Leaf Blade  
+- Knock Off  
+- Giga Impact  
+
+Mew @ Leftovers  
+Ability: Synchronize  
+EVs: 240 HP / 52 Def / 216 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Defog  
+- Roost  
+- Thunder Wave  
+- Ice Beam  
+
+Zapdos @ Leftovers  
+Ability: Static  
+EVs: 248 HP / 240 Def / 20 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Defog  
+- Roost  
+- Discharge  
+- Heat Wave  
+
+Chansey @ Eviolite  
+Ability: Natural Cure  
+EVs: 240 HP / 252 Def / 16 Spe  
+Bold Nature  
+- Soft-Boiled  
+- Heal Bell  
+- Confide  
+- Seismic Toss  
+
+=== [gen7ou] pinsir zera ===
+Pinsir-Mega @ Pinsirite  
+Ability: Hyper Cutter  
+Happiness: 0  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Frustration  
+- Close Combat  
+- Quick Attack  
+
+Kartana @ Leftovers  
+Ability: Beast Boost  
+EVs: 232 HP / 20 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Knock Off  
+- Synthesis  
+- Defog  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 148 Def / 40 SpA / 72 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Surf  
+- Taunt  
+- Defog  
+
+Zeraora @ Electrium Z  
+Ability: Volt Absorb  
+EVs: 208 Atk / 108 SpD / 192 Spe  
+Jolly Nature  
+- Plasma Fists  
+- Knock Off  
+- Substitute  
+- Endeavor  
+
+Zapdos @ Rocky Helmet  
+Ability: Static  
+EVs: 248 HP / 252 Def / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Heat Wave  
+- Hidden Power [Ice]  
+- Roost  
+
+Chansey @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 252 Def / 8 Spe  
+Bold Nature  
+- Toxic  
+- Stealth Rock  
+- Soft-Boiled  
+- Seismic Toss  
+
+=== [gen7ou] pinsir jira avzone ===
+Pinsir-Mega @ Pinsirite  
+Ability: Aerilate  
+Happiness: 0  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Frustration  
+- Quick Attack  
+- Close Combat  
+- Swords Dance  
+
+Landorus-Therian (M) @ Rockium Z  
+Ability: Intimidate  
+EVs: 64 HP / 252 Atk / 192 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Swords Dance  
+- Earthquake  
+- Stone Edge  
+
+Jirachi @ Choice Scarf  
+Ability: Serene Grace  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- U-turn  
+- Ice Punch  
+- Healing Wish  
+
+Magnezone @ Assault Vest  
+Ability: Magnet Pull  
+EVs: 120 HP / 232 SpA / 156 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Flash Cannon  
+- Hidden Power [Fire]  
+- Volt Switch  
+
+Serperior @ Leftovers  
+Ability: Contrary  
+EVs: 56 HP / 200 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Leaf Storm  
+- Leech Seed  
+- Substitute  
+- Glare  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 16 Def / 12 SpA / 40 SpD / 192 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Defog  
+- Moonblast  
+- Surf  
+- Taunt  
+
+=== [gen7ou] mchomp offense ===
+Garchomp-Mega @ Garchompite  
+Ability: Rough Skin  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Dragon Tail  
+- Fire Blast  
+
+Greninja (M) @ Choice Specs  
+Ability: Battle Bond  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Water Shuriken  
+- Spikes  
+
+Tapu Lele @ Twisted Spoon  
+Ability: Psychic Surge  
+EVs: 144 HP / 176 SpA / 28 SpD / 160 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Moonblast  
+- Hidden Power [Fire]  
+- Taunt  
+
+Magearna @ Assault Vest  
+Ability: Soul-Heart  
+EVs: 248 HP / 28 Def / 232 SpD  
+Calm Nature  
+IVs: 0 Atk / 20 Spe  
+- Fleur Cannon  
+- Volt Switch  
+- Ice Beam  
+- Hidden Power [Fire]  
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 208 Atk / 68 Def / 232 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Stone Edge  
+- Defog  
+
+Kyurem-Black @ Icium Z  
+Ability: Teravolt  
+EVs: 128 HP / 44 Atk / 224 Def / 84 SpD / 28 Spe  
+Adamant Nature  
+- Hone Claws  
+- Freeze Shock  
+- Fusion Bolt  
+- Ice Beam  
+
+=== [gen7ou] dtail spam ===
+Garchomp-Mega @ Garchompite  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Stealth Rock  
+- Earthquake  
+- Dragon Tail  
+- Fire Blast  
+
+Magearna @ Choice Scarf  
+Ability: Soul-Heart  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Fleur Cannon  
+- Ice Beam  
+- Heal Bell  
+
+Cresselia (F) @ Leftovers  
+Ability: Levitate  
+EVs: 240 HP / 96 Def / 152 SpA / 4 SpD / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Ice Beam  
+- Moonlight  
+- Calm Mind  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 248 HP / 44 Def / 200 SpD / 16 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Toxic Spikes  
+- Scald  
+- Recover  
+- Haze  
+
+Tornadus-Therian (M) @ Flyinium Z  
+Ability: Regenerator  
+EVs: 56 HP / 112 Def / 120 SpA / 220 Spe  
+Timid Nature  
+- Hurricane  
+- Knock Off  
+- U-turn  
+- Defog  
+
+Kyurem @ Metronome  
+Ability: Pressure  
+EVs: 56 HP / 240 Def / 60 SpA / 128 SpD / 24 Spe  
+Modest Nature  
+- Ice Beam  
+- Earth Power  
+- Dragon Tail  
+- Roost  
+
+=== [gen7ou] norton sand ===
+Garchomp-Mega (F) @ Garchompite  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Earthquake  
+- Stone Edge  
+- Fire Fang  
+
+Hippowdon (F) @ Smooth Rock  
+Ability: Sand Stream  
+EVs: 252 HP / 240 Def / 16 SpD  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Toxic  
+- Slack Off  
+
+Excadrill (M) @ Steelium Z  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Earthquake  
+- Iron Head  
+- Rapid Spin  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 252 HP / 92 Def / 164 SpD  
+Sassy Nature  
+- Leech Seed  
+- Protect  
+- Heavy Slam  
+- Flamethrower  
+
+Toxapex (M) @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 4 Def / 252 SpD  
+Sassy Nature  
+- Scald  
+- Toxic  
+- Knock Off  
+- Recover  
+
+Greninja-Ash @ Choice Specs  
+Ability: Battle Bond  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Water Shuriken  
+- Spikes  
+
+=== [gen7ou] ben gay ===
+Garchomp-Mega (F) @ Garchompite  
+Ability: Rough Skin  
+EVs: 80 HP / 252 Atk / 176 Spe  
+Adamant Nature  
+- Swords Dance  
+- Dragon Tail  
+- Stomping Tantrum  
+- Rest  
+
+Hippowdon @ Rocky Helmet  
+Ability: Sand Stream  
+EVs: 248 HP / 252 Def / 8 Spe  
+Impish Nature  
+- Stealth Rock  
+- Slack Off  
+- Earthquake  
+- Whirlwind  
+
+Magearna @ Leftovers  
+Ability: Soul-Heart  
+EVs: 248 HP / 124 Def / 136 SpD  
+Calm Nature  
+IVs: 0 Atk / 30 Spe  
+- Heart Swap  
+- Flash Cannon  
+- Volt Switch  
+- Pain Split  
+
+Amoonguss @ Payapa Berry  
+Ability: Regenerator  
+EVs: 232 HP / 60 Def / 216 SpD  
+Sassy Nature  
+- Spore  
+- Sludge Bomb  
+- Stomping Tantrum  
+- Hidden Power [Fire]  
+
+Mantine @ Leftovers  
+Ability: Water Absorb  
+EVs: 248 HP / 244 Def / 16 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Defog  
+- Roost  
+- Scald  
+- Haze  
+
+Tornadus-Therian @ Flyinium Z  
+Ability: Regenerator  
+EVs: 8 HP / 248 SpA / 252 Spe  
+Timid Nature  
+- Taunt  
+- Hurricane  
+- Knock Off  
+- U-turn  
+
+=== [gen7ou] charmflash ho ===
+Altaria-Mega @ Altarianite  
+Ability: Cloud Nine  
+Happiness: 0  
+EVs: 64 HP / 220 Atk / 36 Def / 188 Spe  
+Naive Nature  
+- Frustration  
+- Earthquake  
+- Fire Blast  
+- Dragon Dance  
+
+Magearna @ Expert Belt  
+Ability: Soul-Heart  
+EVs: 12 HP / 252 SpA / 244 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Ice Beam  
+- Hidden Power [Fire]  
+- Shift Gear  
+
+Tapu Koko @ Eject Button  
+Ability: Electric Surge  
+EVs: 252 HP / 4 Def / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Light Screen  
+- Reflect  
+- Taunt  
+
+Hawlucha @ Electric Seed  
+Ability: Unburden  
+EVs: 96 HP / 252 Atk / 32 SpD / 128 Spe  
+Adamant Nature  
+- Acrobatics  
+- Swords Dance  
+- High Jump Kick  
+- Taunt  
+
+Lycanroc @ Focus Sash  
+Ability: Steadfast  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+IVs: 0 HP  
+- Accelerock  
+- Endeavor  
+- Taunt  
+- Stealth Rock  
+
+Porygon-Z @ Normalium Z  
+Ability: Adaptability  
+EVs: 16 HP / 252 SpA / 240 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Ice Beam  
+- Hidden Power [Fire]  
+- Conversion  
+
+=== [gen7ou] alt sand semistall ===
+Regina (Altaria-Mega) (F) @ Altarianite  
+Ability: Natural Cure  
+EVs: 248 HP / 132 Def / 72 SpD / 56 Spe  
+Impish Nature  
+- Body Slam  
+- Heal Bell  
+- Roar  
+- Roost  
+
+Tyrant (Tyranitar) (M) @ Choice Scarf  
+Ability: Sand Stream  
+EVs: 16 HP / 204 Atk / 36 Def / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Crunch  
+- Pursuit  
+- Foul Play  
+
+Seismic (Seismitoad) (M) @ Leftovers  
+Ability: Water Absorb  
+EVs: 200 HP / 28 Def / 216 SpD / 64 Spe  
+Calm Nature  
+- Stealth Rock  
+- Rest  
+- Knock Off  
+- Scald  
+
+Fate (Jirachi) @ Leftovers  
+Ability: Serene Grace  
+EVs: 236 HP / 24 Atk / 176 SpD / 72 Spe  
+Careful Nature  
+- Wish  
+- Protect  
+- Fire Punch  
+- Iron Head  
+
+R.D.O.D. (Skarmory) (M) @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 240 HP / 252 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Roost  
+- Defog  
+- Spikes  
+- Whirlwind  
+
+Oddity (Reuniclus) (M) @ Fightinium Z  
+Ability: Magic Guard  
+EVs: 252 HP / 212 Def / 44 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Calm Mind  
+- Recover  
+- Focus Blast  
+
+=== [gen7ou] alt cress stall ===
+Altaria-Mega @ Altarianite  
+Ability: Natural Cure  
+Happiness: 0  
+EVs: 248 HP / 136 Def / 36 SpA / 28 SpD / 60 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Flamethrower  
+- Roost  
+- Heal Bell  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 44 Atk / 68 Def / 132 SpD / 20 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Roost  
+- Defog  
+
+Kartana @ Grassium Z  
+Ability: Beast Boost  
+EVs: 128 HP / 128 Atk / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Leaf Blade  
+- Knock Off  
+- Synthesis  
+
+Cresselia (F) @ Leftovers  
+Ability: Levitate  
+EVs: 248 HP / 112 Def / 148 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Psyshock  
+- Ice Beam  
+- Moonlight  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 20 Def / 200 SpD / 36 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Haze  
+- Recover  
+- Toxic Spikes  
+
+Chansey (F) @ Eviolite  
+Ability: Natural Cure  
+EVs: 240 HP / 252 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Seismic Toss  
+- Thunder Wave  
+- Soft-Boiled  
+
+=== [gen7ou] z victini mgyara ho ===
+Gyarados-Mega @ Gyaradosite  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Crunch  
+- Earthquake  
+- Taunt  
+
+Cresselia (F) @ Rocky Helmet  
+Ability: Levitate  
+EVs: 252 HP / 100 Def / 92 SpD / 64 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Thunder Wave  
+- Ice Beam  
+- Moonlight  
+- Lunar Dance  
+
+Landorus-Therian (M) @ Yache Berry  
+Ability: Intimidate  
+EVs: 248 HP / 108 Def / 136 SpD / 16 Spe  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- U-turn  
+- Knock Off  
+
+Magearna @ Custap Berry  
+Ability: Soul-Heart  
+EVs: 248 HP / 72 Def / 96 SpA / 88 SpD / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Fleur Cannon  
+- Thunderbolt  
+- Focus Blast  
+
+Serperior (M) @ Rocky Helmet  
+Ability: Contrary  
+EVs: 216 HP / 40 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Taunt  
+- Leaf Storm  
+- Glare  
+- Defog  
+
+Victini @ Normalium Z  
+Ability: Victory Star  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Celebrate  
+- Fire Blast  
+- Stored Power  
+- Focus Blast  
+
+=== [gen7ou] z lele mgyara ho ===
+Gyarados-Mega @ Gyaradosite  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Crunch  
+- Earthquake  
+- Taunt  
+
+Landorus-Therian (M) @ Yache Berry  
+Ability: Intimidate  
+EVs: 248 HP / 108 Def / 136 SpD / 16 Spe  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- U-turn  
+- Defog  
+
+Greninja (M) @ Life Orb  
+Ability: Protean  
+EVs: 44 Atk / 212 SpA / 252 Spe  
+Hasty Nature  
+- Ice Beam  
+- Gunk Shot  
+- Hidden Power [Fire]  
+- Low Kick  
+
+Tapu Lele @ Psychium Z  
+Ability: Psychic Surge  
+EVs: 144 HP / 176 SpA / 28 SpD / 160 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Moonblast  
+- Hidden Power [Fire]  
+- Taunt  
+
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Smart Strike  
+- Sacred Sword  
+- Knock Off  
+
+Magearna @ Custap Berry  
+Ability: Soul-Heart  
+EVs: 248 HP / 72 Def / 96 SpA / 88 SpD / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Fleur Cannon  
+- Thunderbolt  
+- Focus Blast  
+
+=== [gen7ou] zaza hera ===
+Heracross-Mega @ Heracronite  
+Ability: Moxie  
+EVs: 152 HP / 252 Atk / 104 Spe  
+Adamant Nature  
+- Swords Dance  
+- Close Combat  
+- Pin Missile  
+- Rock Blast  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 192 SpD / 68 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Defog  
+- Taunt  
+- Moonblast  
+- Scald  
+
+Zapdos @ Rocky Helmet  
+Ability: Static  
+EVs: 248 HP / 164 Def / 96 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Roost  
+- Volt Switch  
+- Heat Wave  
+- Hidden Power [Ice]  
+
+Cresselia (F) @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 100 Def / 92 SpD / 64 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Thunder Wave  
+- Ice Beam  
+- Moonlight  
+- Lunar Dance  
+
+Garchomp @ Rockium Z  
+Ability: Rough Skin  
+EVs: 248 Atk / 8 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Stone Edge  
+- Earthquake  
+- Stealth Rock  
+
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Smart Strike  
+- Sacred Sword  
+- Knock Off  
+
+=== [gen7ou] carapinga ===
+30-108 CARAPINGA (Heracross-Mega) @ Heracronite  
+Ability: Moxie  
+EVs: 64 HP / 252 Atk / 192 Spe  
+Adamant Nature  
+- Swords Dance  
+- Close Combat  
+- Pin Missile  
+- Rock Blast  
+
+42-188 (Cresselia) (F) @ Wiki Berry  
+Ability: Levitate  
+EVs: 248 HP / 180 Def / 80 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Psychic  
+- Trick Room  
+- Moonlight  
+- Lunar Dance  
+
+21-69 (Marowak-Alola) @ Thick Club  
+Ability: Lightning Rod  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+IVs: 25 Spe  
+- Stealth Rock  
+- Flare Blitz  
+- Shadow Bone  
+- Swords Dance  
+
+26-88 (Tapu Fini) @ Wiki Berry  
+Ability: Misty Surge  
+EVs: 184 HP / 216 SpA / 108 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Surf  
+- Moonblast  
+- Defog  
+
+30-108 (Magearna) @ Wiki Berry  
+Ability: Soul-Heart  
+EVs: 248 HP / 28 Def / 224 SpA / 8 SpD  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Trick Room  
+- Fleur Cannon  
+- Flash Cannon  
+- Volt Switch  
+
+2-4 (Kartana) @ Steelium Z  
+Ability: Beast Boost  
+EVs: 248 HP / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 19 Atk  
+- Swords Dance  
+- Leaf Blade  
+- Smart Strike  
+- Sacred Sword  
+
+=== [gen7ou] skype rain ===
+Swampert-Mega @ Swampertite  
+Ability: Damp  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Waterfall  
+- Earthquake  
+- Ice Punch  
+
+Pelipper @ Damp Rock  
+Ability: Drizzle  
+EVs: 248 HP / 252 Def / 8 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Scald  
+- U-turn  
+- Roost  
+- Defog  
+
+Magearna @ Custap Berry  
+Ability: Soul-Heart  
+EVs: 248 HP / 72 Def / 124 SpA / 64 SpD  
+Modest Nature  
+IVs: 0 Atk / 30 Spe  
+- Fleur Cannon  
+- Focus Blast  
+- Volt Switch  
+- Pain Split  
+
+Greninja-Ash (M) @ Choice Specs  
+Ability: Battle Bond  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Surf  
+- Water Shuriken  
+- Spikes  
+
+Manaphy @ Waterium Z  
+Ability: Hydration  
+EVs: 176 HP / 232 SpA / 100 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Tail Glow  
+- Surf  
+- Energy Ball  
+- Rest  
+
+Tornadus-Therian (M) @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 248 HP / 40 Def / 220 Spe  
+Timid Nature  
+- Hurricane  
+- Knock Off  
+- U-turn  
+- Toxic  
+
+=== [gen7ou] kief rain ===
+Swampert-Mega @ Swampertite  
+Ability: Damp  
+EVs: 248 HP / 8 Atk / 252 SpD  
+Careful Nature  
+- Stealth Rock  
+- Scald  
+- Earthquake  
+- Rest  
+
+Politoed (F) @ Leftovers  
+Ability: Drizzle  
+EVs: 248 HP / 8 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Whirlpool  
+- Perish Song  
+- Rest  
+- Protect  
+
+Skarmory @ Shed Shell  
+Ability: Sturdy  
+EVs: 252 HP / 232 Def / 24 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Counter  
+- Defog  
+- Roost  
+- Toxic  
+
+Reuniclus @ Rocky Helmet  
+Ability: Magic Guard  
+EVs: 252 HP / 212 Def / 44 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Psyshock  
+- Energy Ball  
+- Recover  
+
+Manaphy @ Waterium Z  
+Ability: Hydration  
+EVs: 184 HP / 252 SpA / 72 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Surf  
+- Psychic  
+- Rest  
+- Tail Glow  
+
+Chansey @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Heal Bell  
+- Soft-Boiled  
+- Seismic Toss  
+- Toxic  
+
+=== [gen7ou] kief megacamel ===
+AUF DER HEIDE (Camerupt-Mega) @ Cameruptite  
+Ability: Solid Rock  
+EVs: 128 HP / 252 SpA / 128 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Earth Power  
+- Substitute  
+- Stealth Rock  
+
+KLEINES BLÜMELEIN (Diggersby) @ Silk Scarf  
+Ability: Huge Power  
+Happiness: 0  
+EVs: 252 Atk / 8 Def / 248 Spe  
+Adamant Nature  
+- Frustration  
+- Spikes  
+- Earthquake  
+- Quick Attack  
+
+ERIKA (Magearna) @ Fairium Z  
+Ability: Soul-Heart  
+EVs: 248 HP / 28 Def / 224 SpA / 8 SpD  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Trick Room  
+- Focus Blast  
+- Thunderbolt  
+- Fleur Cannon  
+
+BLÜTENKLEID (Weavile) @ Choice Scarf  
+Ability: Pickpocket  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Icicle Crash  
+- Knock Off  
+- Pursuit  
+- Foul Play  
+
+TREUES SCHÄTZELEIN (Tapu Bulu) @ Choice Band  
+Ability: Grassy Surge  
+EVs: 160 HP / 252 Atk / 96 Spe  
+Adamant Nature  
+- Wood Hammer  
+- Horn Leech  
+- Stone Edge  
+- Superpower  
+
+BLONDES MÄGDELEIN (Tornadus-Therian) (M) @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 248 HP / 68 Def / 192 Spe  
+Timid Nature  
+- Hurricane  
+- Defog  
+- Taunt  
+- Knock Off  
+
+=== [gen7ou] haishera stall 2 ===
+Seismitoad @ Metronome  
+Ability: Water Absorb  
+EVs: 192 HP / 252 Atk / 64 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Scald  
+- Earthquake  
+- Toxic  
+
+Bisharp @ Choice Scarf  
+Ability: Defiant  
+EVs: 24 HP / 252 Atk / 4 SpD / 228 Spe  
+Jolly Nature  
+- Knock Off  
+- Iron Head  
+- Pursuit  
+- Foul Play  
+
+Skarmory @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Spikes  
+- Counter  
+- Roost  
+- Whirlwind  
+
+Reuniclus @ Rocky Helmet  
+Ability: Magic Guard  
+EVs: 160 HP / 252 Def / 52 SpA / 44 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Psychic  
+- Thunder  
+- Recover  
+- Calm Mind  
+
+Tornadus-Therian @ Flyinium Z  
+Ability: Regenerator  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Timid Nature  
+- Hurricane  
+- Heat Wave  
+- Superpower  
+- Defog  
+
+Chansey @ Eviolite  
+Ability: Natural Cure  
+EVs: 40 HP / 252 Def / 200 SpD / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Thunder Wave  
+- Seismic Toss  
+- Soft-Boiled  
+- Toxic  
+
+=== [gen7ou] yugi low ===
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 112 SpD / 152 Spe  
+Jolly Nature  
+- Earthquake  
+- Ice Fang  
+- Roost  
+- Defog  
+
+Skarmory @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+- Brave Bird  
+- Whirlwind  
+- Spikes  
+- Roost  
+
+Tapu Lele @ Choice Specs  
+Ability: Psychic Surge  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Moonblast  
+- Psychic  
+- Hidden Power [Fire]  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic Spikes  
+- Haze  
+- Recover  
+
+Volcarona @ Buginium Z  
+Ability: Flame Body  
+EVs: 248 HP / 244 Def / 16 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Bug Buzz  
+- Flamethrower  
+- Roost  
+
+Chansey @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Seismic Toss  
+- Wish  
+- Soft-Boiled  
+
+=== [gen7ou] espeon ho epic ===
+Excadrill @ Focus Sash  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Rock Tomb  
+- Rapid Spin  
+
+Tapu Lele @ Choice Scarf  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Psyshock  
+- Moonblast  
+- Hidden Power [Fire]  
+
+Espeon @ Choice Specs  
+Ability: Magic Bounce  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Hidden Power [Ice]  
+- Dazzling Gleam  
+- Trick  
+
+Bisharp @ Focus Sash  
+Ability: Defiant  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Knock Off  
+- Sucker Punch  
+- Iron Head  
+
+Gyarados @ Flyinium Z  
+Ability: Moxie  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Waterfall  
+- Bounce  
+- Taunt  
+
+Volcarona @ Metronome  
+Ability: Flame Body  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Flamethrower  
+- Hidden Power [Ground]  
+- Bug Buzz  
+

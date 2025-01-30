@@ -1,0 +1,240 @@
+=== [gen81v1] DGPT cresselia, dracovish, zeraora; temp: 1.2; k: 14 === 
+
+AI mon 1 (cresselia) @ Maranga Berry 
+Ability: Levitate 
+EVs: 248 hp / 76 def / 184 spe 
+Calm Nature 
+- Psyshock 
+- Skill Swap 
+- Moonlight 
+- Rest 
+
+AI mon 2 (dracovish) @ Life Orb 
+Ability: Strong Jaw 
+EVs: 116 hp / 88 atk / 88 def / 216 spe 
+Jolly Nature 
+- Fishious Rend 
+- Outrage 
+- Crunch 
+- Bulldoze 
+
+AI mon 3 (zeraora) @ Life Orb 
+Ability: Volt Absorb 
+EVs: 252 atk / 100 spd / 156 spe 
+Jolly Nature 
+- Plasma Fists 
+- Play Rough 
+- Blaze Kick 
+- Knock Off 
+
+
+=== [gen81v1] DGPT magnezone, cresselia, zapdos-galar; temp: 1.2; k: 14 === 
+
+AI mon 1 (magnezone) @ Choice Specs 
+Ability: Sturdy 
+EVs: 252 spa / 4 spd / 252 spe 
+Modest Nature 
+- Thunderbolt 
+- Flash Cannon 
+- Hyper Beam 
+- Mirror Coat 
+
+AI mon 2 (cresselia) @ Leftovers 
+Ability: Levitate 
+EVs: 196 hp / 60 spa / 252 spe 
+Timid Nature 
+- Psyshock 
+- Moonblast 
+- Moonlight 
+- Calm Mind 
+
+AI mon 3 (zapdos-galar) @ Assault Vest 
+Ability: Defiant 
+EVs: 200 hp / 240 atk / 68 spd 
+Adamant Nature 
+- Thunderous Kick 
+- Brave Bird 
+- Low Sweep 
+- Counter 
+
+
+=== [gen81v1] DGPT tapu-lele, celesteela, garchomp; temp: 1.2; k: 14 === 
+
+AI mon 1 (tapu-lele) @ Weakness Policy 
+Ability: Psychic Surge 
+EVs: 12 hp / 252 def / 52 spa / 192 spe 
+Modest Nature 
+- Stored Power 
+- Draining Kiss 
+- Iron Defense 
+- Calm Mind 
+
+AI mon 2 (celesteela) @ Custap Berry 
+Ability: Beast Boost 
+EVs: 248 hp / 140 atk / 116 spd / 4 spe 
+Sassy Nature 
+- Endure 
+- Heavy Slam 
+- Flamethrower 
+- Superpower 
+
+AI mon 3 (garchomp) @ Life Orb 
+Ability: Rough Skin 
+EVs: 252 atk / 4 spd / 252 spe 
+Jolly Nature 
+- Swords Dance 
+- Earthquake 
+- Outrage 
+- Poison Jab 
+
+
+=== [gen81v1] DGPT volcarona, landorus-therian, registeel; temp: 1.2; k: 14 === 
+
+AI mon 1 (volcarona) @ Kee Berry 
+Ability: Swarm 
+EVs: 176 hp / 100 def / 232 spe 
+Timid Nature 
+- Bug Buzz 
+- Quiver Dance 
+- Will-O-Wisp 
+- Roost 
+
+AI mon 2 (landorus-therian) @ Sitrus Berry 
+Ability: Intimidate 
+EVs: 252 hp / 48 atk / 64 def / 144 spe 
+Adamant Nature 
+- Earthquake 
+- Outrage 
+- Substitute 
+- Bulk Up 
+
+AI mon 3 (registeel) @ Leftovers 
+Ability: Clear Body 
+EVs: 252 hp / 116 def / 140 spd 
+Bold Nature 
+- Body Press 
+- Thunder Wave 
+- Substitute 
+- Iron Defense 
+
+
+=== [gen81v1] DGPT celesteela, venusaur, primarina; temp: 1.2; k: 14 === 
+
+AI mon 1 (celesteela) @ Occa Berry 
+Ability: Beast Boost 
+EVs: 248 hp / 24 atk / 40 def / 172 spd / 24 spe 
+Careful Nature 
+- Heavy Slam 
+- Bulldoze 
+- Leech Seed 
+- Protect 
+
+AI mon 2 (venusaur) @ Custap Berry 
+Ability: Overgrow 
+EVs: 68 hp / 92 def / 252 spa / 96 spe 
+Modest Nature 
+- Frenzy Plant 
+- Sludge Bomb 
+- Sleep Powder 
+- Endure 
+
+AI mon 3 (primarina) @ Pixie Plate 
+Ability: Torrent 
+EVs: 196 hp / 252 spa / 60 spe 
+Modest Nature 
+- Hydro Cannon 
+- Moonblast 
+- Encore 
+- Icy Wind 
+
+
+=== [gen81v1] DGPT heatran, landorus-therian, sylveon; temp: 1.2; k: 14 === 
+
+AI mon 1 (heatran) @ Passho Berry 
+Ability: Flash Fire 
+EVs: 112 hp / 196 spa / 4 spd / 196 spe 
+Modest Nature 
+- Overheat 
+- Earth Power 
+- Flash Cannon 
+- Taunt 
+
+AI mon 2 (landorus-therian) @ Assault Vest 
+Ability: Intimidate 
+EVs: 88 hp / 252 atk / 168 spe 
+Adamant Nature 
+- Earthquake 
+- Outrage 
+- Knock Off 
+- Iron Tail 
+
+AI mon 3 (sylveon) @ Mental Herb 
+Ability: Pixilate 
+EVs: 248 hp / 100 def / 144 spa / 16 spe 
+Modest Nature 
+- Hyper Beam 
+- Yawn 
+- Protect 
+- Fake Tears 
+
+
+=== [gen81v1] DGPT rhyperior, cresselia, heatran; temp: 1.2; k: 14 === 
+
+AI mon 1 (rhyperior) @ Choice Band 
+Ability: Solid Rock 
+EVs: 220 atk / 92 spd / 196 spe 
+Adamant Nature 
+- Rock Wrecker 
+- Earthquake 
+- Fire Punch 
+- Avalanche 
+
+AI mon 2 (cresselia) @ Choice Scarf 
+Ability: Levitate 
+EVs: 200 hp / 12 def / 44 spa / 252 spe 
+Timid Nature 
+- Psychic 
+- Ice Beam 
+- Rest 
+- Trick 
+
+AI mon 3 (heatran) @ Air Balloon 
+Ability: Flash Fire 
+EVs: 208 hp / 124 def / 56 spa / 120 spe 
+Modest Nature 
+- Taunt 
+- Eruption 
+- Iron Defense 
+- Body Press 
+
+
+=== [gen81v1] DGPT zapdos-galar, tyranitar, tapu-bulu; temp: 1.2; k: 14 === 
+
+AI mon 1 (zapdos-galar) @ Custap Berry 
+Ability: Defiant 
+EVs: 248 hp / 96 atk / 60 def / 84 spd / 20 spe 
+Adamant Nature 
+- Thunderous Kick 
+- Brave Bird 
+- Bulk Up 
+- Endure 
+
+AI mon 2 (tyranitar) @ Chople Berry 
+Ability: Sand Stream 
+EVs: 240 hp / 80 atk / 168 def / 20 spe 
+Adamant Nature 
+- Stone Edge 
+- Crunch 
+- Earthquake 
+- Heavy Slam 
+
+AI mon 3 (tapu-bulu) @ Grassy Seed 
+Ability: Grassy Surge 
+EVs: 232 hp / 20 atk / 200 def / 56 spe 
+Adamant Nature 
+- Taunt 
+- Disable 
+- Bulk Up 
+- Horn Leech 
+
+

@@ -1,0 +1,909 @@
+=== [gen5ou] DGPT landorus-therian, latios, rotom-wash, slowking, magnezone, aerodactyl; temp: 1; k: Dynamic === 
+
+AI mon 1 (landorus-therian) @ Choice Scarf 
+Ability: Intimidate 
+EVs: 140 atk / 116 def / 252 spe 
+Naive Nature 
+- earthquake 
+- u-turn 
+- punishment 
+- hidden-power-[ice] 
+
+AI mon 2 (latios) @ Choice Scarf 
+Ability: Levitate 
+EVs: 4 def / 252 spa / 252 spe 
+Timid Nature 
+- draco meteor 
+- trick 
+- surf 
+- dragon pulse 
+
+AI mon 3 (rotom-wash) @ Leftovers 
+Ability: Levitate 
+EVs: 252 hp / 252 def / 4 spa 
+Relaxed Nature 
+- volt switch 
+- hydro pump 
+- hidden-power-[fire] 
+- pain split 
+
+AI mon 4 (slowking) @ Leftovers 
+Ability: Regenerator 
+EVs: 252 hp / 240 def / 16 spd 
+Calm Nature 
+- scald 
+- psyshock 
+- future sight 
+- slack off 
+
+AI mon 5 (magnezone) @ Air Balloon 
+Ability: Magnet Pull 
+EVs: 252 spa / 4 spd / 252 spe 
+Modest Nature 
+- sunny day 
+- hidden-power-[fire] 
+- thunderbolt 
+- magnet rise 
+
+AI mon 6 (aerodactyl) @ Focus Sash 
+Ability: Pressure 
+EVs: 252 atk / 4 def / 252 spe 
+Jolly Nature 
+- stealth rock 
+- taunt 
+- double-edge 
+- earthquake 
+
+
+=== [gen5ou] DGPT tyranitar, jirachi, starmie, scizor, excadrill, ferrothorn; temp: 1; k: Dynamic === 
+
+AI mon 1 (tyranitar) @ Chople Berry 
+Ability: Sand Stream 
+EVs: 252 hp / 88 atk / 168 spd 
+Adamant Nature 
+- crunch 
+- superpower 
+- thunder wave 
+- pursuit 
+
+AI mon 2 (jirachi) @ Leftovers 
+Ability: Serene Grace 
+EVs: 252 hp / 88 def / 152 spd / 16 spe 
+Careful Nature 
+- wish 
+- protect 
+- body slam 
+- iron head 
+
+AI mon 3 (starmie) @ Air Balloon 
+Ability: Natural Cure 
+EVs: 252 spa / 28 spd / 228 spe 
+Timid Nature 
+- hydro pump 
+- hidden-power-[fire] 
+- thunderbolt 
+- rapid spin 
+
+AI mon 4 (scizor) @ Choice Scarf 
+Ability: Technician 
+EVs: 80 hp / 184 atk / 244 spe 
+Jolly Nature 
+- u-turn 
+- superpower 
+- pursuit 
+- bullet punch 
+
+AI mon 5 (excadrill) @ Choice Scarf 
+Ability: Mold Breaker 
+EVs: 252 atk / 4 spd / 252 spe 
+Adamant Nature 
+- rapid spin 
+- earthquake 
+- iron head 
+- rock slide 
+
+AI mon 6 (ferrothorn) @ Leftovers 
+Ability: Iron Barbs 
+EVs: 252 hp / 48 def / 208 spd 
+Impish Nature 
+- spikes 
+- thunder wave 
+- leech seed 
+- power whip 
+
+
+=== [gen5ou] DGPT keldeo-resolute, landorus-therian, hydreigon, conkeldurr, lucario, gengar; temp: 1; k: Dynamic === 
+
+AI mon 1 (keldeo-resolute) @ Expert Belt 
+Ability: Justified 
+EVs: 252 spa / 4 spd / 252 spe 
+Timid Nature 
+- hydro pump 
+- secret sword 
+- hidden-power-[ghost] 
+- icy wind 
+
+AI mon 2 (landorus-therian) @ Leftovers 
+Ability: Intimidate 
+EVs: 248 hp / 8 def / 252 spe 
+Jolly Nature 
+- earthquake 
+- hidden-power-[ice] 
+- stealth rock 
+- u-turn 
+
+AI mon 3 (hydreigon) @ Life Orb 
+Ability: Levitate 
+EVs: 60 hp / 232 spa / 28 spd / 188 spe 
+Modest Nature 
+- draco meteor 
+- roost 
+- flamethrower 
+- focus blast 
+
+AI mon 4 (conkeldurr) @ Life Orb 
+Ability: Sheer Force 
+EVs: 120 hp / 252 atk / 116 spd / 20 spe 
+Adamant Nature 
+- hammer arm 
+- ice punch 
+- thunder punch 
+- mach punch 
+
+AI mon 5 (lucario) @ Life Orb 
+Ability: Steadfast 
+EVs: 252 atk / 4 spd / 252 spe 
+Jolly Nature 
+- crunch 
+- ice punch 
+- close combat 
+- extreme speed 
+
+AI mon 6 (gengar) @ Black Sludge 
+Ability: Levitate 
+EVs: 104 hp / 152 spa / 252 spe 
+Timid Nature 
+- will-o-wisp 
+- substitute 
+- shadow ball 
+- focus blast 
+
+
+=== [gen5ou] DGPT ferrothorn, ditto, rotom-wash, thundurus-therian, landorus-therian, slowbro; temp: 1; k: Dynamic === 
+
+AI mon 1 (ferrothorn) @ Lum Berry 
+Ability: Iron Barbs 
+EVs: 248 hp / 144 atk / 116 spd 
+Adamant Nature 
+- spikes 
+- gyro ball 
+- power whip 
+- explosion 
+
+AI mon 2 (ditto) @ Choice Scarf 
+Ability: Imposter 
+EVs: 252 hp / 4 atk / 252 spe 
+Naive Nature 
+- transform 
+
+AI mon 3 (rotom-wash) @ Choice Scarf 
+Ability: Levitate 
+EVs: 144 hp / 136 spa / 228 spe 
+Modest Nature 
+- volt switch 
+- hydro pump 
+- hidden-power-[ice] 
+- trick 
+
+AI mon 4 (thundurus-therian) @ Sitrus Berry 
+Ability: Volt Absorb 
+EVs: 24 hp / 176 spa / 56 spd / 252 spe 
+Timid Nature 
+- agility 
+- thunder 
+- hidden-power-[ice] 
+- focus blast 
+
+AI mon 5 (landorus-therian) @ Leftovers 
+Ability: Intimidate 
+EVs: 252 hp / 76 spa / 180 spe 
+Mild Nature 
+- earth power 
+- hidden-power-[ice] 
+- stealth rock 
+- knock off 
+
+AI mon 6 (slowbro) @ Leftovers 
+Ability: Regenerator 
+EVs: 248 hp / 24 def / 236 spd 
+Calm Nature 
+- scald 
+- ice beam 
+- psychic 
+- slack off 
+
+
+=== [gen5ou] DGPT skarmory, chansey, xatu, cresselia, hippowdon, clefable; temp: 1; k: Dynamic === 
+
+AI mon 1 (skarmory) @ Rocky Helmet 
+Ability: Sturdy 
+EVs: 248 hp / 252 def / 8 spe 
+Impish Nature 
+- spikes 
+- roost 
+- whirlwind 
+- brave bird 
+
+AI mon 2 (chansey) @ Eviolite 
+Ability: Natural Cure 
+EVs: 200 hp / 252 def / 56 spd 
+Bold Nature 
+- soft-boiled 
+- seismic toss 
+- toxic 
+- defense curl 
+
+AI mon 3 (xatu) @ Leftovers 
+Ability: Magic Bounce 
+EVs: 252 hp / 252 def / 4 spe 
+Bold Nature 
+- night shade 
+- u-turn 
+- roost 
+- hidden-power-[ice] 
+
+AI mon 4 (cresselia) @ Leftovers 
+Ability: Levitate 
+EVs: 248 hp / 252 def / 8 spd 
+Bold Nature 
+- ice beam 
+- toxic 
+- skill swap 
+- moonlight 
+
+AI mon 5 (hippowdon) @ Leftovers 
+Ability: Sand Stream 
+EVs: 252 hp / 8 atk / 248 def 
+Impish Nature 
+- earthquake 
+- whirlwind 
+- slack off 
+- stealth rock 
+
+AI mon 6 (clefable) @ Leftovers 
+Ability: Magic Guard 
+EVs: 252 hp / 4 def / 252 spd 
+Sassy Nature 
+- knock off 
+- seismic toss 
+- thunder wave 
+- soft-boiled 
+
+
+=== [gen5ou] DGPT gliscor, politoed, gastrodon, dragonite, thundurus-therian, blissey; temp: 1; k: Dynamic === 
+
+AI mon 1 (gliscor) @ Toxic Orb 
+Ability: Poison Heal 
+EVs: 244 hp / 76 def / 188 spe 
+Jolly Nature 
+- substitute 
+- protect 
+- toxic 
+- earthquake 
+
+AI mon 2 (politoed) @ Leftovers 
+Ability: Drizzle 
+EVs: 252 hp / 252 def / 4 spd 
+Bold Nature 
+- scald 
+- encore 
+- protect 
+- toxic 
+
+AI mon 3 (gastrodon) @ Leftovers 
+Ability: Storm Drain 
+EVs: 248 hp / 224 def / 28 spd / 8 spe 
+Bold Nature 
+- earth power 
+- ice beam 
+- toxic 
+- recover 
+
+AI mon 4 (dragonite) @ Choice Band 
+Ability: Multiscale 
+EVs: 56 hp / 252 atk / 4 spd / 196 spe 
+Adamant Nature 
+- extreme speed 
+- outrage 
+- superpower 
+- ice punch 
+
+AI mon 5 (thundurus-therian) @ Leftovers 
+Ability: Volt Absorb 
+EVs: 24 hp / 228 spa / 104 spd / 152 spe 
+Modest Nature 
+- agility 
+- thunder 
+- hidden-power-[ice] 
+- focus blast 
+
+AI mon 6 (blissey) @ Leftovers 
+Ability: Natural Cure 
+EVs: 252 hp / 252 def / 4 spd 
+Bold Nature 
+- soft-boiled 
+- heal bell 
+- seismic toss 
+- toxic 
+
+
+=== [gen5ou] DGPT amoonguss, conkeldurr, lucario, gengar, hydreigon, reuniclus; temp: 1; k: Dynamic === 
+
+AI mon 1 (amoonguss) @ Black Sludge 
+Ability: Regenerator 
+EVs: 252 hp / 68 def / 184 spd / 4 spe 
+Calm Nature 
+- stun spore 
+- giga drain 
+- sludge bomb 
+- hidden-power-[fire] 
+
+AI mon 2 (conkeldurr) @ Life Orb 
+Ability: Sheer Force 
+EVs: 120 hp / 252 atk / 116 spd / 20 spe 
+Adamant Nature 
+- hammer arm 
+- ice punch 
+- thunder punch 
+- mach punch 
+
+AI mon 3 (lucario) @ Life Orb 
+Ability: Inner Focus 
+EVs: 252 atk / 4 spd / 252 spe 
+Adamant Nature 
+- crunch 
+- ice punch 
+- close combat 
+- extreme speed 
+
+AI mon 4 (gengar) @ Choice Scarf 
+Ability: Levitate 
+EVs: 56 def / 200 spa / 252 spe 
+Timid Nature 
+- shadow ball 
+- thunderbolt 
+- focus blast 
+- trick 
+
+AI mon 5 (hydreigon) @ Leftovers 
+Ability: Levitate 
+EVs: 4 def / 252 spa / 252 spe 
+Timid Nature 
+- flamethrower 
+- roost 
+- dark pulse 
+- earth power 
+
+AI mon 6 (reuniclus) @ Life Orb 
+Ability: Magic Guard 
+EVs: 248 hp / 136 def / 48 spa / 40 spd / 36 spe 
+Modest Nature 
+- focus blast 
+- hidden-power-[ice] 
+- psychic 
+- recover 
+
+
+=== [gen5ou] DGPT gastrodon, landorus-therian, clefable, alakazam, celebi, keldeo-resolute; temp: 1; k: Dynamic === 
+
+AI mon 1 (gastrodon) @ Leftovers 
+Ability: Storm Drain 
+EVs: 248 hp / 252 def / 4 spd / 4 spe 
+Bold Nature 
+- scald 
+- ice beam 
+- recover 
+- clear smog 
+
+AI mon 2 (landorus-therian) @ Rocky Helmet 
+Ability: Sand Stream 
+EVs: 100 hp / 156 def / 252 spe 
+Naive Nature 
+- earthquake 
+- hidden-power-[ice] 
+- u-turn 
+- stealth rock 
+
+AI mon 3 (clefable) @ Leftovers 
+Ability: Magic Guard 
+EVs: 252 hp / 4 def / 252 spd 
+Calm Nature 
+- soft-boiled 
+- thunder wave 
+- knock off 
+- ice beam 
+
+AI mon 4 (alakazam) @ Focus Sash 
+Ability: Magic Guard 
+EVs: 4 def / 252 spa / 252 spe 
+Timid Nature 
+- psychic 
+- shadow ball 
+- grass knot 
+- thunder wave 
+
+AI mon 5 (celebi) @ Leftovers 
+Ability: Natural Cure 
+EVs: 104 hp / 204 spa / 200 spe 
+Timid Nature 
+- nasty plot 
+- leaf storm 
+- hidden-power-[fire] 
+- recover 
+
+AI mon 6 (keldeo-resolute) @ Leftovers 
+Ability: Justified 
+EVs: 252 spa / 4 spd / 252 spe 
+Timid Nature 
+- calm mind 
+- scald 
+- secret sword 
+- hidden-power-[ghost] 
+
+
+=== [gen5ou] DGPT keldeo-resolute, reuniclus, kyurem-black, garchomp, latios, heatran; temp: 1; k: Dynamic === 
+
+AI mon 1 (keldeo-resolute) @ Leftovers 
+Ability: Justified 
+EVs: 252 spa / 4 spd / 252 spe 
+Timid Nature 
+- substitute 
+- protect 
+- secret sword 
+- scald 
+
+AI mon 2 (reuniclus) @ Life Orb 
+Ability: Magic Guard 
+EVs: 172 hp / 100 def / 176 spa / 56 spd / 4 spe 
+Modest Nature 
+- psychic 
+- focus blast 
+- recover 
+- hidden-power-[ice] 
+
+AI mon 3 (kyurem-black) @ Choice Scarf 
+Ability: Teravolt 
+EVs: 252 atk / 4 spd / 252 spe 
+Adamant Nature 
+- outrage 
+- ice beam 
+- fusion bolt 
+- dragon claw 
+
+AI mon 4 (garchomp) @ Choice Scarf 
+Ability: Rough Skin 
+EVs: 252 atk / 4 spd / 252 spe 
+Jolly Nature 
+- outrage 
+- dual chop 
+- earthquake 
+- flamethrower 
+
+AI mon 5 (latios) @ Colbur Berry 
+Ability: Levitate 
+EVs: 4 def / 252 spa / 252 spe 
+Timid Nature 
+- roar 
+- draco meteor 
+- roost 
+- surf 
+
+AI mon 6 (heatran) @ Leftovers 
+Ability: Flash Fire 
+EVs: 252 spa / 176 spd / 80 spe 
+Modest Nature 
+- magma storm 
+- earth power 
+- hidden-power-[ice] 
+- protect 
+
+
+=== [gen5ou] DGPT ferrothorn, jellicent, gliscor, tentacruel, alakazam, chansey; temp: 1; k: Dynamic === 
+
+AI mon 1 (ferrothorn) @ Lum Berry 
+Ability: Iron Barbs 
+EVs: 248 hp / 52 atk / 208 spd 
+Careful Nature 
+- knock off 
+- spikes 
+- stealth rock 
+- power whip 
+
+AI mon 2 (jellicent) @ Air Balloon 
+Ability: Water Absorb 
+EVs: 252 hp / 160 def / 96 spe 
+Bold Nature 
+- taunt 
+- night shade 
+- will-o-wisp 
+- recover 
+
+AI mon 3 (gliscor) @ Toxic Orb 
+Ability: Poison Heal 
+EVs: 244 hp / 252 spd / 12 spe 
+Careful Nature 
+- toxic 
+- earthquake 
+- protect 
+- stealth rock 
+
+AI mon 4 (tentacruel) @ Black Sludge 
+Ability: Rain Dish 
+EVs: 252 hp / 72 def / 184 spe 
+Timid Nature 
+- scald 
+- toxic 
+- protect 
+- rapid spin 
+
+AI mon 5 (alakazam) @ Focus Sash 
+Ability: Magic Guard 
+EVs: 252 spa / 4 spd / 252 spe 
+Timid Nature 
+- psyshock 
+- encore 
+- hidden-power-[ice] 
+- focus blast 
+
+AI mon 6 (chansey) @ Eviolite 
+Ability: Natural Cure 
+EVs: 252 hp / 252 def / 4 spd 
+Bold Nature 
+- soft-boiled 
+- aromatherapy 
+- toxic 
+- seismic toss 
+
+
+=== [gen5ou] DGPT gliscor, forretress, jellicent, breloom, tyranitar, garchomp; temp: 1; k: Dynamic === 
+
+AI mon 1 (gliscor) @ Toxic Orb 
+Ability: Poison Heal 
+EVs: 244 hp / 72 def / 172 spd / 20 spe 
+Careful Nature 
+- swords dance 
+- earthquake 
+- protect 
+- ice fang 
+
+AI mon 2 (forretress) @ Leftovers 
+Ability: Sturdy 
+EVs: 252 hp / 252 def / 4 spa 
+Bold Nature 
+- hidden-power-[ice] 
+- spikes 
+- pain split 
+- rapid spin 
+
+AI mon 3 (jellicent) @ Red Card 
+Ability: Water Absorb 
+EVs: 248 hp / 124 def / 136 spe 
+Timid Nature 
+- taunt 
+- will-o-wisp 
+- recover 
+- night shade 
+
+AI mon 4 (breloom) @ Fist Plate 
+Ability: Technician 
+EVs: 16 hp / 152 atk / 108 spd / 232 spe 
+Adamant Nature 
+- mach punch 
+- swords dance 
+- bullet seed 
+- low sweep 
+
+AI mon 5 (tyranitar) @ Choice Scarf 
+Ability: Sand Stream 
+EVs: 148 atk / 108 spa / 252 spe 
+Hasty Nature 
+- crunch 
+- superpower 
+- pursuit 
+- ice beam 
+
+AI mon 6 (garchomp) @ Choice Scarf 
+Ability: Rough Skin 
+EVs: 252 atk / 4 spd / 252 spe 
+Jolly Nature 
+- outrage 
+- dual chop 
+- earthquake 
+- flamethrower 
+
+
+=== [gen5ou] DGPT xatu, seismitoad, ferrothorn, jellicent, heatran, excadrill; temp: 1; k: Dynamic === 
+
+AI mon 1 (xatu) @ Rocky Helmet 
+Ability: Magic Bounce 
+EVs: 252 hp / 252 def / 4 spd 
+Bold Nature 
+- reflect 
+- roost 
+- haze 
+- heat wave 
+
+AI mon 2 (seismitoad) @ Leftovers 
+Ability: Water Absorb 
+EVs: 252 hp / 252 def / 4 spd 
+Bold Nature 
+- scald 
+- knock off 
+- protect 
+- refresh 
+
+AI mon 3 (ferrothorn) @ Chople Berry 
+Ability: Iron Barbs 
+EVs: 252 hp / 252 def / 4 spd 
+Relaxed Nature 
+- stealth rock 
+- spikes 
+- power whip 
+- gyro ball 
+
+AI mon 4 (jellicent) @ Leftovers 
+Ability: Water Absorb 
+EVs: 252 hp / 252 def / 4 spd 
+Bold Nature 
+- night shade 
+- protect 
+- recover 
+- will-o-wisp 
+
+AI mon 5 (heatran) @ Air Balloon 
+Ability: Flash Fire 
+EVs: 252 spa / 92 spd / 164 spe 
+Modest Nature 
+- magma storm 
+- earth power 
+- hidden-power-[grass] 
+- dragon pulse 
+
+AI mon 6 (excadrill) @ Leftovers 
+Ability: Sand Force 
+EVs: 252 atk / 4 def / 252 spe 
+Jolly Nature 
+- earthquake 
+- iron head 
+- swords dance 
+- rapid spin 
+
+
+=== [gen5ou] DGPT starmie, magnezone, thundurus-therian, breloom, forretress, garchomp; temp: 1; k: Dynamic === 
+
+AI mon 1 (starmie) @ Choice Specs 
+Ability: Analytic 
+EVs: 252 spa / 4 spd / 252 spe 
+Timid Nature 
+- hydro pump 
+- thunder 
+- trick 
+- rapid spin 
+
+AI mon 2 (magnezone) @ Air Balloon 
+Ability: Magnet Pull 
+EVs: 252 spa / 4 spd / 252 spe 
+Modest Nature 
+- sunny day 
+- thunderbolt 
+- hidden-power-[fire] 
+- magnet rise 
+
+AI mon 3 (thundurus-therian) @ Leftovers 
+Ability: Volt Absorb 
+EVs: 24 hp / 252 spa / 56 spd / 176 spe 
+Timid Nature 
+- thunder 
+- hidden-power-[ice] 
+- focus blast 
+- u-turn 
+
+AI mon 4 (breloom) @ Toxic Orb 
+Ability: Poison Heal 
+EVs: 236 hp / 212 spd / 60 spe 
+Careful Nature 
+- swords dance 
+- drain punch 
+- facade 
+- protect 
+
+AI mon 5 (forretress) @ Leftovers 
+Ability: Sturdy 
+EVs: 252 hp / 252 def / 4 spa 
+Bold Nature 
+- hidden-power-[ice] 
+- spikes 
+- pain split 
+- rapid spin 
+
+AI mon 6 (garchomp) @ Focus Sash 
+Ability: Rough Skin 
+EVs: 8 hp / 232 atk / 4 def / 12 spd / 252 spe 
+Naive Nature 
+- swords dance 
+- earthquake 
+- outrage 
+- fire blast 
+
+
+=== [gen5ou] DGPT gliscor, latias, starmie, abomasnow, jirachi, celebi; temp: 1; k: Dynamic === 
+
+AI mon 1 (gliscor) @ Toxic Orb 
+Ability: Poison Heal 
+EVs: 244 hp / 240 spd / 24 spe 
+Careful Nature 
+- swords dance 
+- protect 
+- earthquake 
+- ice fang 
+
+AI mon 2 (latias) @ Leftovers 
+Ability: Levitate 
+EVs: 252 hp / 4 def / 252 spe 
+Timid Nature 
+- calm mind 
+- roost 
+- dragon pulse 
+- psycho shift 
+
+AI mon 3 (starmie) @ Air Balloon 
+Ability: Analytic 
+EVs: 252 spa / 24 spd / 232 spe 
+Timid Nature 
+- hydro pump 
+- hidden-power-[fire] 
+- thunderbolt 
+- rapid spin 
+
+AI mon 4 (abomasnow) @ Leftovers 
+Ability: Snow Warning 
+EVs: 248 hp / 68 def / 108 spa / 84 spd 
+Quiet Nature 
+- ice shard 
+- giga drain 
+- blizzard 
+- protect 
+
+AI mon 5 (jirachi) @ Choice Scarf 
+Ability: Serene Grace 
+EVs: 140 atk / 252 spd / 116 spe 
+Adamant Nature 
+- healing wish 
+- iron head 
+- ice punch 
+- u-turn 
+
+AI mon 6 (celebi) @ Leftovers 
+Ability: Natural Cure 
+EVs: 252 hp / 140 spd / 116 spe 
+Calm Nature 
+- nasty plot 
+- giga drain 
+- psychic 
+- recover 
+
+
+=== [gen5ou] DGPT alakazam, hippowdon, clefable, landorus-therian, slowbro, jirachi; temp: 1; k: Dynamic === 
+
+AI mon 1 (alakazam) @ Focus Sash 
+Ability: Magic Guard 
+EVs: 4 def / 252 spa / 252 spe 
+Timid Nature 
+- psychic 
+- shadow ball 
+- grass knot 
+- hidden-power-[fire] 
+
+AI mon 2 (hippowdon) @ Leftovers 
+Ability: Sand Stream 
+EVs: 252 hp / 4 def / 252 spd 
+Careful Nature 
+- slack off 
+- earthquake 
+- rock slide 
+- whirlwind 
+
+AI mon 3 (clefable) @ Leftovers 
+Ability: Magic Guard 
+EVs: 252 hp / 4 def / 252 spd 
+Calm Nature 
+- soft-boiled 
+- thunder wave 
+- knock off 
+- ice beam 
+
+AI mon 4 (landorus-therian) @ Leftovers 
+Ability: Intimidate 
+EVs: 56 hp / 192 def / 8 spd / 252 spe 
+Naive Nature 
+- stealth rock 
+- earthquake 
+- hidden-power-[ice] 
+- u-turn 
+
+AI mon 5 (slowbro) @ Leftovers 
+Ability: Regenerator 
+EVs: 248 hp / 252 def / 8 spe 
+Bold Nature 
+- scald 
+- calm mind 
+- ice beam 
+- slack off 
+
+AI mon 6 (jirachi) @ Choice Scarf 
+Ability: Serene Grace 
+EVs: 252 atk / 4 spd / 252 spe 
+Jolly Nature 
+- iron head 
+- u-turn 
+- trick 
+- healing wish 
+
+
+=== [gen5ou] DGPT starmie, jirachi, amoonguss, alakazam, tentacruel, latias; temp: 1; k: Dynamic === 
+
+AI mon 1 (starmie) @ Air Balloon 
+Ability: Analytic 
+EVs: 252 spa / 4 spd / 252 spe 
+Timid Nature 
+- hydro pump 
+- ice beam 
+- thunderbolt 
+- rapid spin 
+
+AI mon 2 (jirachi) @ Eject Button 
+Ability: Serene Grace 
+EVs: 252 hp / 80 def / 136 spd / 40 spe 
+Calm Nature 
+- stealth rock 
+- icy wind 
+- u-turn 
+- healing wish 
+
+AI mon 3 (amoonguss) @ Black Sludge 
+Ability: Regenerator 
+EVs: 252 hp / 76 def / 160 spd / 20 spe 
+Calm Nature 
+- sludge bomb 
+- hidden-power-[fire] 
+- giga drain 
+- stun spore 
+
+AI mon 4 (alakazam) @ Focus Sash 
+Ability: Magic Guard 
+EVs: 252 spa / 4 spd / 252 spe 
+Timid Nature 
+- psyshock 
+- encore 
+- hidden-power-[ice] 
+- focus blast 
+
+AI mon 5 (tentacruel) @ Black Sludge 
+Ability: Rain Dish 
+EVs: 248 hp / 68 def / 192 spe 
+Timid Nature 
+- scald 
+- protect 
+- rapid spin 
+- toxic 
+
+AI mon 6 (latias) @ Leftovers 
+Ability: Levitate 
+EVs: 252 hp / 4 def / 252 spe 
+Timid Nature 
+- calm mind 
+- substitute 
+- roost 
+- dragon pulse 
+
+

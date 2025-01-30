@@ -1,0 +1,240 @@
+=== [gen61v1] DGPT togekiss, gengar-mega, hoopa-unbound; temp: 1; k: 14 === 
+
+AI mon 1 (togekiss) @ Choice Scarf 
+Ability: Serene Grace 
+EVs: 52 hp / 252 spa / 204 spe 
+Timid Nature 
+- Air Slash 
+- Dazzling Gleam 
+- Trick 
+- Rest 
+
+AI mon 2 (gengar-mega) @ Gengarite 
+Ability: Shadow Tag 
+EVs: 104 hp / 152 spa / 252 spe 
+Timid Nature 
+- Hex 
+- Will-O-Wisp 
+- Disable 
+- Taunt 
+
+AI mon 3 (hoopa-unbound) @ Choice Scarf 
+Ability: Magician 
+EVs: 84 atk / 252 spa / 172 spe 
+Mild Nature 
+- Hyperspace Fury 
+- Psychic 
+- Thunderbolt 
+- Gunk Shot 
+
+
+=== [gen61v1] DGPT togekiss, gengar-mega, altaria-mega; temp: 1; k: 14 === 
+
+AI mon 1 (togekiss) @ Choice Scarf 
+Ability: Serene Grace 
+EVs: 4 hp / 252 spa / 252 spe 
+Timid Nature 
+- Air Slash 
+- Aura Sphere 
+- Flamethrower 
+- Trick 
+
+AI mon 2 (gengar-mega) @ Gengarite 
+Ability: Shadow Tag 
+EVs: 104 hp / 152 spa / 252 spe 
+Timid Nature 
+- Hex 
+- Will-O-Wisp 
+- Disable 
+- Taunt 
+
+AI mon 3 (altaria-mega) @ Altarianite 
+Ability: Pixilate 
+EVs: 248 hp / 84 def / 4 spa / 172 spd 
+Sassy Nature 
+- hidden-power-[rock] 
+- Hyper Voice 
+- Hyper Beam 
+- Bulldoze 
+
+
+=== [gen61v1] DGPT heatran, kyurem-black, heracross; temp: 1; k: 14 === 
+
+AI mon 1 (heatran) @ Choice Scarf 
+Ability: Flash Fire 
+EVs: 252 spa / 4 spd / 252 spe 
+Quiet Nature 
+- Eruption 
+- Flash Cannon 
+- Dragon Pulse 
+- Dark Pulse 
+
+AI mon 2 (kyurem-black) @ Choice Scarf 
+Ability: Teravolt 
+EVs: 252 atk / 4 spa / 252 spe 
+Naughty Nature 
+- Outrage 
+- Fusion Bolt 
+- Ice Beam 
+- Earth Power 
+
+AI mon 3 (heracross) @ Heracronite 
+Ability: Guts 
+EVs: 176 hp / 116 spd / 216 spe 
+Jolly Nature 
+- Close Combat 
+- Pin Missile 
+- Rock Tomb 
+- Rock Blast 
+
+
+=== [gen61v1] DGPT manaphy, archeops, mawile; temp: 1; k: 14 === 
+
+AI mon 1 (manaphy) @ Sitrus Berry 
+Ability: Hydration 
+EVs: 252 hp / 4 spd / 252 spe 
+Timid Nature 
+- Scald 
+- Acid Armor 
+- Calm Mind 
+- Rest 
+
+AI mon 2 (archeops) @ Choice Scarf 
+Ability: Defeatist 
+EVs: 252 atk / 4 spd / 252 spe 
+Jolly Nature 
+- Head Smash 
+- Fly 
+- Knock Off 
+- Earthquake 
+
+AI mon 3 (mawile) @ Mawilite 
+Ability: Hyper Cutter 
+EVs: 216 hp / 244 atk / 48 spe 
+Adamant Nature 
+- Swords Dance 
+- Play Rough 
+- Iron Head 
+- Sucker Punch 
+
+
+=== [gen61v1] DGPT cresselia, heracross, victini; temp: 1; k: 14 === 
+
+AI mon 1 (cresselia) @ Choice Specs 
+Ability: Levitate 
+EVs: 28 hp / 248 spa / 232 spe 
+Modest Nature 
+- Psychic 
+- Ice Beam 
+- Grass Knot 
+- hidden-power-[fire] 
+
+AI mon 2 (heracross) @ Heracronite 
+Ability: Guts 
+EVs: 176 hp / 116 spd / 216 spe 
+Jolly Nature 
+- Close Combat 
+- Pin Missile 
+- Rock Tomb 
+- Rock Blast 
+
+AI mon 3 (victini) @ Choice Specs 
+Ability: Victory Star 
+EVs: 100 hp / 252 spa / 156 spe 
+Modest Nature 
+- Blue Flare 
+- Flamethrower 
+- Grass Knot 
+- Psychic 
+
+
+=== [gen61v1] DGPT heracross-mega, rhyperior, gengar; temp: 1; k: 14 === 
+
+AI mon 1 (heracross-mega) @ Heracronite 
+Ability: Guts 
+EVs: 248 hp / 44 atk / 160 def / 56 spe 
+Impish Nature 
+- Bullet Seed 
+- Pin Missile 
+- Counter 
+- Protect 
+
+AI mon 2 (rhyperior) @ Assault Vest 
+Ability: Solid Rock 
+EVs: 200 hp / 212 spd / 96 spe 
+Adamant Nature 
+- Rock Wrecker 
+- Earthquake 
+- Rock Slide 
+- Counter 
+
+AI mon 3 (gengar) @ Choice Specs 
+Ability: Levitate 
+EVs: 252 spa / 4 spd / 252 spe 
+Timid Nature 
+- Sludge Wave 
+- Shadow Ball 
+- Focus Blast 
+- Trick 
+
+
+=== [gen61v1] DGPT greninja, altaria-mega, landorus-therian; temp: 1; k: 14 === 
+
+AI mon 1 (greninja) @ Rocky Helmet 
+Ability: Protean 
+EVs: 96 atk / 200 def / 128 spa / 84 spe 
+Naive Nature 
+- Substitute 
+- Rock Tomb 
+- Hydro Cannon 
+- hidden-power-[fire] 
+
+AI mon 2 (altaria-mega) @ Altarianite 
+Ability: Pixilate 
+EVs: 152 hp / 240 atk / 116 spe 
+Adamant Nature 
+- Dragon Dance 
+- Return 
+- Giga Impact 
+- Earthquake 
+
+AI mon 3 (landorus-therian) @ Expert Belt 
+Ability: Intimidate 
+EVs: 252 spa / 4 spd / 252 spe 
+Modest Nature 
+- Calm Mind 
+- Earth Power 
+- Extrasensory 
+- Grass Knot 
+
+
+=== [gen61v1] DGPT porygon-z, garchomp, sylveon; temp: 1; k: 14 === 
+
+AI mon 1 (porygon-z) @ Life Orb 
+Ability: Adaptability 
+EVs: 252 spa / 4 spd / 252 spe 
+Timid Nature 
+- Nasty Plot 
+- Hyper Beam 
+- hidden-power-[fire] 
+- Substitute 
+
+AI mon 2 (garchomp) @ Garchompite 
+Ability: Rough Skin 
+EVs: 252 atk / 4 spd / 252 spe 
+Jolly Nature 
+- Earthquake 
+- Rock Tomb 
+- Swords Dance 
+- Substitute 
+
+AI mon 3 (sylveon) @ Custap Berry 
+Ability: Pixilate 
+EVs: 248 hp / 68 def / 192 spa 
+Bold Nature 
+- Yawn 
+- Endure 
+- Hyper Beam 
+- Fake Tears 
+
+
