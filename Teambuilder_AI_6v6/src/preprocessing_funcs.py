@@ -245,11 +245,11 @@ def make_state(pkmn):
             elif pkmn['abilities'].lower() == 'snow warning':
                 weather['snow'] = 1
                 weather['snow_setter'] = 1
-            elif pkmn['abilities'].lower() in weather_abilities[1]:
+            elif pkmn['abilities'].lower() in weather_abilities[1] and 'fire' not in pkmn['types']:
                 weather['rain'] = 1
             elif pkmn['abilities'].lower() in weather_abilities[2]:
                 weather['sand'] = 1
-            elif pkmn['abilities'].lower() in weather_abilities[3]:
+            elif pkmn['abilities'].lower() in weather_abilities[3] and 'water' not in pkmn['types']: 
                 weather['sun'] = 1
             elif pkmn['abilities'].lower() in weather_abilities[4]:
                 weather['snow'] = 1
@@ -453,6 +453,28 @@ def label_teams(teams_data):
                 break
         if error:
             continue
+        weathers = [H.rain_mon, H.sand_mon, H.sun_mon, H.snow_mon]
+        which_weather = 0
+        weather = False
+        for mon in t:
+            if mon[H.rain_setter] == 1:
+                weather = True
+                which_weather = 0
+            elif mon[H.sand_setter] == 1:
+                weather = True
+                which_weather = 1
+            elif mon[H.sun_mon] == 1:
+                weather = True
+                which_weather = 2
+            elif mon[H.snow_mon] == 1:
+                weather = True
+                which_weather = 3
+        if not weather:
+            for mon in t: #Detele mons labeled as weather mons from non weather teams to help keep model from getting confused
+                mon[H.rain_mon] = 0
+                mon[H.sand_mon] = 0
+                mon[H.sun_mon] = 0
+                mon[H.snow_mon] = 0
         labeled_teams.append(t) #Add each team as a new array to labeled_teams
         '''print(f"{t[0]}\n{t[1]}\n{t[2]}")
         input()'''

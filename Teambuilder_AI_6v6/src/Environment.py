@@ -2,6 +2,7 @@ import torch
 import Conversions
 import numpy as np
 import random
+import HyperParameters
 
 class Environment:
     def __init__(self, known_pokemon, all_style_labels, team_size=3, max_steps=5):

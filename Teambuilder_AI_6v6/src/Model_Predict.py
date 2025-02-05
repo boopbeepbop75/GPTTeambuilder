@@ -25,7 +25,7 @@ print("Initializing tokenizer...")
 tokenizer = Tokenizer.tokenizer(known_pokemon)
 input_size = len(tokenizer)
 embedding_dim = math.floor(math.sqrt(input_size))
-while embedding_dim%2 != 0:
+while embedding_dim%H.NUM_HEADS != 0:
     embedding_dim -= 1
 
 print(f"input_size: {input_size}; embedding_dim: {embedding_dim}")
@@ -67,8 +67,9 @@ def generate_teams(certain_mon=None): #Generate the teams starting with a random
     input()'''
     teams_batch = Model.generate(team_batch, 
                                  tokenizer, 
-                                 temperature=H.temperature, 
-                                 threshold=H.threshold, top_k=H.top_k, 
+                                 temperature=H.temperature,
+                                 top_p=H.top_p,
+                                 top_k=H.top_k, 
                                  min_k = H.min_k, dynamic_k=H.dynamic_k,
                                  repetition_penalty=H.repetition_penalty, 
                                  weather_repetition_penalty=H.double_weather_penalty,
@@ -115,11 +116,15 @@ def write_mon_text(mon, name):
 def write_team_text(teams):
     text = ""
     for team in teams:
-        text += f"=== [gen{H.gen}{H.tier}] DGPT {team[0]['name']}, {team[1]['name']}, {team[2]['name']}, {team[3]['name']}, {team[4]['name']}, {team[5]['name']}; temp: {H.temperature}; "
+        text += f"=== [gen{H.gen}{H.tier}] DGPT "
+        #text += f"{team[0]['name']}, {team[1]['name']}, {team[2]['name']}, {team[3]['name']}, {team[4]['name']}, {team[5]['name']};"
+        text += f"temp: {H.temperature}; "
+        text += f"redux: {H.temp_redux}; "
         if H.dynamic_k:
             text += f"k: Dynamic === \n\n"
         else:
             text += f"k: {H.top_k} === \n\n"
+
         for i, mon in enumerate(team):
             text += write_mon_text(mon, i+1)
         text += "\n"
@@ -134,7 +139,7 @@ if __name__ == "__main__":
     #while num_batches < H.AMOUNT:
     #try:
     random_mon = random.randint(0, len(known_pokemon))
-    random_mon = 1
+    #random_mon = 1
     print(random_mon)
 
     teams_batch, original_mons = generate_teams(certain_mon=None)

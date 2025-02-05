@@ -11,8 +11,9 @@ import json
 import Defining_States
 import VR
 
-banned = {'8': [], '9': [], '6': [], '7': [], '5': ['cloyster', 'dugtrio']}
-banned_moves = {'spore', 'sleep powder', 'hypnosis', 'grass whistle', 'sing', 'lovely kiss', 'yawn'}
+banned = {'9': [], '8': [], '7': [], '6': [], '5': ['cloyster', 'dugtrio']}
+banned_moves = {'5': {'spore', 'sleep powder', 'hypnosis', 'grass whistle', 'sing', 'lovely kiss', 'yawn', 'sleep talk', 'dynamic punch'}}
+banned_abilities = {'5': {'sand rush', 'swift swim'}}
 
 def print_team(team):
     print(f"{team[0]['name']}, {team[1]['name']}, {team[2]['name']}")
@@ -53,6 +54,8 @@ def form_name(name):
             return 'vivillon'
         case 'Wishiwashi':
             return 'wishiwashi-school'
+        case 'Sinistcha-Masterpiece':
+            return 'sinistcha'
         case _:
             return name
 
@@ -71,15 +74,23 @@ def load_data():
         team = []
         error_pokemon = []
         skipped_pokemon = set()
+        banned_pokemon = set()
+        banned_moves_set = set()
+        banned_abilities_set = set()
+        banned_items_set = set()
+        move_errors = set()
         making_mon = False
+        making_team = False
         pkmn = pokemon.Pokemon('', [])
         for line in f:
             try:
                 #Making the name and item
                 if line[0:3] == "===":
+                    making_team = True
                     try:
                         #print(f"{team[0].name}, {team[1].name}, {team[2].name}, {team[3].name}, {team[4].name}, {team[5].name}")
                         if len(team) == 6:
+                            #print(team[0].name, team[1].name, team[2].name, team[3].name, team[4].name, team[5].name)
                             teams_list.append(team)
                             if (len(teams_list))%20 == 0:
                                 print(f"{len(teams_list)} teams processed")
@@ -87,7 +98,10 @@ def load_data():
                         team = []
                     except:
                         pass
-                elif "@" in line:
+                if not making_team:
+                    continue
+
+                if "@" in line:
                     making_mon = True
                     pkmn = pokemon.Pokemon('', [])
                     ### Handle incorrect formatted named
@@ -101,6 +115,8 @@ def load_data():
                         if name in banned[H.gen]:
                             team = []
                             making_mon = False
+                            making_team = False
+                            banned_pokemon.add(name)
                             continue
                     except:
                         pass
@@ -155,6 +171,7 @@ def load_data():
                         if name.lower() not in VR.get_vr():
                             team = []
                             making_mon = False
+                            making_team = False
                             skipped_pokemon.add(name)
                             continue
                             
@@ -166,27 +183,45 @@ def load_data():
                     if 'gem' in item.lower() and H.gen == '5':
                         team = []
                         making_mon = False
-                        skipped_pokemon.add(name)
+                        making_team = False
+                        banned_items_set.add(name)
                         continue
                     #Finish Name and Item section
 
                 #Handle other pokemon attributes
                 elif 'Ability: ' in line:
                     pkmn.ability = line.split('Ability: ')[1].strip()
+                    if pkmn.ability.lower() in banned_abilities[H.gen]:
+                        team = []
+                        making_mon = False
+                        making_team = False
+                        banned_abilities_set.add(name)
+                        #print(f"Banned move: {move}")
+                        continue
                 elif 'EVs:' in line:
                     pkmn.evs = line.split('EVs: ')[1].strip()
                 elif 'Nature' in line:
                     pkmn.nature = line.split(' ')[0].strip()
-                elif '-' in line:
+                elif '-' in line and '=' not in line and len(pkmn.moves) < 4:
                     line = line.replace('-', '', 1)
-                    pkmn.moves.append(line.strip())
-                    if (line.strip() in banned_moves) and (H.gen == '5' or H.gen == '9'):
+                    move = line.strip()
+                    if move.lower() in banned_moves[H.gen]:
                         team = []
                         making_mon = False
+                        making_team = False
+                        banned_moves_set.add(name)
+                        #print(f"Banned move: {move}")
                         continue
+                    pkmn.moves.append(move)
                 #################################
                 
                 elif line.strip() == '' and making_mon:
+                    if len(pkmn.moves) > 4:
+                        team = []
+                        making_mon = False
+                        making_team = False
+                        move_errors.add(name)
+                        continue
                     if len(team) > 0:
                         '''#Don't add teams with dupe typings
                         cur_typings = []
@@ -216,10 +251,17 @@ def load_data():
                 print(f"Error: {line}\n{e}")
 
         #Clean up last team
-        teams_list.append(team)
+        if len(team) == 6:
+            
+            teams_list.append(team)
 
     print(f"Errors: {error_pokemon}")
     print(f"Skipped: {skipped_pokemon}")
+    print(f"Banned moves: {banned_moves_set}")
+    print(f"Banned items: {banned_items_set}")
+    print(f"Banned abilities: {banned_abilities_set}")
+    print(f"Banned pokemon: {banned_pokemon}")
+    print(f"Move Errors: {move_errors}")
     return teams_list
 
 

@@ -9,7 +9,6 @@ import Data_cleanup
 import HyperParameters as H
 import Utils as U
 import Dataset_Class
-import helper_functions
 import json
 import math
 import RL_Model
@@ -50,7 +49,7 @@ tokenizer = Tokenizer.tokenizer(known_pokemon)
 print(tokenizer[0])
 print(len(tokenizer))
 
-print(tokenizer)
+#print(tokenizer)
 
 labels = torch.zeros(teams_data.shape[0], 6, 1) #labels
 
@@ -60,12 +59,20 @@ print(labels.shape)
 feature_size = len(known_pokemon[0]['label'])
 print(f"feature_size: {feature_size}")
 
-input("Press enter to continue...")
+#input("Press enter to continue...")
 
 #print(labels)
+error_count = 0
+total_mons = 0
 for i, team in enumerate(teams_data):
     for idx, mon in enumerate(team):
-        labels[i, idx, 0] = tokenizer.index(mon.tolist())
+        total_mons += 1
+        try:
+            labels[i, idx, 0] = tokenizer.index(mon.tolist())
+        except:
+            error_count += 1
+
+print(f"Processed {total_mons} mons with {error_count} errors ({(error_count/total_mons)*100:.2f}%)")
 ###############
 
 team_tensors = teams_data.to(torch.long) #Features
@@ -85,7 +92,7 @@ test_loader = DataLoader(test_data, batch_size=H.BATCH_SIZE, shuffle=False)
 input_size = len(tokenizer)
 
 embedding_dim = math.floor(math.sqrt(input_size))
-while embedding_dim%2 != 0:
+while embedding_dim%H.NUM_HEADS != 0:
     embedding_dim -= 1
 print(f"input_size: {input_size}; embedding_dim: {embedding_dim}")
 
@@ -94,91 +101,174 @@ model.to(device)
 loss_fn = nn.CrossEntropyLoss() #Multilabel classification task
 optimizer = torch.optim.Adam(model.parameters(), lr=H.LEARNING_RATE)
 
-def set_loss(predictions, targets):
+def get_bonus_weight(epoch, start_epoch=0, end_epoch=15, start_weight=0.0, end_weight=.8):
     """
-    Compute set-based loss with uniqueness constraints.
-    
-    Args:
-        predictions: tensor of shape (batch_size, team_size, num_classes) - [8, 6, 235]
-        targets: tensor of shape (batch_size, team_size, 1) - [8, 6, 1]
-        input_features: tensor containing the feature vectors for each prediction
+    Gradually increases the bonus weight from start_weight to end_weight over epochs
     """
+    if epoch <= start_epoch:
+        return start_weight
+    elif epoch >= end_epoch:
+        return end_weight
+    else:
+        # Linear interpolation between start and end weights
+        progress = (epoch - start_epoch) / (end_epoch - start_epoch)
+        return start_weight + (end_weight - start_weight) * progress
+
+def set_loss(predictions, targets, epoch):
     total_loss = torch.tensor(0.0, device=predictions.device)
     batch_size = len(predictions)
+    loss_fn = nn.CrossEntropyLoss()
+    # Dynamic bonus weight that increases with epochs
+    total_bonus_weight = get_bonus_weight(epoch)
     
     for batch_idx, (pred, target) in enumerate(zip(predictions, targets)):
+        # Individual weights #
+        species_weight, archetypes_weight, style_weight, weather_weight = .8, .0, .1, .1
         # Original set-based and cross-entropy losses
-        pred_probs = F.softmax(pred, dim=-1)  # Shape: [6, ]
-        target = target.squeeze(-1)  # Shape: [6]
-        target_one_hot = F.one_hot(target, num_classes=pred.size(-1)).float()  # Shape: [6, ]
+        pred = pred.view(-1, pred.size(-1))  # Flatten the prediction for softmax
+        target = target.squeeze(1)
+
+        # Generate all permutations of the target tokens (team)
+        best_loss = torch.tensor(float('inf'), device=pred.device)  # Use tensor for best_loss
+        best_perm = 0
+        # Get all permutations of the target indices
+        for perm in itertools.permutations(range(target.size(0))):
+            permuted_target = target[list(perm)]  # Apply the permutation to the target
+            
+            # Calculate loss for this permutation
+            loss = loss_fn(pred, permuted_target)
+            
+            # Update best_loss and best_perm together
+            if loss < best_loss:
+                best_loss = loss
+                best_perm = perm  # Store the best permutation
         
-        pred_set = pred_probs.sum(dim=0)  # Shape: [235]
-        target_set = target_one_hot.sum(dim=0)  # Shape: [235]
+        total_loss += best_loss  # Accumulate the loss (no conversion to float now)
+        target = target[list(best_perm)]
+        pred_probs = F.softmax(pred, dim=-1)
+        predictions = [torch.argmax(p).item() for p in pred_probs]
+        pred_tokens = [tokenizer[p] for p in predictions]
+        target_tokens = [tokenizer[p] for p in target]
+        pred_tokens = torch.from_numpy(np.array(pred_tokens).astype(np.float32)).to(device)
+        target_tokens = torch.from_numpy(np.array(target_tokens).astype(np.float32)).to(device)
+
+        # Species match bonus #
+        species_bonus = torch.tensor(0.0, device=device)
+        pred_species = pred_tokens[:, 0] #Extract the model's predicted species
+        target_species = target_tokens[:, 0] #Extract the actual species
+        used_species = set() #keep track of the model's predicted species
+        correct_species = 0
+        for x in pred_species:
+            if x in target_species and x not in used_species:
+                correct_species += 1
+                used_species.add(x)
+
+        species_bonus = (correct_species / 6)  # Normalize between 0 and 1
+        # End Species Bonus #
+
+        # Archetypes Weight #
+        archetypes_bonus = torch.tensor(0.0, device=device)
+        pred_archetypes = pred_tokens[:, H.archetypes]
+        target_archetypes = target_tokens[:, H.archetypes]
+        target_archetypes = target_archetypes[list(best_perm)]
+        correct_archetypes = (pred_archetypes == target_archetypes).sum()
+        archetypes_bonus = (correct_archetypes / 6) #normalize between 0 and 1
+        # End Archetypes Weight
+
+        # Style section #
+        style_bonus = torch.tensor(0.0, device=device)
+        pred_styles = pred_tokens[:, H.style_start:H.style_end]
+        target_styles = target_tokens[:, H.style_start:H.style_end]
+        correct_styles = 0
+        num_styles_on = 0
+        for ps, ts in zip(pred_styles, target_styles):
+            '''if torch.equal(ps, ts):  # Compare the full style tensors
+                correct_styles += 1'''
+            #Compare the 'on' values in the style tensors
+            for p, t in zip(ps, ts):
+                if t == 1:
+                    num_styles_on += 1
+                    if p == 1:
+                        correct_styles += 1
+
+        style_bonus = (correct_styles / num_styles_on)
+        # End Style Section #
+
+        # Weather Section #
+        weather_bonus = torch.tensor(0.0, device=device)
+        #Extract weather mons before checking if it's a weather mon team
+        rain_mon_pred = pred_tokens[:, H.rain_mon]
+        rain_mon_target = target_tokens[:, H.rain_mon]
+        rain_setter_pred = pred_tokens[:, H.rain_setter]
+        sand_mon_pred = pred_tokens[:, H.sand_mon]
+        sand_mon_target = target_tokens[:, H.sand_mon]
+        sand_setter_pred = pred_tokens[:, H.sand_setter]
+        sun_mon_pred = pred_tokens[:, H.sun_mon]
+        sun_mon_target = target_tokens[:, H.sun_mon]
+        sun_setter_pred = pred_tokens[:, H.sun_setter]
+        snow_mon_pred = pred_tokens[:, H.snow_mon]
+        snow_mon_target = target_tokens[:, H.snow_mon]
+        snow_setter_pred = pred_tokens[:, H.snow_setter]
+        weather = any([(rain_mon_target > 0).sum() > 0,
+                        (sand_mon_target > 0).sum() > 0,
+                        (sun_mon_target > 0).sum() > 0,
+                        (snow_mon_target > 0).sum() > 0,
+                       ])
+        #print(rain_mon_target)
+
+        # Weather Section #
+        #Bonuses
+        if ((rain_mon_target > 0).sum() > 0):
+            if (rain_mon_pred > 0).sum() > 0 and (rain_setter_pred > 0).sum() > 0 and ((rain_setter_pred > 0).sum() + (sand_setter_pred > 0).sum() + (sun_setter_pred > 0).sum() + (snow_setter_pred > 0).sum() == 1):
+                weather_bonus += 1 #Reward correct weather 
+        elif ((sand_mon_target > 0).sum() > 0):
+            if (sand_mon_pred > 0).sum() > 0 and (sand_setter_pred > 0).sum() > 0 and ((rain_setter_pred > 0).sum() + (sand_setter_pred > 0).sum() + (sun_setter_pred > 0).sum() + (snow_setter_pred > 0).sum() == 1):
+                weather_bonus += 1
+        elif ((sun_mon_target > 0).sum() > 0):
+            if (sun_mon_pred > 0).sum() > 0 and (sun_setter_pred > 0).sum() > 0 and ((rain_setter_pred > 0).sum() + (sand_setter_pred > 0).sum() + (sun_setter_pred > 0).sum() + (snow_setter_pred > 0).sum() == 1):
+                weather_bonus += 1        
+        elif ((snow_mon_target > 0).sum() > 0):
+            if (snow_mon_pred > 0).sum() > 0 and (snow_setter_pred > 0).sum() > 0 and ((rain_setter_pred > 0).sum() + (sand_setter_pred > 0).sum() + (sun_setter_pred > 0).sum() + (snow_setter_pred > 0).sum() == 1):
+                weather_bonus += 1   
+        elif weather_bonus != 0:
+            weather_bonus /= weather_bonus # Make sure bonus always = 0 or 1
+
+        #mon penaltys
+        if (rain_mon_pred > 0).sum() > 0:
+            if ((sand_setter_pred > 0).sum() > 0) or ((sun_setter_pred > 0).sum() > 0) or ((snow_setter_pred > 0).sum() > 0):
+                weather_bonus = 0
+        elif (sand_mon_pred > 0).sum() > 0:
+            if ((rain_setter_pred > 0).sum() > 0) or ((sun_setter_pred > 0).sum() > 0) or ((snow_setter_pred > 0).sum() > 0):
+                weather_bonus = 0
+        elif (sun_mon_pred > 0).sum() > 0:
+            if ((rain_setter_pred > 0).sum() > 0) or ((sand_setter_pred > 0).sum() > 0) or ((snow_setter_pred > 0).sum() > 0):
+                weather_bonus = 0
+        elif (snow_mon_pred > 0).sum() > 0:
+            if ((rain_setter_pred > 0).sum() > 0) or ((sand_setter_pred > 0).sum() > 0) or ((sun_setter_pred > 0).sum() > 0):
+                weather_bonus = 0
+        # End Weather Section #
+
+        # Apply scaled bonuses at the end #
+        if not weather:
+            style_weight += weather_weight
+        #print(style_weight)
+
+        #Scale bonuses
+        bonus_weight_species = species_weight * total_loss.detach()  # Detach to avoid affecting gradients
+        bonus_weight_archetypes = archetypes_weight * total_loss.detach()
+        bonus_weight_style = style_weight * total_loss.detach()
+        bonus_weight_weather = weather_weight * total_loss.detach()
+
+        #Calculate bonuses
+        species_bonus *= bonus_weight_species
+        archetypes_bonus *= bonus_weight_archetypes
+        style_bonus *= bonus_weight_style
+        weather_bonus *= bonus_weight_weather
         
-        pred_set = pred_set * (target_set.sum() / pred_set.sum())
-        
-        set_diff_loss = F.mse_loss(pred_set, target_set)
-        ce_loss = F.cross_entropy(pred, target)
-
-        team_predictions = [torch.argmax(m).item() for m in pred_probs]
-        team_predictions = [tokenizer[m] for m in team_predictions]
-        features = torch.from_numpy(np.array(team_predictions).astype(np.float32)).to(torch.long)
-        features = features.to(device)
-        #print(features)
-        
-        # Extract relevant features
-        species = features[:, 0]
-        target_labels = [tokenizer[m] for m in target]
-        target_labels = torch.from_numpy(np.array(target_labels).astype(np.float32)).to(torch.long)
-        act_species = target_labels[:, 0]
-        wrong_species = 0
-        for mon in act_species:
-            if mon not in species:
-                wrong_species += 1
-
-        rain_setter = features[:, -10]
-        rain_mon = features[:, -9]  
-        sand_setter = features[:, -8]
-        sand_mon = features[:, -7]  
-        sun_setter = features[:, -6]
-        sun_mon = features[:, -5]  
-        snow_setter = features[:, -4]
-        snow_mon = features[:, -3]  
-
-        # Combine losses
-        combined_loss = set_diff_loss + 0.15 * ce_loss 
-
-        # Loss Penalties #
-        # Species Penalty #
-        species_penalty_ratio = 2
-
-        species_penalty_weight = 1/6
-        species_penalty = wrong_species * species_penalty_weight
-
-        species_penalty = species_penalty * (species_penalty_ratio / (1 + species_penalty_ratio)) * combined_loss
-        # End Species Penalty #
-
-        # Weather Penalty #
-        weather_penalty_ratio = 1
-        wrong_weather = 0
-
-        if ((rain_mon > 0).sum() > 0) and ((rain_setter > 0).sum() == 0):
-            wrong_weather += 1
-
-        if ((sand_mon > 0).sum() > 0) and ((sand_setter > 0).sum() == 0):
-            wrong_weather += 1
-
-        if ((sun_mon > 0).sum() > 0) and ((sun_setter > 0).sum() == 0):
-            wrong_weather += 1
-        
-        if ((snow_mon > 0).sum() > 0) and ((snow_setter > 0).sum() == 0):
-            wrong_weather += 1
-        
-        weather_penalty = wrong_weather * (weather_penalty_ratio / 1 + weather_penalty_ratio)
-        # End Weather Penalty
-        combined_loss += species_penalty
-        combined_loss += weather_penalty
-        total_loss += combined_loss
+        # Incorporate all the loss changes #
+        total_bonus = species_bonus + weather_bonus + style_bonus
+        total_bonus *= total_bonus_weight
+        total_loss -= total_bonus
     
     return total_loss / batch_size
 
@@ -244,7 +334,7 @@ for epoch in range(H.EPOCHS):
         y_preds = model(x)
 
         #calculate loss
-        loss = set_loss(y_preds, y)
+        loss = set_loss(y_preds, y, epoch)
         training_loss += loss.item()
         #back prop
         optimizer.zero_grad()
@@ -286,7 +376,7 @@ for epoch in range(H.EPOCHS):
         y_preds = model(x)
 
         #calculate loss
-        loss = set_loss(y_preds, y)
+        loss = set_loss(y_preds, y, epoch)
         testing_loss += loss.item()
 
     testing_loss /= len(test_loader)
