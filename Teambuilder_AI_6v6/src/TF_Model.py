@@ -142,14 +142,18 @@ class TeamBuilder(nn.Module):
         logits = self.fc_out(x)
         return logits
     
-    def generate(self, start_tokens, tokenizer, max_length=6, temperature=1.0, top_p=.9, top_k=20, min_k=H.min_k, dynamic_k=False, repetition_penalty=.25, weather_repetition_penalty=.25, hazard_rep_pen=.5):
+    def generate(self, start_tokens, tokenizer, max_length=H.team_size, temperature=1.0, top_p=.9, top_k=20, min_k=H.min_k, dynamic_k=False, repetition_penalty=.25, weather_repetition_penalty=.25, hazard_rep_pen=.5, track_gradients=False):
         self.eval()
         
         current_sequence = start_tokens
         batch_size = current_sequence.size(0)
+        log_probs_list = []  # Store log probabilities for RL
+
+        # Enable gradient tracking only when necessary
+        context_manager = torch.enable_grad() if track_gradients else torch.no_grad()
         
         while current_sequence.size(1) < max_length:
-            with torch.no_grad():
+            with context_manager:
                 current_sequence = current_sequence.to(torch.long)
                 logits = self(current_sequence)
                 next_token_logits = logits[:, -1, :]
@@ -255,8 +259,8 @@ class TeamBuilder(nn.Module):
                     count = (valid_probs > thresh).sum(dim=-1).float().mean().item()
                     if count >= min_k and count < k and dynamic_k:
                         k = int(math.ceil(count))
-                    print(f"Average number of valid labels with >{thresh*100}% chance: {count:.1f}")
-                print(f"k: {k}")
+                    #print(f"Average number of valid labels with >{thresh*100}% chance: {count:.1f}")
+                #print(f"k: {k}")
                 # Dynamic k calculation #
 
                 # Apply top-k only to valid options #
@@ -278,8 +282,10 @@ class TeamBuilder(nn.Module):
                 
                 # Add new Pokemon to teams
                 current_sequence = torch.cat([current_sequence, next_features], dim=1)
-        
-        return current_sequence.to(torch.long)
+        if not track_gradients:
+            return current_sequence.to(torch.long)
+        else:
+            return current_sequence.to(torch.long), probs
 
     def index_to_features(self, tokens, tokenizer):
         tokens_features = torch.zeros(H.BATCH_SIZE, 1, H.feature_size)

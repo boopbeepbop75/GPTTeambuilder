@@ -11,11 +11,10 @@ import Utils as U
 import Dataset_Class
 import json
 import math
-import RL_Model
 import random
 from itertools import permutations
 import Conversions
-import Environment
+import RL_Environment
 import Tokenizer
 import TF_Model
 import itertools
@@ -101,7 +100,7 @@ model.to(device)
 loss_fn = nn.CrossEntropyLoss() #Multilabel classification task
 optimizer = torch.optim.Adam(model.parameters(), lr=H.LEARNING_RATE)
 
-def get_bonus_weight(epoch, start_epoch=0, end_epoch=15, start_weight=0.0, end_weight=.8):
+def get_bonus_weight(epoch, start_epoch=0, end_epoch=15, start_weight=0.0, end_weight=.9):
     """
     Gradually increases the bonus weight from start_weight to end_weight over epochs
     """

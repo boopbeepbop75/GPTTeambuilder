@@ -131,9 +131,10 @@ def write_team_text(teams):
     with open(U.generated_teams, 'a') as f:
         f.write(text)
 
-if __name__ == "__main__":
-    with open(U.generated_teams, 'w') as f:
-        f.write("")
+def Model_Predict(write_teams=True):
+    if write_teams:
+        with open(U.generated_teams, 'w') as f:
+            f.write("")
     num_batches = 0
     i = 1
     #while num_batches < H.AMOUNT:
@@ -149,4 +150,9 @@ if __name__ == "__main__":
     i+=1
     '''except Exception as e:
         print(e)'''
-    write_team_text(teams)
+    if write_teams:
+        write_team_text(teams)
+    return teams
+
+if __name__ == "__main__":
+    Model_Predict()
