@@ -24,6 +24,7 @@ def format_data():
         teams_data = json.load(json_file)
 
     labeled_teams, known_pokemon = label_teams(teams_data) #Define pokemon archetypes and label teams
+    random.shuffle(labeled_teams)
     #Double teams for extra training data
     '''l_t_copy = []
     for team in labeled_teams:

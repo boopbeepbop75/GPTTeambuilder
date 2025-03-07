@@ -18,6 +18,7 @@ with open(U.known_pokemon, 'r') as j:
 
 teams_data = torch.load(U.team_tensors, weights_only=True)
 device = H.device
+model = H.RL_MODEL_NAME + '.pth'
 model = H.MODEL_NAME + '.pth'
 
 #Initialize model
@@ -68,7 +69,7 @@ def generate_teams(certain_mon=None): #Generate the teams starting with a random
     teams_batch = Model.generate(team_batch, 
                                  tokenizer, 
                                  temperature=H.temperature,
-                                 top_p=H.top_p,
+                                 min_p=H.min_p,
                                  top_k=H.top_k, 
                                  min_k = H.min_k, dynamic_k=H.dynamic_k,
                                  repetition_penalty=H.repetition_penalty, 
@@ -117,13 +118,15 @@ def write_team_text(teams):
     text = ""
     for team in teams:
         text += f"=== [gen{H.gen}{H.tier}] DGPT "
-        #text += f"{team[0]['name']}, {team[1]['name']}, {team[2]['name']}, {team[3]['name']}, {team[4]['name']}, {team[5]['name']};"
+        for i, mon in enumerate(team):
+            if i == 0:
+                text += mon['name']
+            else:
+                text += f", {mon['name']}"
+        text += "; "
         text += f"temp: {H.temperature}; "
-        text += f"redux: {H.temp_redux}; "
-        if H.dynamic_k:
-            text += f"k: Dynamic === \n\n"
-        else:
-            text += f"k: {H.top_k} === \n\n"
+        text += f"Min p: {H.min_p}; "
+        text+= "===\n\n"
 
         for i, mon in enumerate(team):
             text += write_mon_text(mon, i+1)

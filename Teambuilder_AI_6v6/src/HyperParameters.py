@@ -7,6 +7,8 @@ types = ["bug", "dark", "dragon", "electric", "fairy", "fighting", "fire", "flyi
             "ghost", "grass", "ground", "ice", "normal", "poison", "psychic", "rock", 
             "steel", "water", "none"]
 
+types_weak_rock = ['fire', 'bug', 'flying', 'ice']
+
 type_mapping = []
 
 type_num = 0
@@ -26,6 +28,7 @@ if tier != '1v1':
 else:
     team_size = 3
 MODEL_NAME = f'Model_gen_{gen}_{tier}_v{version}'
+RL_MODEL_NAME = f'Model_gen_{gen}_{tier}_v{version}_RL'
 feature_size = 55
 non_style_size = 6
 
@@ -36,26 +39,25 @@ DROPOUT_RATE = .5
 HIDDEN_UNITS = 40
 LEARNING_RATE = .001
 NUM_HEADS = 2
+NUM_LAYERS = 2
 loss_gap_threshold = 2
-loss_ratio_threshold = 1.5
-EPOCHS = 500
+loss_ratio_threshold = 2
+EPOCHS = 50
 PATIENCE = 5  # Number of epochs to wait before early stopping
-input_dim = 30 #3 pokemon / 30 vector attributes each
-input_dim_model_2 = 2*30
-output_dim = 60 #Attributes for 2 pokemon
+ENTROPY = .1
 
 ### Sampling Settings ###
 temperature = 1
 temp_redux = 1
 threshold=0.00
 thresholds = [0.001, 0.01, 0.05]
-top_p = .9
+min_p = .05
 top_k = 10000
 min_k = 6
 dynamic_k = False
 repetition_penalty = 1
-double_weather_penalty = 1
-hazard_setter_penalty = 1
+double_weather_penalty = 0
+hazard_setter_penalty = 0
 
 AMOUNT = 20
 
@@ -70,6 +72,14 @@ spiker = 12
 tspiker = 13
 spinner = 14
 defogger = 15
+choice = 16
+surprise = 22
+scarfer = 25
+zmove = 26
+booster = 27
+screens = 36
+sasher = 37
+boots = 41
 weather_start = -10
 weather_end = -2
 rain_setter = -10

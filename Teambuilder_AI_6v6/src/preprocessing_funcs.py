@@ -35,11 +35,11 @@ def make_state(pkmn):
                 for i, w in enumerate(weather_moves):
                     if move['name'] in w:
                         #print(f"weather effect: {w}; {move['name']}")
-                        if i == 1:
+                        if i == 1 and 'fire' not in pkmn['types']:
                             weather['rain'] = 1
                         elif i == 2:
                             weather['sand'] = 1
-                        elif i == 3:
+                        elif i == 3 and 'water' not in pkmn['types']:
                             weather['sun'] = 1 
                         elif i == 4:
                             weather['snow'] = 1
